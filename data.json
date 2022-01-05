@@ -3,18 +3,18 @@
 		"lat": 41.768139,
 		"long": -88.775528,
 		"desc": "Waterman PD"
-		"color": #0000FF
+		"color": `#0000FF`
 	},
 	{
 		"lat": 41.768722,
 		"long": -88.871806,
 		"desc": "Shabbona FD"
-		"color": #FF0000
+		"color": `#FF0000`
 	},
 	{
 		"lat": 41.790133,
 		"long": -88.940838,
 		"desc": "Lee VFD"
-		"color": #FF0000
+		"color": `#FF0000`
 	}
 ]
