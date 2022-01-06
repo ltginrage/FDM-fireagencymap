@@ -1,17 +1,86 @@
 [
+	{	"lat": 42.087062,
+		"long": -88.870628,
+		"desc": "Kirkland Fire Department \n Station: 1 of 1 \n MABAS Division: 6 - DeKalb County \n Type: Voulenteer \n EMS: ALS \n Dispatched by: DeKalb County Sheriffs Office (DeKalb Co ETSB)"
+	},
+	{	"lat": 42.099740,
+		"long": -88.758269,
+		"desc": "Genoa - Kingston FPD Station 2 - Kingston \n Station: 2 of 2 \n MABAS Division: 6 - DeKalb County \n Type: POC \n EMS: ALS \n Dispatched by: DeKalb County Sheriffs Office (DeKalb Co ETSB)"
+	},
+	{	"lat": 42.098688,
+		"long": -88.688479,
+		"desc": "Genoa - Kingston FPD Station 1 - Genoa \n Station: 1 of 2 \n MABAS Division: 6 - DeKalb County \n Type: POC \n EMS: ALS \n Dispatched by: DeKalb County Sheriffs Office (DeKalb Co ETSB)"
+	},
+	{	"lat": 42.098688,
+		"long": -88.688479,
+		"desc": "Genoa - Kingston FPD Rescue Station \n Station: 1 of 1 \n MABAS Division: 6 - DeKalb County \n Type: POC \n EMS: ALS \n Dispatched by: DeKalb County Sheriffs Office (DeKalb Co ETSB)"
+	},
+	{	"lat": 41.987220,
+		"long": -88.691730,
+		"desc": "Sycamore FD - Station 1 \n Station: 2 of 2 \n MABAS Division: 6 - DeKalb County \n Type: Career \n EMS: ALS \n Dispatched by: DeKalb County Sheriffs Office (DeKalb Co ETSB)"
+	},
+	{	"lat": 42.016510,
+		"long": -88.688970,
+		"desc": "Sycamore FD - Station 2 \n Station: 2 of 2 \n MABAS Division: 6 - DeKalb County \n Type: Career \n EMS: ALS \n Dispatched by: DeKalb County Sheriffs Office (DeKalb Co ETSB)"
+	},
+	{	"lat": 41.921910,
+		"long": -88.689920,
+		"desc": "Cortland FD \n Station: 1 of 1 \n MABAS Division: 6 - DeKalb County \n Type: POC \n EMS: ALS \n Dispatched by: DeKalb County Sheriffs Office (DeKalb Co ETSB)"
+	},
+	{	"lat": 41.930970,
+		"long": -88.744050,
+		"desc": "DeKalb FD - Station 1 \n Station: 1 of 3 \n MABAS Division: 6 - DeKalb County \n Type: Career \n EMS: ALS \n Dispatched By: DeKalb Police Department"
+	},
+	{	"lat": 41.915350,
+		"long": -88.748270,
+		"desc": "DeKalb FD - Station 2 \n Station: 2 of 3 \n MABAS Division: 6 - DeKalb County \n Type: Career \n EMS: ALS \n Dispatched By: DeKalb Police Department"
+	},
+	{	"lat": 41.953400,
+		"long": -88.769970,
+		"desc": "DeKalb FD - Station 3 \n Station: 3 of 3 \n MABAS Division: 6 - DeKalb County \n Type: Career \n EMS: ALS \n Dispatched By: DeKalb Police Department"
+	},
 	{
-		"lat": 41.768139,
-		"long": -88.775528,
-		"desc": "Waterman PD"
+		"lat": 41.931120,
+		"long": -88.861050,
+		"desc": "Malta FPD \n Station 1 of 1 \n MABAS Division: 6 - DeKalb County \n Type: Voulenteer \n EMS: ALS/7a-7p \n Dispatched by: DeKalb County Sheriffs Office (DeKalb Co ETSB)"
+	},
+	{
+		"lat": 41.779290,
+		"long": -88.642050,
+		"desc": "Hinckley FPD \n Station 1 of 1 \n MABAS Division: 6 - DeKalb County \n Type: POC \n EMS: ALS \n Dispatched by: DeKalb County Sheriffs Office (DeKalb Co ETSB)"
+	},
+	{
+		"lat": 41.769740,
+		"long": -88.774850,
+		"desc": "Waterman CFPD \n Station 1 of 1 \n MABAS Division: 6 - DeKalb County \n Type: POC \n EMS: BLS \n Dispatched by: DeKalb County Sheriffs Office (DeKalb Co ETSB)"
 	},
 	{
 		"lat": 41.768722,
 		"long": -88.871806,
-		"desc": "Shabbona FD"
+		"desc": "Shabbona FD \n Station 1 of 1 \n MABAS Division: 6 - DeKalb County \n Type: POC \n EMS: ALS \n Dispatched by: DeKalb County Sheriffs Office (DeKalb Co ETSB)"
 	},
 	{
 		"lat": 41.790133,
 		"long": -88.940838,
-		"desc": "Lee VFD"
+		"desc": "Lee VFD \n Station 1 of 1 \n MABAS Division: 6 - DeKalb County \n Type: Voulenteer \n EMS: BLS/Ambulance Service provided by Shabbona FD \n Dispatched by: DeKalb County Sheriffs Office (DeKalb Co ETSB)"
+	},
+	{	"lat": 42.614360,
+		"long": -88-796930,
+		"desc": "Leland FPD \n Station 1 of 1 \n MABAS Division: 25 - La Salle County \n Type: POC \n EMS: BLS \n Dispatched by: DeKalb County Sheriffs Office (DeKalb Co ETSB)"
+	},
+	{
+		"lat": 41.632580,
+		"long": -88.683760,
+		"desc": "Somonauk FD - Headquaters \n Station 1 of 2 \n MABAS Division: 6 - DeKalb County \n Type: POC \n EMS: ALS (PSI) \n Dispatched by: DeKalb County Sheriffs Office (DeKalb Co ETSB)"
+	},
+	{
+		"lat": 41.635140,
+		"long": -88.681730,
+		"desc": "Somonauk FD - Engine Compnay 311 \n Station 2 of 2 \n MABAS Division: 6 - DeKalb County \n Type: Voulenteer \n EMS: ALS (PSI) \n Dispatched by: DeKalb County Sheriffs Office (DeKalb Co ETSB)"
+	},
+	{
+		"lat": 41.645170,
+		"long": -88.617640,
+		"desc": "Sandwich CFPD \n Station 1 of 1 \n MABAS Division: 6 - DeKalb County \n Type: EMS Carrer/FF-POC \n EMS: ALS \n Dispatched by: KenCom 911 (Kendall Co ETSB)"
 	}
 ]
