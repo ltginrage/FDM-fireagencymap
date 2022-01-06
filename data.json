@@ -75,7 +75,7 @@
 		"desc": "Lee VFD \n Station 1 of 1 \n MABAS Division: 6 - DeKalb County \n Type: Voulenteer \n EMS: BLS/Ambulance Service provided by Shabbona FD \n Dispatched by: DeKalb County Sheriffs Office (DeKalb Co ETSB)"
 	},
 	{	
-		"lat": 42.614360,
+		"lat": 41.614360,
 		"long": -88.796930,
 		"desc": "Leland FPD \n Station 1 of 1 \n MABAS Division: 25 - La Salle County \n Type: POC \n EMS: BLS \n Dispatched by: DeKalb County Sheriffs Office (DeKalb Co ETSB)"
 	},
@@ -93,5 +93,190 @@
 		"lat": 41.645170,
 		"long": -88.617640,
 		"desc": "Sandwich CFPD \n Station 1 of 1 \n MABAS Division: 6 - DeKalb County \n Type: EMS Carrer/FF-POC \n EMS: ALS \n Dispatched by: KenCom 911 (Kendall Co ETSB)"
+	},
+	{
+		"lat": 61.709760,
+		"long": -148.894680,
+		"desc": "Sutton VFD Station 1-1"
+	},
+	{
+		"lat": 61.711090,
+		"long": -148.894650,
+		"desc": "Sutton VFD Station 1-2"
+	},
+	{
+		"lat": 61.544930,
+		"long": -149.033000,
+		"desc": "Butte VFD Station 2-1"
+	},
+	{
+		"lat": 61.485610,
+		"long": -148.899080,
+		"desc": "Butte VFD Station 2-2"
+	},
+	{
+		"lat": 61.600220,
+		"long": -149.117660,
+		"desc": "Palmer FR Station 3-1"
+	},
+	{
+		"lat": 61.649740,
+		"long": -149.112790,
+		"desc": "Palmer FR Station 3-2"
+	},
+	{
+		"lat": 61.628700,
+		"long": -149.050900,
+		"desc": "Palmer FR Station 3-3"
+	},
+	{
+		"lat": 61.596530,
+		"long": -149.092030,
+		"desc": "Palmer FR Station 3-4"
+	},
+	{
+		"lat": 61.685590,
+		"long": -149.243290,
+		"desc": "Palmer FR Station 3-5"
+	},
+	{
+		"lat": 61.592730,
+		"long": -149.10133,
+		"desc": "Palmer FR Station 3-6"
+	},
+	{
+		"lat": 61.561920,
+		"long": -149.285650,
+		"desc": "Central Mat - Su FD Station 5-1"
+	},
+	{
+		"lat": 61.614940,
+		"long": -149.255170,
+		"desc": "Central Mat - Su FD Station 5-2"
+	},
+	{
+		"lat": 61.583980,
+		"long": -149.451860,
+		"desc": "Central Mat - Su FD Station 6-1"
+	},
+	{
+		"lat": 61.530580,
+		"long": -149.60792,
+		"desc": "Central Mat - Su FD Station 6-2"
+	},
+	{
+		"lat": 61.469980,
+		"long": -149.72443,
+		"desc": "Central Mat - Su FD Station 6-3"
+	},
+	{
+		"lat": 61.427990,
+		"long": -149.904290,
+		"desc": "Central Mat - Su FD Station 6-4"
+	},
+	{
+		"lat": 61.586240,
+		"long": -149.361050,
+		"desc": "Central Mat - Su FD Station 6-5"
+	},
+	{
+		"lat": 61.528370,
+		"long": -149.504400,
+		"desc": "Central Mat - Su FD Station 6-6"
+	},
+	{
+		"lat": 61.108700,
+		"long": -149.626130,
+		"desc": "West Lakes FD Station 7-1"
+	},
+	{
+		"lat": 61.628690,
+		"long": -149.512620,
+		"desc": "West Lakes FD Station 7-2"
+	},
+	{
+		"lat": 91.569940,
+		"long": -149.704190,
+		"desc": "West Lakes FD Station 7-3"
+	},
+	{
+		"lat": 61.570020,
+		"long": -149.700880,
+		"desc": "West Lakes FD Station 7-9 (EMS)"
+	},
+	{
+		"lat": 61.548610,
+		"long": -149.817830,
+		"desc": "West Lakes FD Station 8-1"
+	},
+	{
+		"lat": 61.553160,
+		"long": -149.931990,
+		"desc": "West Lakes FD Station 8-2"
+	},
+	{
+		"lat": 61.631200,
+		"long": -149.804780,
+		"desc": "Houston FD (Of Alaska) Station 9-1"
+	},
+	{
+		"lat": 61.574650,
+		"long": -149.754190,
+		"desc": "Houston FD (Of Alaska) Station 9-2"
+	},
+	{
+		"lat": 62.318760,
+		"long": -150.106900,
+		"desc": "Talkeetna VFD Station 11-1"
+	},
+	{
+		"lat": 62.135500,
+		"long": -150.042700,
+		"desc": "Talkeetna VFD Station 11-2"
+	},
+	{
+		"lat": 62.135510,
+		"long": -150.042690,
+		"desc": "Talkeetna VFD Station 11-9 (EMS)"
+	},
+	{
+		"lat": 61.746060,
+		"long": -150.050930,
+		"desc": "Willow FSA Station 12-1"
+	},
+	{
+		"lat": 61.771850,
+		"long": -149.798890,
+		"desc": "Willow FSA Station 12-2"
+	},
+	{
+		"lat": 61.746150,
+		"long": -150.05071,
+		"desc": "Willow FSA Station 12-3"
+	},
+	{
+		"lat": 61.762430,
+		"long": -149.935190,
+		"desc": "Willow FSA Station 12-4"
+	},
+	{
+		"lat": 61.735750,
+		"long": -150.119710,
+		"desc": "Willow FSA Station 12-5"
+	},
+	{
+		"lat": 61.684400,
+		"long": -149.971550,
+		"desc": "Willow FSA Station 12-6"
+	},
+	{
+		"lat": 61.986270,
+		"long": -149.947640,
+		"desc": "Caswell FSA Station 13-1"
+	},
+	{
+		"lat": 62.308000,
+		"long": -150.266250,
+		"desc": "Trapper Creek Ambulance Station 14-1"
 	}
 ]
