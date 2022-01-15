@@ -107,7 +107,7 @@
   {
     "lat": 42.126453,
     "long": -89.577498,
-    "desc": "Forreston Fire Department"
+    "desc": ""
   },
   {
     "lat": 42.009346,
@@ -292,7 +292,7 @@
   {
     "lat": 38.544571,
     "long": -89.859332,
-    "desc": "Scott AFB Fire Department"
+    "desc": ""
   },
   {
     "lat": 41.812289,
@@ -377,7 +377,7 @@
   {
     "lat": 38.734384,
     "long": -88.085742,
-    "desc": "Olney Fire Department"
+    "desc": ""
   },
   {
     "lat": 42.045133,
@@ -662,7 +662,7 @@
   {
     "lat": 40.130937,
     "long": -88.183598,
-    "desc": "Carroll Fire Protection District"
+    "desc": ""
   },
   {
     "lat": 40.627778,
@@ -672,7 +672,7 @@
   {
     "lat": 40.610745,
     "long": -89.463797,
-    "desc": "Morton Fire Department"
+    "desc": ""
   },
   {
     "lat": 40.705551,
@@ -727,7 +727,7 @@
   {
     "lat": 41.970942,
     "long": -88.021404,
-    "desc": "Itasca Fire Department"
+    "desc": ""
   },
   {
     "lat": 42.109944,
@@ -747,12 +747,12 @@
   {
     "lat": 37.711167,
     "long": -89.198146,
-    "desc": "Carbondale Township Fire Department"
+    "desc": ""
   },
   {
     "lat": 41.896841,
     "long": -88.101621,
-    "desc": "Carol Stream Fire Department Station 29"
+    "desc": "Fire Department"
   },
   {
     "lat": 42.237866,
@@ -792,7 +792,7 @@
   {
     "lat": 41.764323,
     "long": -88.456351,
-    "desc": "Sugar Grove Fire Department"
+    "desc": ""
   },
   {
     "lat": 42.209195,
@@ -802,12 +802,12 @@
   {
     "lat": 42.411646,
     "long": -87.877552,
-    "desc": "Waukegan Fire Department Station 5"
+    "desc": ""
   },
   {
     "lat": 42.488853,
     "long": -90.534397,
-    "desc": "Menominee - Dunleith Fire  Department Station 1"
+    "desc": ""
   },
   {
     "lat": 42.496103,
@@ -850,14 +850,14 @@
     "desc": "Urbana Fire Station 2"
   },
   {
-    "lat": 38.793619,
-    "long": -89.395030,
-    "desc": "Edwardsville Fire Department Engine House 2"
+    "lat": 52.113918,
+    "long": -88.182891,
+    "desc": "Station 2"
   },
   {
     "lat": 40.473349,
     "long": -88.909077,
-    "desc": "Bloomington Fire Department Station 6 (Airport)"
+    "desc": ""
   },
   {
     "lat": 39.828406,
@@ -910,6 +910,11 @@
     "desc": "McHenry Township Fire Protection District Station 1"
   },
   {
+    "lat": 41.710373,
+    "long": -88.214922,
+    "desc": ""
+  },
+  {
     "lat": 42.27346,
     "long": -88.989415,
     "desc": "Rockford Fire Station 5"
@@ -960,14 +965,14 @@
     "desc": "Berwyn Fire Department Station #3"
   },
   {
-    "lat": 41.802135,
+    "lat": 84.802136,
     "long": -87.758694,
     "desc": "Central Stickney Fire Department"
   },
   {
     "lat": 37.732144,
-    "long": -88.932850,
-    "desc": "Marion Fire Department"
+    "long": -88.93285,
+    "desc": ""
   },
   {
     "lat": 37.729429,
@@ -992,7 +997,7 @@
   {
     "lat": 42.046763,
     "long": -89.432335,
-    "desc": "Mount Morris Fire Protection District"
+    "desc": ""
   },
   {
     "lat": 42.388125,
@@ -1102,12 +1107,12 @@
   {
     "lat": 41.556745,
     "long": -87.880943,
-    "desc": "Mokena Fire Protection District Station 3"
+    "desc": ""
   },
   {
     "lat": 41.569263,
     "long": -88.039561,
-    "desc": "Lockport Fire Department Station 4"
+    "desc": ""
   },
   {
     "lat": 42.007255,
@@ -1117,12 +1122,12 @@
   {
     "lat": 39.77776,
     "long": -89.644711,
-    "desc": "Springfield Fire Department Station 8"
+    "desc": ""
   },
   {
     "lat": 39.71444,
     "long": -89.629254,
-    "desc": "Springfield Fire Department Station 11"
+    "desc": ""
   },
   {
     "lat": 42.091147,
@@ -1147,12 +1152,12 @@
   {
     "lat": 41.616854,
     "long": -87.858054,
-    "desc": "Orland Fire Protection District"
+    "desc": ""
   },
   {
     "lat": 42.447173,
     "long": -88.23507,
-    "desc": "Spring Grove Fire Protection District"
+    "desc": ""
   },
   {
     "lat": 39.927706,
@@ -1207,7 +1212,7 @@
   {
     "lat": 40.084962,
     "long": -88.517416,
-    "desc": "Mid-Piatt Fire Protection District"
+    "desc": ""
   },
   {
     "lat": 38.906564,
@@ -1262,7 +1267,7 @@
   {
     "lat": 37.615442,
     "long": -88.708327,
-    "desc": "Stonefront Fire Department"
+    "desc": ""
   },
   {
     "lat": 41.627651,
@@ -1302,7 +1307,7 @@
   {
     "lat": 42.175816,
     "long": -88.304885,
-    "desc": "Algonquin - Lake in the Hills Fire Protection District"
+    "desc": ""
   },
   {
     "lat": 41.527142,
@@ -1350,14 +1355,14 @@
     "desc": "Darien-Woodridge Fire Protection Station 90"
   },
   {
-    "lat": 41.293230,
+    "lat": 41.29323,
     "long": -89.506126,
-    "desc": "Tiskilwa Fire Department"
+    "desc": ""
   },
   {
     "lat": 38.551923,
     "long": -90.038042,
-    "desc": "Belleville Fire Department"
+    "desc": ""
   },
   {
     "lat": 42.199771,
@@ -1372,32 +1377,32 @@
   {
     "lat": 41.779416,
     "long": -88.036613,
-    "desc": "Darien - Woodridge Fire District"
+    "desc": ""
   },
   {
     "lat": 41.950963,
     "long": -88.078783,
-    "desc": "Bloomingdale Fire Department Station 1 - HQ"
+    "desc": ""
   },
   {
     "lat": 41.749334,
     "long": -88.003214,
-    "desc": "Darien-Woodridge Fire Protection Station 89"
+    "desc": ""
   },
   {
     "lat": 39.930674,
     "long": -88.949257,
-    "desc": "Hickory Point Fire Protection District"
+    "desc": ""
   },
   {
     "lat": 40.633753,
     "long": -90.166643,
-    "desc": "Fairview Fire Protection District"
+    "desc": ""
   },
   {
     "lat": 40.820044,
     "long": -89.624189,
-    "desc": "Peoria Fire Department Station 20"
+    "desc": ""
   },
   {
     "lat": 38.888164,
@@ -1445,9 +1450,14 @@
     "desc": "Aurora Fire Station #3"
   },
   {
+    "lat": 38.535468,
+    "long": -89.135415,
+    "desc": ""
+  },
+  {
     "lat": 38.518089,
     "long": -89.135183,
-    "desc": "Centrailia Fire Protection District"
+    "desc": ""
   },
   {
     "lat": 41.788241,
@@ -1457,17 +1467,17 @@
   {
     "lat": 40.161711,
     "long": -89.385843,
-    "desc": "Lincoln Rural Fire Rescue"
+    "desc": ""
   },
   {
     "lat": 40.162388,
     "long": -89.38594,
-    "desc": "Lincoln County Paramedic Ambulance"
+    "desc": ""
   },
   {
-    "lat": 38.748842,
-    "long": -89.776560,
-    "desc": "Marine Fire District"
+    "lat": 38.748843,
+    "long": -89.77656,
+    "desc": ""
   },
   {
     "lat": 42.378674,
@@ -1512,32 +1522,37 @@
   {
     "lat": 41.780598,
     "long": -87.894158,
-    "desc": "Pleasantview Fire Protection District"
+    "desc": ""
+  },
+  {
+    "lat": 41.780593,
+    "long": -87.894614,
+    "desc": ""
   },
   {
     "lat": 38.828114,
     "long": -89.666706,
-    "desc": "Grantfork Fire Department"
+    "desc": ""
   },
   {
     "lat": 42.280823,
     "long": -89.6225,
-    "desc": "Freeport Fire Department Central Fire Station"
+    "desc": "Central Fire Station"
   },
   {
     "lat": 39.160371,
     "long": -89.662295,
-    "desc": "Litchfield Westside Emergeny Services #2"
+    "desc": "Westside Emergeny Services #2"
   },
   {
     "lat": 40.06282,
     "long": -88.251413,
-    "desc": "Savoy Village Fire Department"
+    "desc": ""
   },
   {
     "lat": 38.895477,
     "long": -89.83986,
-    "desc": "Hamel Community Fire Protection District Fire - Ambulance"
+    "desc": ""
   },
   {
     "lat": 42.371004,
@@ -1545,29 +1560,29 @@
     "desc": "North Boone Fire Protection District"
   },
   {
-    "lat": 38.762070,
+    "lat": 38.76207,
     "long": -90.088072,
     "desc": "Mitchell Fire Dept"
   },
   {
     "lat": 41.525522,
     "long": -88.129286,
-    "desc": "Joliet Fire Department Station No. 6"
+    "desc": ""
   },
   {
-    "lat": 38.377600,
+    "lat": 38.3776,
     "long": -89.794638,
     "desc": "Fayetteville Fire Department"
   },
   {
     "lat": 38.636198,
     "long": -90.026787,
-    "desc": "Caseyville Fire Department"
+    "desc": ""
   },
   {
     "lat": 41.993922,
     "long": -88.227128,
-    "desc": "Bartlett Fire Protection District Station 3"
+    "desc": ""
   },
   {
     "lat": 38.540673,
@@ -1577,17 +1592,27 @@
   {
     "lat": 39.128227,
     "long": -89.817334,
-    "desc": "Gillespie Fire Department"
+    "desc": ""
   },
   {
-    "lat": 41.716100,
+    "lat": 40.699972,
+    "long": -89.459846,
+    "desc": "Training Facility"
+  },
+  {
+    "lat": 40.708609,
+    "long": -89.438408,
+    "desc": "Training Facility"
+  },
+  {
+    "lat": 41.7161,
     "long": -88.055677,
-    "desc": "Bolingbrook Fire Department Station 3"
+    "desc": ""
   },
   {
     "lat": 40.453731,
     "long": -88.96259,
-    "desc": "Bloomington Fire Department Station 2"
+    "desc": "Fire Station Number 2"
   },
   {
     "lat": 39.960491,
@@ -1600,9 +1625,14 @@
     "desc": "Warrenville Fire Department"
   },
   {
-    "lat": 42.046700,
+    "lat": 41.819597,
+    "long": -88.173109,
+    "desc": ""
+  },
+  {
+    "lat": 42.0467,
     "long": -88.269617,
-    "desc": "Elgine Fire Department Station"
+    "desc": ""
   },
   {
     "lat": 40.918894,
@@ -1612,7 +1642,7 @@
   {
     "lat": 42.138333,
     "long": -87.96949,
-    "desc": "Buffalo Grove Fire Department Station 25"
+    "desc": ""
   },
   {
     "lat": 41.834865,
@@ -1622,7 +1652,7 @@
   {
     "lat": 42.091434,
     "long": -90.155271,
-    "desc": "Savanna Fire Department"
+    "desc": ""
   },
   {
     "lat": 41.807368,
@@ -1675,7 +1705,7 @@
     "desc": "Palos Park Fire Department"
   },
   {
-    "lat": 41.513460,
+    "lat": 41.51346,
     "long": -87.961986,
     "desc": "New Lenox Fire Department"
   },
@@ -1742,7 +1772,7 @@
   {
     "lat": 42.222722,
     "long": -88.367573,
-    "desc": "Crystal Lake Fire Department Station No. 4"
+    "desc": ""
   },
   {
     "lat": 38.656236,
@@ -1772,22 +1802,27 @@
   {
     "lat": 40.532479,
     "long": -88.968742,
-    "desc": "Normal Fire Department Station 3"
+    "desc": "Fire Station 3"
   },
   {
     "lat": 42.318477,
     "long": -90.223401,
-    "desc": "Elizabeth Fire Department"
+    "desc": ""
+  },
+  {
+    "lat": 41.494407,
+    "long": -90.585793,
+    "desc": "Fire Station No. 5"
   },
   {
     "lat": 41.712486,
     "long": -88.375492,
-    "desc": "Oswego Fire Protection District Station 3"
+    "desc": ""
   },
   {
     "lat": 39.934255,
     "long": -91.401652,
-    "desc": "Quincy Fire Department - Central Station"
+    "desc": ""
   },
   {
     "lat": 41.48633,
@@ -1797,12 +1832,12 @@
   {
     "lat": 40.143282,
     "long": -89.193827,
-    "desc": "Beason Fire Protection District"
+    "desc": ""
   },
   {
     "lat": 41.333426,
     "long": -89.088432,
-    "desc": "La Salle Fire Department"
+    "desc": ""
   },
   {
     "lat": 38.807001,
@@ -1837,7 +1872,7 @@
   {
     "lat": 41.851163,
     "long": -88.292941,
-    "desc": "Batavia Fire Department Station 1"
+    "desc": ""
   },
   {
     "lat": 38.947075,
@@ -1852,32 +1887,32 @@
   {
     "lat": 39.164697,
     "long": -88.381215,
-    "desc": "Montrose Fire Protection Department"
+    "desc": ""
   },
   {
     "lat": 40.315619,
     "long": -88.13644,
-    "desc": "Rantoul Fire Department Station 2"
+    "desc": ""
   },
   {
     "lat": 38.947566,
     "long": -90.588929,
-    "desc": "Brussels Fire Department"
+    "desc": ""
   },
   {
     "lat": 41.991321,
     "long": -87.898641,
-    "desc": "Chicago Fire Department O'Hare ARFF ARFF Station #2"
+    "desc": "Chicago Fire Department ARFF Station #2"
   },
   {
     "lat": 41.846101,
     "long": -88.332824,
-    "desc": "Batavia Fire Department Station 2"
+    "desc": ""
   },
   {
     "lat": 39.118694,
     "long": -90.326217,
-    "desc": "Jerseyville Fire Department"
+    "desc": ""
   },
   {
     "lat": 41.638806,
@@ -1887,12 +1922,12 @@
   {
     "lat": 41.806822,
     "long": -88.325836,
-    "desc": "North Aurora Fire Department Station 1"
+    "desc": ""
   },
   {
     "lat": 41.910914,
     "long": -88.139231,
-    "desc": "Carol Stream Fire Protection District Station 28"
+    "desc": "Kuhn Road Fire Station"
   },
   {
     "lat": 38.492712,
@@ -1957,12 +1992,12 @@
   {
     "lat": 42.294134,
     "long": -89.612046,
-    "desc": "Freeport City Fire Department Station #2"
+    "desc": "Fire Station #2"
   },
   {
     "lat": 42.29016,
     "long": -89.651724,
-    "desc": "Freeport City Fire Department Station #1"
+    "desc": "Fire Station #1"
   },
   {
     "lat": 42.412834,
@@ -1977,7 +2012,7 @@
   {
     "lat": 37.838766,
     "long": -88.615505,
-    "desc": "Galatia Voulenteer Fire Department & Rescue Squad"
+    "desc": ""
   },
   {
     "lat": 41.543248,
@@ -1987,7 +2022,7 @@
   {
     "lat": 39.041821,
     "long": -90.25151,
-    "desc": "Delhi Fire Department"
+    "desc": ""
   },
   {
     "lat": 42.076842,
@@ -2052,7 +2087,7 @@
   {
     "lat": 41.33972,
     "long": -87.794874,
-    "desc": "Peotone Fire Protection District"
+    "desc": ""
   },
   {
     "lat": 41.871575,
@@ -2065,14 +2100,14 @@
     "desc": "Lake Villa Fire Department"
   },
   {
-    "lat": 42.051448,
+    "lat": 84.051448,
     "long": -88.337355,
-    "desc": "Elgin Fire Department Engine Co No. 3"
+    "desc": ""
   },
   {
     "lat": 39.908111,
     "long": -87.996308,
-    "desc": "Broadlands Fire Department*"
+    "desc": ""
   },
   {
     "lat": 41.774406,
@@ -2092,12 +2127,12 @@
   {
     "lat": 40.798312,
     "long": -90.537808,
-    "desc": "Abingdon Fire Protection District - Berwick Station"
+    "desc": ""
   },
   {
     "lat": 41.596051,
     "long": -87.978967,
-    "desc": "Homer Township Fire Protection District"
+    "desc": ""
   },
   {
     "lat": 42.019095,
@@ -2107,7 +2142,7 @@
   {
     "lat": 41.994458,
     "long": -88.296613,
-    "desc": "South Elgin Fire Department Station 2?"
+    "desc": ""
   },
   {
     "lat": 42.277272,
@@ -2118,6 +2153,11 @@
     "lat": 40.945012,
     "long": -90.180125,
     "desc": "Appleton Fire Station"
+  },
+  {
+    "lat": 41.763986,
+    "long": -88.444131,
+    "desc": ""
   },
   {
     "lat": 41.886218,
@@ -2132,12 +2172,12 @@
   {
     "lat": 41.930414,
     "long": -88.156199,
-    "desc": "Carol Stream Fire Protection Squad Co No. 27"
+    "desc": ""
   },
   {
     "lat": 41.942267,
     "long": -88.197152,
-    "desc": "Bloomingdale Fire Protection No. 1"
+    "desc": ""
   },
   {
     "lat": 41.93796,
@@ -2147,7 +2187,7 @@
   {
     "lat": 41.962952,
     "long": -88.291467,
-    "desc": "Fox River & Countryside Fire Protection District No. 3"
+    "desc": "Fox River & Countryside Fire Protection District"
   },
   {
     "lat": 41.979537,
@@ -2157,17 +2197,17 @@
   {
     "lat": 41.98472,
     "long": -88.346947,
-    "desc": "South Elgin & Countryside Fire Protection District No. 22"
+    "desc": ""
   },
   {
     "lat": 42.277584,
     "long": -89.137166,
-    "desc": "Rockford Fire Department Station 6"
+    "desc": "Fire Station Number 6"
   },
   {
     "lat": 42.274071,
     "long": -89.043504,
-    "desc": "Rockford Fire Department Station 10"
+    "desc": "Fire Station Number 10"
   },
   {
     "lat": 42.251806,
@@ -2182,12 +2222,12 @@
   {
     "lat": 42.243754,
     "long": -89.030672,
-    "desc": "Rockford Fire Department Station 11"
+    "desc": "Fire Station Number 11"
   },
   {
     "lat": 37.730064,
     "long": -89.236763,
-    "desc": "Carbondale Fire Department Station 2"
+    "desc": ""
   },
   {
     "lat": 41.479953,
@@ -2212,7 +2252,7 @@
   {
     "lat": 39.944104,
     "long": -88.457201,
-    "desc": "Ivesdale Fire Protection District"
+    "desc": ""
   },
   {
     "lat": 39.970361,
@@ -2282,18 +2322,17 @@
   {
     "lat": 38.695538,
     "long": -90.141783,
-    "desc": "United States Steel Fire Brigade"
+    "desc": "Fire Station"
   },
   {
     "lat": 39.984299,
     "long": -88.268864,
-    "desc": "Tolono Fire Department West Station"
+    "desc": "West Side Fire Station"
   },
   {
     "lat": 41.536415,
     "long": -88.098623,
-    "desc": "Joliet Fire Department Station No. 5"
-	"
+    "desc": ""
   },
   {
     "lat": 40.104569,
@@ -2303,27 +2342,27 @@
   {
     "lat": 41.020585,
     "long": -90.354835,
-    "desc": "Henderson Township Fire Department"
+    "desc": ""
   },
   {
     "lat": 41.107696,
     "long": -90.396688,
-    "desc": "Rio Fire Department"
+    "desc": ""
   },
   {
     "lat": 42.18312,
     "long": -88.402797,
-    "desc": "Huntley Fire Department Station 2"
+    "desc": "Huntley Fire Department Station#2"
   },
   {
     "lat": 39.985342,
     "long": -88.258573,
-    "desc": "Tolono Fire Department - East Station"
+    "desc": "East Side Fire Station"
   },
   {
     "lat": 41.941496,
     "long": -89.122819,
-    "desc": "Ogle - Lee Fire Protection District - Flagg Center"
+    "desc": "Lee-Ogle Fire Protection Dist, Flagg Center"
   },
   {
     "lat": 41.589762,
@@ -2338,12 +2377,17 @@
   {
     "lat": 41.507059,
     "long": -90.58081,
-    "desc": "Rock Island Fire Department - Central Station"
+    "desc": "Central Fire Station"
   },
   {
     "lat": 42.220702,
     "long": -87.873914,
     "desc": "Lake Forest Fire Station #2"
+  },
+  {
+    "lat": 41.41108,
+    "long": -90.498568,
+    "desc": ""
   },
   {
     "lat": 37.831964,
@@ -2358,12 +2402,12 @@
   {
     "lat": 40.559901,
     "long": -90.033333,
-    "desc": "Canton Fire Department"
+    "desc": ""
   },
   {
     "lat": 42.338095,
     "long": -87.912599,
-    "desc": "Waukegan Fire Department - Station 2"
+    "desc": ""
   },
   {
     "lat": 41.771268,
@@ -2383,7 +2427,7 @@
   {
     "lat": 38.902516,
     "long": -90.070812,
-    "desc": "Cottage Hills Fire Department"
+    "desc": ""
   },
   {
     "lat": 41.715798,
@@ -2398,17 +2442,22 @@
   {
     "lat": 41.421213,
     "long": -87.98705,
-    "desc": "Manhattan Fire Department Station 81"
+    "desc": ""
   },
   {
     "lat": 41.517537,
     "long": -90.357475,
-    "desc": "Barstow Fire Department"
+    "desc": ""
   },
   {
     "lat": 41.551788,
     "long": -90.362057,
-    "desc": "Rapids City Fire Protection District"
+    "desc": ""
+  },
+  {
+    "lat": 41.612774,
+    "long": -90.29089,
+    "desc": ""
   },
   {
     "lat": 41.790488,
@@ -2438,7 +2487,7 @@
   {
     "lat": 40.487977,
     "long": -88.941409,
-    "desc": "Bloomington Fire Department Station #3"
+    "desc": "Fire Station #3"
   },
   {
     "lat": 41.931219,
@@ -2448,7 +2497,7 @@
   {
     "lat": 41.405994,
     "long": -90.561444,
-    "desc": "Coyne Center Fire Department"
+    "desc": ""
   },
   {
     "lat": 41.453075,
@@ -2503,7 +2552,7 @@
   {
     "lat": 38.969303,
     "long": -90.075901,
-    "desc": "Fosterburg Fire Department Station 1"
+    "desc": ""
   },
   {
     "lat": 42.2522,
