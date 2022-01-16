@@ -1380,8 +1380,8 @@
     "desc": "Cedar Point Fire Department"
   },
   {
-    "lat": 32.377907,
-    "long": -89.636424,
+    "lat": 42.377728,
+    "long": -89.636267,
     "desc": "Cedarville Fire Department"
   },
   {
@@ -1390,8 +1390,8 @@
     "desc": "Central Adams County Fire Protection District"
   },
   {
-    "lat": 84.802136,
-    "long": -87.758694,
+    "lat": 41.802059,
+    "long": -87.75849,
     "desc": "Central Stickney Fire Department"
   },
   {
@@ -1910,7 +1910,7 @@
     "desc": "Chicago Fire Department Engine Company 70"
   },
   {
-    "lat": 91.995103,
+    "lat": 41.995103,
     "long": -87.699385,
     "desc": "Chicago Fire Department Engine Company 71"
   },
@@ -9653,5 +9653,1960 @@
     "lat": 42.445834,
     "long": -87.827564,
     "desc": "Zion Fire Station #1"
+  },
+  {
+    "lat": 51.87006,
+    "long": -176.642,
+    "desc": "Adak Volunteer Fire Department"
+  },
+  {
+    "lat": 56.94135,
+    "long": -154.176,
+    "desc": "Akhiok Volunteer Fire Department"
+  },
+  {
+    "lat": 60.90972,
+    "long": -161.433,
+    "desc": "Akiachak Volunteer Fire Department"
+  },
+  {
+    "lat": 60.9073,
+    "long": -161.224,
+    "desc": "Akiak Volunteer Fire Department"
+  },
+  {
+    "lat": 54.1338,
+    "long": -165.777,
+    "desc": "Akutan Volunteer Fire Department"
+  },
+  {
+    "lat": 62.68477,
+    "long": -164.665,
+    "desc": "Alakanuk Volunteer Fire Department"
+  },
+  {
+    "lat": 64.05403,
+    "long": -145.735,
+    "desc": "Alaska Division of Forestry Delta Area Office"
+  },
+  {
+    "lat": 60.49796,
+    "long": -151.015,
+    "desc": "Alaska Division of Forestry Fire Station - Soldotna"
+  },
+  {
+    "lat": 62.04315,
+    "long": -145.427,
+    "desc": "Alaska Division of Forestry Northern Region Valdez - Copper River Area Office"
+  },
+  {
+    "lat": 59.27924,
+    "long": -158.622,
+    "desc": "Aleknagik Volunteer Fire Department"
+  },
+  {
+    "lat": 61.08239,
+    "long": -146.402,
+    "desc": "Alyeska Pipeline Service Company Fire and Rescue"
+  },
+  {
+    "lat": 53.89412,
+    "long": -166.539901,
+    "desc": "Amaknak Fire Hall"
+  },
+  {
+    "lat": 67.08835,
+    "long": -157.86,
+    "desc": "Ambler Volunteer Fire Department"
+  },
+  {
+    "lat": 59.78002,
+    "long": -151.837,
+    "desc": "Anchor Point Volunteer Fire Department"
+  },
+  {
+    "lat": 61.20933,
+    "long": -149.747,
+    "desc": "Anchorage Fire Department Station 6"
+  },
+  {
+    "lat": 64.34244,
+    "long": -149.192,
+    "desc": "Anderson Volunteer Fire Department"
+  },
+  {
+    "lat": 64.34227,
+    "long": -149.192,
+    "desc": "Anderson Volunteer Fire Department and Emergency Medical Services"
+  },
+  {
+    "lat": 57.50254,
+    "long": -134.585,
+    "desc": "Angoon Volunteer Fire Department"
+  },
+  {
+    "lat": 61.57646,
+    "long": -159.552,
+    "desc": "Aniak Volunteer Fire Department"
+  },
+  {
+    "lat": 60.78989,
+    "long": -148.814,
+    "desc": "Anton Anderson Memorial Tunnel Fire Department"
+  },
+  {
+    "lat": 62.65252,
+    "long": -160.199,
+    "desc": "Anvik Volunteer Fire Department"
+  },
+  {
+    "lat": 68.12576,
+    "long": -145.538,
+    "desc": "Arctic Village Volunteer Fire Department"
+  },
+  {
+    "lat": 52.2151,
+    "long": -174.207,
+    "desc": "Atka Volunteer Fire Department"
+  },
+  {
+    "lat": 60.85664,
+    "long": -162.278,
+    "desc": "Atmautluak Volunteer Fire Department"
+  },
+  {
+    "lat": 58.388044,
+    "long": -134.650183,
+    "desc": "Auke Bay Fire Station"
+  },
+  {
+    "lat": 71.289938,
+    "long": -156.688649,
+    "desc": "Barrow Fire Station #1"
+  },
+  {
+    "lat": 57.82535,
+    "long": -152.355,
+    "desc": "Bayside Fire Department"
+  },
+  {
+    "lat": 60.16817,
+    "long": -149.403,
+    "desc": "Bear Creek Volunteer Fire Department"
+  },
+  {
+    "lat": 60.16902,
+    "long": -149.403,
+    "desc": "Bear Creek Volunteer Fire Department"
+  },
+  {
+    "lat": 66.36136,
+    "long": -147.401,
+    "desc": "Beaver Volunteer Fire Department"
+  },
+  {
+    "lat": 60.79089,
+    "long": -161.772,
+    "desc": "Bethel Fire Department"
+  },
+  {
+    "lat": 66.92188,
+    "long": -151.508,
+    "desc": "Bettles Fire Station"
+  },
+  {
+    "lat": 66.92336,
+    "long": -151.508,
+    "desc": "Bettles Volunteer Fire Department"
+  },
+  {
+    "lat": 61.54863,
+    "long": -149.817,
+    "desc": "Big Lake Volunteer Fire Department Station 8 - 1"
+  },
+  {
+    "lat": 66.26391,
+    "long": -145.818,
+    "desc": "Birch Creek Volunteer Fire Department"
+  },
+  {
+    "lat": 65.33414,
+    "long": -166.486,
+    "desc": "Brevig Mission Fire Department"
+  },
+  {
+    "lat": 58.69066,
+    "long": -156.681,
+    "desc": "Bristol Bay Fire Department"
+  },
+  {
+    "lat": 58.72731,
+    "long": -157.017,
+    "desc": "Bristol Bay Fire Department"
+  },
+  {
+    "lat": 58.68206,
+    "long": -156.667,
+    "desc": "Bristol Bay Fire Department King Salmon Station"
+  },
+  {
+    "lat": 71.29895,
+    "long": -156.761,
+    "desc": "Browerville #2 Fire Station"
+  },
+  {
+    "lat": 65.97688,
+    "long": -161.126,
+    "desc": "Buckland Fire and Rescue"
+  },
+  {
+    "lat": 61.545174,
+    "long": -149.033078,
+    "desc": "Butte Fire Department"
+  },
+  {
+    "lat": 61.485,
+    "long": -148.899,
+    "desc": "Butte Voulenteer Fire Department - Station 2-2"
+  },
+  {
+    "lat": 63.3893,
+    "long": -148.899,
+    "desc": "Cantwell Volunteer Fire Department"
+  },
+  {
+    "lat": 61.9868,
+    "long": -149.948,
+    "desc": "Caswell Fire Department"
+  },
+  {
+    "lat": 60.48294,
+    "long": -151.072,
+    "desc": "Central Emergency Services"
+  },
+  {
+    "lat": 60.52337,
+    "long": -151.002,
+    "desc": "Central Emergency Services Station 2 Mackey Lake"
+  },
+  {
+    "lat": 60.51723,
+    "long": -150.724,
+    "desc": "Central Emergency Services Station 5 Funny River"
+  },
+  {
+    "lat": 60.306853,
+    "long": -155.269589,
+    "desc": "Central Emergency Services, Kasilof Station"
+  },
+  {
+    "lat": 60.537264,
+    "long": -150.800417,
+    "desc": "Central Emergency Services, Sterling Station"
+  },
+  {
+    "lat": 61.559133,
+    "long": -149.249573,
+    "desc": "Central Mat-Su Fire Department Station 5-1"
+  },
+  {
+    "lat": 61.615055,
+    "long": -149.255319,
+    "desc": "Central Mat-Su Fire Department Station 5-2"
+  },
+  {
+    "lat": 61.530572,
+    "long": -149.608017,
+    "desc": "Central Mat-Su Fire Department Station 6-2"
+  },
+  {
+    "lat": 61.4699,
+    "long": -149.724,
+    "desc": "Central Mat-Su Fire Department Station 6-3"
+  },
+  {
+    "lat": 61.42792,
+    "long": -149.904,
+    "desc": "Central Mat-Su Fire Department Station 6-4"
+  },
+  {
+    "lat": 61.52847,
+    "long": -149.504,
+    "desc": "Central Mat-Su Fire Department Station 6-6"
+  },
+  {
+    "lat": 66.65468,
+    "long": -143.722,
+    "desc": "Chalkyitsik Volunteer Fire Department"
+  },
+  {
+    "lat": 60.15803,
+    "long": -164.281,
+    "desc": "Chefornak Volunteer Fire Department"
+  },
+  {
+    "lat": 64.9249,
+    "long": -147.974,
+    "desc": "Chena - Goldstream Fire and Rescue Station 41 Vail"
+  },
+  {
+    "lat": 64.83491,
+    "long": -147.937,
+    "desc": "Chena - Goldstream Fire and Rescue Station 42"
+  },
+  {
+    "lat": 64.94975,
+    "long": -147.779,
+    "desc": "Chena - Goldstream Fire and Rescue Station 43"
+  },
+  {
+    "lat": 64.77657,
+    "long": -148.03,
+    "desc": "Chena - Goldstream Fire and Rescue Station 44"
+  },
+  {
+    "lat": 60.0651,
+    "long": -148.012,
+    "desc": "Chenega Bay Volunteer Fire Department"
+  },
+  {
+    "lat": 61.52844,
+    "long": -165.587,
+    "desc": "Chevak Volunteer Fire Department"
+  },
+  {
+    "lat": 56.29525,
+    "long": -158.407,
+    "desc": "Chignik Bay Volunteer Fire Department"
+  },
+  {
+    "lat": 56.3084,
+    "long": -158.534,
+    "desc": "Chignik Lagoon Volunteer Fire Department"
+  },
+  {
+    "lat": 56.25343,
+    "long": -158.764,
+    "desc": "Chignik Lake Volunteer Fire Department"
+  },
+  {
+    "lat": 61.51841,
+    "long": -144.44,
+    "desc": "Chitina Volunteer Fire Department"
+  },
+  {
+    "lat": 61.41555,
+    "long": -149.428,
+    "desc": "Chugiak Volunteer Fire Department Station 33"
+  },
+  {
+    "lat": 61.42157,
+    "long": -149.497,
+    "desc": "Chugiak Volunteer Fire Department Station 34"
+  },
+  {
+    "lat": 61.34756,
+    "long": -149.551,
+    "desc": "Chugiak Volunteer Fire Department Station 35"
+  },
+  {
+    "lat": 65.82558,
+    "long": -144.064,
+    "desc": "Circle Volunteer Fire Department"
+  },
+  {
+    "lat": 58.83447,
+    "long": -158.543,
+    "desc": "Clarks Point Volunteer Fire Department"
+  },
+  {
+    "lat": 64.29172,
+    "long": -149.169,
+    "desc": "Clear Air Force Station Fire and Emergency Medical Services"
+  },
+  {
+    "lat": 57.749252,
+    "long": -152.496184,
+    "desc": "Coast Guard Base Kodiak Fire And Rescue"
+  },
+  {
+    "lat": 57.748996,
+    "long": -152.495961,
+    "desc": "Coast Guard Fire & Rescue"
+  },
+  {
+    "lat": 56.01582,
+    "long": -132.827,
+    "desc": "Coffman Cove Volunteer Fire Department"
+  },
+  {
+    "lat": 70.34737,
+    "long": -150.93,
+    "desc": "Conoco Phillips - Alaska Alpine Fire Department"
+  },
+  {
+    "lat": 70.33064,
+    "long": -149.597,
+    "desc": "Conoco Phillips - Alaska Kuparuk Fire Department"
+  },
+  {
+    "lat": 60.49032,
+    "long": -149.811,
+    "desc": "Cooper Landing Volunteer Fire Department"
+  },
+  {
+    "lat": 60.54433,
+    "long": -145.76,
+    "desc": "Cordova Volunteer Fire Dept."
+  },
+  {
+    "lat": 55.47596,
+    "long": -133.152,
+    "desc": "Craig Volunteer Fire Department"
+  },
+  {
+    "lat": 61.86697,
+    "long": -158.131,
+    "desc": "Crooked Creek Volunteer Fire Department"
+  },
+  {
+    "lat": 61.600334,
+    "long": -149.117564,
+    "desc": "Daniel M. Contini Fire Station"
+  },
+  {
+    "lat": 66.0755,
+    "long": -162.724,
+    "desc": "Deering Volunteer Fire Department"
+  },
+  {
+    "lat": 64.03353,
+    "long": -145.729,
+    "desc": "Delta Junction Volunteer Fire Department"
+  },
+  {
+    "lat": 59.04055,
+    "long": -158.468768,
+    "desc": "Dillingham Fire Department"
+  },
+  {
+    "lat": 65.75821,
+    "long": -168.952,
+    "desc": "Diomede Volunteer Fire Department"
+  },
+  {
+    "lat": 63.66054,
+    "long": -144.056,
+    "desc": "Dot Lake Volunteer Fire Department"
+  },
+  {
+    "lat": 58.27712,
+    "long": -134.395,
+    "desc": "Douglas Fire Station"
+  },
+  {
+    "lat": 58.301327,
+    "long": -134.421692,
+    "desc": "Downtown Fire Station"
+  },
+  {
+    "lat": 64.78537,
+    "long": -141.196,
+    "desc": "Eagle Volunteer Fire Department"
+  },
+  {
+    "lat": 55.95473,
+    "long": -133.662,
+    "desc": "Edna Bay Volunteer Fire Department"
+  },
+  {
+    "lat": 60.2154,
+    "long": -162.023,
+    "desc": "Eek Volunteer Fire Department"
+  },
+  {
+    "lat": 58.20984,
+    "long": -157.372,
+    "desc": "Egegik Volunteer Fire Department"
+  },
+  {
+    "lat": 64.66689,
+    "long": -147.091,
+    "desc": "Eielson Fire and Emergency Services"
+  },
+  {
+    "lat": 59.34914,
+    "long": -157.478,
+    "desc": "Ekwok Volunteer Fire Department"
+  },
+  {
+    "lat": 58.19449,
+    "long": -136.347,
+    "desc": "Elfin Cove Fire Department"
+  },
+  {
+    "lat": 64.61748,
+    "long": -162.26,
+    "desc": "Elim Volunteer Fire Department"
+  },
+  {
+    "lat": 62.77808,
+    "long": -164.546,
+    "desc": "Emmonak Volunteer Fire Department"
+  },
+  {
+    "lat": 70.35454,
+    "long": -147.964,
+    "desc": "Endicott Island Fire Station"
+  },
+  {
+    "lat": 64.84528,
+    "long": -148.009,
+    "desc": "Ester Volunteer Fire Department Station 51"
+  },
+  {
+    "lat": 64.83825,
+    "long": -147.718,
+    "desc": "Fairbanks Fire Department Station 1"
+  },
+  {
+    "lat": 64.85566,
+    "long": -147.761,
+    "desc": "Fairbanks Fire Department Station 3"
+  },
+  {
+    "lat": 64.81313,
+    "long": -147.874,
+    "desc": "Fairbanks International Airport Fire Department"
+  },
+  {
+    "lat": 54.85342,
+    "long": -163.413,
+    "desc": "False Pass Volunteer Fire Department"
+  },
+  {
+    "lat": 55.203938,
+    "long": -162.720566,
+    "desc": "Fire Dept."
+  },
+  {
+    "lat": 66.97275,
+    "long": -160.437,
+    "desc": "Fire Hall"
+  },
+  {
+    "lat": 55.060512,
+    "long": -162.317465,
+    "desc": "Fire Pump Room"
+  },
+  {
+    "lat": 55.34088,
+    "long": -160.498506,
+    "desc": "Fire Station"
+  },
+  {
+    "lat": 61.218429,
+    "long": -149.883073,
+    "desc": "Fire Station 1"
+  },
+  {
+    "lat": 61.562203,
+    "long": -149.285243,
+    "desc": "Fire Station 51"
+  },
+  {
+    "lat": 52.20909,
+    "long": -174.203,
+    "desc": "fire station/ambulance garage"
+  },
+  {
+    "lat": 61.118791,
+    "long": -149.934243,
+    "desc": "Fire Station15"
+  },
+  {
+    "lat": 61.086346,
+    "long": -149.752541,
+    "desc": "Firestation 10"
+  },
+  {
+    "lat": 61.316935,
+    "long": -149.572251,
+    "desc": "Firestation 11"
+  },
+  {
+    "lat": 61.149122,
+    "long": -149.858169,
+    "desc": "Firestation 12"
+  },
+  {
+    "lat": 61.179509,
+    "long": -149.761964,
+    "desc": "Firestation 14"
+  },
+  {
+    "lat": 61.218197,
+    "long": -149.809383,
+    "desc": "Firestation 3"
+  },
+  {
+    "lat": 61.181596,
+    "long": -149.849914,
+    "desc": "Firestation 4"
+  },
+  {
+    "lat": 61.186202,
+    "long": -149.924724,
+    "desc": "Firestation 5"
+  },
+  {
+    "lat": 61.209544,
+    "long": -149.747738,
+    "desc": "Firestation 6"
+  },
+  {
+    "lat": 61.141491,
+    "long": -149.951483,
+    "desc": "Firestation 7"
+  },
+  {
+    "lat": 61.123616,
+    "long": -149.767974,
+    "desc": "Firestation 8"
+  },
+  {
+    "lat": 61.094679,
+    "long": -149.833339,
+    "desc": "Firestation 9"
+  },
+  {
+    "lat": 63.9517,
+    "long": -145.748,
+    "desc": "Fort Greely Fire and Emergency Services"
+  },
+  {
+    "lat": 63.98693,
+    "long": -145.724,
+    "desc": "Fort Greely Fire and Emergency Services Airport Substation"
+  },
+  {
+    "lat": 64.83055,
+    "long": -147.609,
+    "desc": "Fort Wainwright Fire and Emergency Services Station 1 Headquarters"
+  },
+  {
+    "lat": 64.82751,
+    "long": -147.671,
+    "desc": "Fort Wainwright Fire and Emergency Services Station 2"
+  },
+  {
+    "lat": 64.84267,
+    "long": -147.611,
+    "desc": "Fort Wainwright Fire and Emergency Services Station 3"
+  },
+  {
+    "lat": 66.56621,
+    "long": -145.241,
+    "desc": "Fort Yukon Volunteer Fire Department"
+  },
+  {
+    "lat": 62.30296,
+    "long": -145.284,
+    "desc": "Gakona Volunteer Fire Department"
+  },
+  {
+    "lat": 64.73413,
+    "long": -156.947,
+    "desc": "Galena Air Station Fire Department"
+  },
+  {
+    "lat": 64.7441,
+    "long": -156.876,
+    "desc": "Galena Volunteer Fire Department"
+  },
+  {
+    "lat": 63.77701,
+    "long": -171.713,
+    "desc": "Gambell Volunteer Fire Department"
+  },
+  {
+    "lat": 58.45494,
+    "long": -135.875,
+    "desc": "Glacier Bay National Park Fire Department"
+  },
+  {
+    "lat": 58.357884,
+    "long": -134.573561,
+    "desc": "Glacier Fire Station #3"
+  },
+  {
+    "lat": 62.069073,
+    "long": -145.431915,
+    "desc": "Glenn Rich Fire & Rescue"
+  },
+  {
+    "lat": 62.1099,
+    "long": -145.553446,
+    "desc": "Glennallen Fire Department"
+  },
+  {
+    "lat": 61.95416,
+    "long": -145.307,
+    "desc": "Glennrich Volunteer Fire Department Copper Center"
+  },
+  {
+    "lat": 62.0076,
+    "long": -145.328,
+    "desc": "Glennrich Volunteer Fire Department Silver Springs Station"
+  },
+  {
+    "lat": 64.54541,
+    "long": -163.038,
+    "desc": "Golovin Volunteer Fire Department"
+  },
+  {
+    "lat": 59.11857,
+    "long": -161.583,
+    "desc": "Goodnews Bay Volunteer Fire Department"
+  },
+  {
+    "lat": 62.9064,
+    "long": -160.066,
+    "desc": "Grayling Village Volunteer Fire Department"
+  },
+  {
+    "lat": 61.649866,
+    "long": -149.113022,
+    "desc": "Greater Palmer Fire Service Area Station 32"
+  },
+  {
+    "lat": 70.29044,
+    "long": -148.706,
+    "desc": "Greater Prudhoe Bay Fire Department Station 1"
+  },
+  {
+    "lat": 70.25397,
+    "long": -148.343,
+    "desc": "Greater Prudhoe Bay Fire Department Station 2"
+  },
+  {
+    "lat": 62.26688,
+    "long": -145.362,
+    "desc": "Gulkana Volunteer Fire Department"
+  },
+  {
+    "lat": 58.41276,
+    "long": -135.74,
+    "desc": "Gustavus Volunteer Fire Department"
+  },
+  {
+    "lat": 58.370386,
+    "long": -134.617055,
+    "desc": "Hagevig Fire Training Center"
+  },
+  {
+    "lat": 58.370542,
+    "long": -134.617446,
+    "desc": "Hagevig Fire Training Center"
+  },
+  {
+    "lat": 63.87059,
+    "long": -149.006,
+    "desc": "Healy VFD"
+  },
+  {
+    "lat": 55.49162,
+    "long": -132.662,
+    "desc": "Hollis Volunteer Fire Department"
+  },
+  {
+    "lat": 62.19711,
+    "long": -159.771,
+    "desc": "Holy Cross Volunteer Fire Department"
+  },
+  {
+    "lat": 59.648606,
+    "long": -151.529677,
+    "desc": "Homer Volunteer Fire Department"
+  },
+  {
+    "lat": 58.10985,
+    "long": -135.44,
+    "desc": "Hoonah Volunteer Fire Department"
+  },
+  {
+    "lat": 61.53225,
+    "long": -166.101,
+    "desc": "Hooper Bay Volunteer Fire Department"
+  },
+  {
+    "lat": 60.92037,
+    "long": -149.615,
+    "desc": "Hope - Sunrise Volunteer Fire Department"
+  },
+  {
+    "lat": 61.63122,
+    "long": -149.804,
+    "desc": "Houston Volunteer Fire Department"
+  },
+  {
+    "lat": 61.57568,
+    "long": -149.758,
+    "desc": "Houston Volunteer Fire Department Station 9 - 2"
+  },
+  {
+    "lat": 66.04328,
+    "long": -154.258,
+    "desc": "Hughes Volunteer Fire Department"
+  },
+  {
+    "lat": 65.7013,
+    "long": -156.389,
+    "desc": "Huslia Volunteer Fire Department"
+  },
+  {
+    "lat": 55.20567,
+    "long": -132.822,
+    "desc": "Hydaburg Volunteer Fire Department"
+  },
+  {
+    "lat": 55.91053,
+    "long": -130.024,
+    "desc": "Hyder Volunteer Fire Department"
+  },
+  {
+    "lat": 64.519324,
+    "long": -165.375303,
+    "desc": "Icyview Firehall"
+  },
+  {
+    "lat": 59.32596,
+    "long": -155.898,
+    "desc": "Igiugig Volunteer Fire Department"
+  },
+  {
+    "lat": 59.7533,
+    "long": -154.828,
+    "desc": "Iliamna Volunteer Fire Department Main Station"
+  },
+  {
+    "lat": 59.75441,
+    "long": -154.904,
+    "desc": "Iliamna Volunteer Fire Department Station 2"
+  },
+  {
+    "lat": 55.90254,
+    "long": -159.485,
+    "desc": "Ivanof Bay First Responders"
+  },
+  {
+    "lat": 61.2486,
+    "long": -149.818,
+    "desc": "Joint Base Elmendorf - Richardson Fire Station 1"
+  },
+  {
+    "lat": 61.23501,
+    "long": -149.858,
+    "desc": "Joint Base Elmendorf - Richardson Fire Station 2"
+  },
+  {
+    "lat": 61.23089,
+    "long": -149.768,
+    "desc": "Joint Base Elmendorf - Richardson Fire Station 3"
+  },
+  {
+    "lat": 61.25426,
+    "long": -149.685,
+    "desc": "Joint Base Elmendorf - Richardson Fire Station 4"
+  },
+  {
+    "lat": 61.26326,
+    "long": -149.674,
+    "desc": "Joint Base Elmendorf - Richardson Fire Station 5"
+  },
+  {
+    "lat": 61.25675,
+    "long": -149.817,
+    "desc": "Joint Base Elmendorf - Richardson Fire Station 6"
+  },
+  {
+    "lat": 61.24221,
+    "long": -149.843,
+    "desc": "Joint Base Elmendorf - Richardson Fire Station 7"
+  },
+  {
+    "lat": 60.508649,
+    "long": -151.2764,
+    "desc": "K-Beach Fire Station"
+  },
+  {
+    "lat": 59.66696,
+    "long": -151.453,
+    "desc": "Kachemak City Volunteer Fire Department"
+  },
+  {
+    "lat": 59.744114,
+    "long": -151.260969,
+    "desc": "Kachemak Emergency Services"
+  },
+  {
+    "lat": 56.97543,
+    "long": -133.942,
+    "desc": "Kake Volunteer Fire Department"
+  },
+  {
+    "lat": 69.742033,
+    "long": -163.010832,
+    "desc": "Kali Volunteer Fire Department"
+  },
+  {
+    "lat": 64.32586,
+    "long": -158.723,
+    "desc": "Kaltag Volunteer Fire Department"
+  },
+  {
+    "lat": 55.54079,
+    "long": -132.402,
+    "desc": "Kasaan Volunteer Fire Department"
+  },
+  {
+    "lat": 60.8745,
+    "long": -162.518,
+    "desc": "Kasigluk Traditional Council Volunteer Fire Department"
+  },
+  {
+    "lat": 60.55954,
+    "long": -151.249,
+    "desc": "Kenai Fire Department"
+  },
+  {
+    "lat": 60.56978,
+    "long": -151.24,
+    "desc": "Kenai Fire Department Airport Station"
+  },
+  {
+    "lat": 61.43507,
+    "long": -142.9,
+    "desc": "Kennicott - McCarthy Volunteer Fire Department"
+  },
+  {
+    "lat": 61.73604,
+    "long": -144.948,
+    "desc": "Kenny Lake Volunteer Fire Department"
+  },
+  {
+    "lat": 55.34119,
+    "long": -131.644,
+    "desc": "Ketchikan Fire Department"
+  },
+  {
+    "lat": 55.341292,
+    "long": -131.643961,
+    "desc": "Ketchikan Fire Department"
+  },
+  {
+    "lat": 55.354879,
+    "long": -131.690631,
+    "desc": "Ketchikan Fire Department"
+  },
+  {
+    "lat": 55.38249,
+    "long": -131.735,
+    "desc": "Ketchikan Fire Department Station 3"
+  },
+  {
+    "lat": 55.3517,
+    "long": -131.702,
+    "desc": "Ketchikan International Airport Fire Department"
+  },
+  {
+    "lat": 55.060278,
+    "long": -162.314464,
+    "desc": "King Cove Fire & Rescue 136"
+  },
+  {
+    "lat": 55.06146,
+    "long": -162.316,
+    "desc": "King Cove Volunteer Fire and Rescue"
+  },
+  {
+    "lat": 59.93951,
+    "long": -164.037,
+    "desc": "Kipnuk Volunteer Fire Department"
+  },
+  {
+    "lat": 55.55682,
+    "long": -133.095,
+    "desc": "Klawock Volunteer Fire Department"
+  },
+  {
+    "lat": 59.42757,
+    "long": -136.018,
+    "desc": "Klehini Valley Volunteer Fire Department"
+  },
+  {
+    "lat": 59.39874,
+    "long": -135.895,
+    "desc": "Klukwan Volunteer Fire Department"
+  },
+  {
+    "lat": 57.79161,
+    "long": -152.406,
+    "desc": "Kodiak Fire Department"
+  },
+  {
+    "lat": 59.43955,
+    "long": -154.748,
+    "desc": "Kokhanok Village Council Fire Department"
+  },
+  {
+    "lat": 59.72783,
+    "long": -157.285,
+    "desc": "Koliganek Volunteer Fire Department"
+  },
+  {
+    "lat": 59.95881,
+    "long": -162.886,
+    "desc": "Kongiganak Volunteer Fire Department"
+  },
+  {
+    "lat": 63.03313,
+    "long": -163.555,
+    "desc": "Kotlik Volunteer Fire Department"
+  },
+  {
+    "lat": 64.93067,
+    "long": -161.165,
+    "desc": "Koyuk Volunteer Fire Department"
+  },
+  {
+    "lat": 60.72291,
+    "long": -161.773,
+    "desc": "Kuiggayagaq Volunteer Fire Department"
+  },
+  {
+    "lat": 70.33446,
+    "long": -149.314,
+    "desc": "Kuparuk Fire Department"
+  },
+  {
+    "lat": 60.80983,
+    "long": -161.424,
+    "desc": "Kwethluk Volunteer Fire Department"
+  },
+  {
+    "lat": 59.87491,
+    "long": -163.161,
+    "desc": "Kwigillingok Volunteer Fire Department"
+  },
+  {
+    "lat": 62.27214,
+    "long": -146.534,
+    "desc": "Lake Louise Volunteer Fire Department"
+  },
+  {
+    "lat": 57.53677,
+    "long": -153.981,
+    "desc": "Larsen Bay Volunteer Fire Department"
+  },
+  {
+    "lat": 59.11595,
+    "long": -156.857,
+    "desc": "Levelock Volunteer Fire Department"
+  },
+  {
+    "lat": 60.072625,
+    "long": -149.445222,
+    "desc": "Lowell Point Volunteer Fire Department"
+  },
+  {
+    "lat": 61.51333,
+    "long": -160.363,
+    "desc": "Lower Kalskag Volunteer Fire Department"
+  },
+  {
+    "lat": 58.408536,
+    "long": -134.756052,
+    "desc": "Lynn Canal Fire Station"
+  },
+  {
+    "lat": 64.99992,
+    "long": -150.637,
+    "desc": "Manley Hot Springs Volunteer Fire Department"
+  },
+  {
+    "lat": 58.98138,
+    "long": -159.057,
+    "desc": "Manokotak Volunteer Fire Department"
+  },
+  {
+    "lat": 61.87795,
+    "long": -162.083,
+    "desc": "Marshall Volunteer Fire Department"
+  },
+  {
+    "lat": 62.95051,
+    "long": -155.59,
+    "desc": "McGrath Volunteer Fire Department"
+  },
+  {
+    "lat": 63.65113,
+    "long": -148.812,
+    "desc": "McKinley Volunteer Fire Department"
+  },
+  {
+    "lat": 61.628643,
+    "long": -149.512786,
+    "desc": "Meadow Lakes / Pittman Fire Station"
+  },
+  {
+    "lat": 61.61093,
+    "long": -149.626,
+    "desc": "Meadow Lakes Volunteer Fire Department 7 - 1"
+  },
+  {
+    "lat": 60.38623,
+    "long": -166.193,
+    "desc": "Mekoryuk Volunteer Fire Department"
+  },
+  {
+    "lat": 62.92632,
+    "long": -143.802,
+    "desc": "Mentasta Volunteer Fire Department"
+  },
+  {
+    "lat": 55.128126,
+    "long": -131.57646,
+    "desc": "Metlakatla Fire Dept"
+  },
+  {
+    "lat": 55.7398,
+    "long": -132.261,
+    "desc": "Meyers Chuck Volunteer Fire Department"
+  },
+  {
+    "lat": 65.14806,
+    "long": -149.354,
+    "desc": "Minto Fire Department"
+  },
+  {
+    "lat": 65.19994,
+    "long": -149.53,
+    "desc": "Minto Volunteer Fire Department"
+  },
+  {
+    "lat": 60.48778,
+    "long": -149.37,
+    "desc": "Moose Pass Volunteer Fire Company"
+  },
+  {
+    "lat": 62.0906,
+    "long": -163.725,
+    "desc": "Mountain Village Volunteer Fire Department"
+  },
+  {
+    "lat": 61.584179,
+    "long": -149.452274,
+    "desc": "MSB Public Safety Building"
+  },
+  {
+    "lat": 59.35764,
+    "long": -151.922,
+    "desc": "Nanwalek Volunteer Fire Department"
+  },
+  {
+    "lat": 60.69434,
+    "long": -161.969,
+    "desc": "Napakiak Volunteer Fire Department"
+  },
+  {
+    "lat": 60.70683,
+    "long": -161.764,
+    "desc": "Napaskiak Volunteer Fire Department"
+  },
+  {
+    "lat": 64.74486,
+    "long": -141.051,
+    "desc": "Native Village of Eagle Fire Department"
+  },
+  {
+    "lat": 57.56368,
+    "long": -154.437,
+    "desc": "Native Village of Karluk Department of Fire and Emergency Services"
+  },
+  {
+    "lat": 55.86853,
+    "long": -133.201,
+    "desc": "Naukati Volunteer Fire Department"
+  },
+  {
+    "lat": 56.00115,
+    "long": -161.208,
+    "desc": "Nelson Lagoon Fire and Rescue"
+  },
+  {
+    "lat": 64.56178,
+    "long": -149.093,
+    "desc": "Nenana Volunteer Fire Department and Emergency Medical Services"
+  },
+  {
+    "lat": 59.45141,
+    "long": -157.31,
+    "desc": "New Stuyahok Volunteer Fire Department"
+  },
+  {
+    "lat": 59.72098,
+    "long": -154.896,
+    "desc": "Newhalen Volunteer Fire Department"
+  },
+  {
+    "lat": 60.47834,
+    "long": -164.721,
+    "desc": "Nightmute Volunteer Fire Department"
+  },
+  {
+    "lat": 60.62928,
+    "long": -151.342,
+    "desc": "Nikiski Fire Department Station 1"
+  },
+  {
+    "lat": 60.73079,
+    "long": -151.301,
+    "desc": "Nikiski Fire Department Station 2"
+  },
+  {
+    "lat": 60.728661,
+    "long": -151.30368,
+    "desc": "Nikiski Fire Station #2"
+  },
+  {
+    "lat": 59.809203,
+    "long": -151.622401,
+    "desc": "Nikolaevsk Station"
+  },
+  {
+    "lat": 63.01372,
+    "long": -154.375,
+    "desc": "Nikolai Volunteer Fire Department"
+  },
+  {
+    "lat": 52.94031,
+    "long": -168.86,
+    "desc": "Nikolski Volunteer Fire Department"
+  },
+  {
+    "lat": 60.04302,
+    "long": -151.668,
+    "desc": "Ninilchik Emergency Services"
+  },
+  {
+    "lat": 64.5014,
+    "long": -165.408,
+    "desc": "Nome Volunteer Fire Department"
+  },
+  {
+    "lat": 59.97329,
+    "long": -154.849,
+    "desc": "Nondalton Volunteer Fire Department"
+  },
+  {
+    "lat": 66.83335,
+    "long": -161.048,
+    "desc": "Noorvik Fire Department"
+  },
+  {
+    "lat": 64.755,
+    "long": -147.357,
+    "desc": "North Pole Fire Department Station 21"
+  },
+  {
+    "lat": 70.4781,
+    "long": -157.418,
+    "desc": "North Slope Borough Fire Department Atqasuk Station"
+  },
+  {
+    "lat": 70.12606,
+    "long": -143.615,
+    "desc": "North Slope Borough Fire Department Kaktovik Station"
+  },
+  {
+    "lat": 69.74168,
+    "long": -163.011,
+    "desc": "North Slope Borough Fire Department Kali Station"
+  },
+  {
+    "lat": 71.29896,
+    "long": -156.761,
+    "desc": "North Slope Borough Fire Station"
+  },
+  {
+    "lat": 64.80624,
+    "long": -147.409,
+    "desc": "North Star Volunteer Fire Department Station 31"
+  },
+  {
+    "lat": 64.80546,
+    "long": -147.544,
+    "desc": "North Star Volunteer Fire Department Station 32"
+  },
+  {
+    "lat": 64.76279,
+    "long": -147.31,
+    "desc": "North Star Volunteer Fire Department Station 33"
+  },
+  {
+    "lat": 64.81153,
+    "long": -147.542,
+    "desc": "North Star Volunteer Fire Department Station 34"
+  },
+  {
+    "lat": 64.70981,
+    "long": -147.161,
+    "desc": "North Star Volunteer Fire Department Station 35"
+  },
+  {
+    "lat": 55.45494,
+    "long": -131.818,
+    "desc": "North Tongass Fire Department Station 8"
+  },
+  {
+    "lat": 62.98089,
+    "long": -141.952,
+    "desc": "Northway Village Fire Department"
+  },
+  {
+    "lat": 70.21644,
+    "long": -151.000708,
+    "desc": "Nuiqsut Fire Station"
+  },
+  {
+    "lat": 62.53261,
+    "long": -164.849,
+    "desc": "Nunam Iqua Fire Department"
+  },
+  {
+    "lat": 60.89695,
+    "long": -162.459,
+    "desc": "Nunapitchuck Volunteer Fire Department"
+  },
+  {
+    "lat": 57.21343,
+    "long": -153.284,
+    "desc": "Old Harbor Volunteer Fire Department"
+  },
+  {
+    "lat": 57.9242,
+    "long": -152.5,
+    "desc": "Ouzinkie Volunteer Fire Department"
+  },
+  {
+    "lat": 61.62867,
+    "long": -149.051,
+    "desc": "Palmer Fire Department Station 33"
+  },
+  {
+    "lat": 61.59657,
+    "long": -149.092,
+    "desc": "Palmer Fire Department Station 34"
+  },
+  {
+    "lat": 61.68557,
+    "long": -149.243,
+    "desc": "Palmer Fire Department Station 35"
+  },
+  {
+    "lat": 61.59269,
+    "long": -149.101,
+    "desc": "Palmer Fire Department Station 36"
+  },
+  {
+    "lat": 63.88996,
+    "long": -149.128,
+    "desc": "Panguingue Volunteer Fire Department"
+  },
+  {
+    "lat": 59.78872,
+    "long": -154.103,
+    "desc": "Pedro Bay Volunteer Fire Department"
+  },
+  {
+    "lat": 57.95842,
+    "long": -136.225,
+    "desc": "Pelican Volunteer Fire and Emergency Medical Services"
+  },
+  {
+    "lat": 55.91118,
+    "long": -159.15,
+    "desc": "Perryville Volunteer Fire Department"
+  },
+  {
+    "lat": 56.80947,
+    "long": -132.943,
+    "desc": "Petersburg Volunteer Fire & Rescue"
+  },
+  {
+    "lat": 56.80971,
+    "long": -132.944,
+    "desc": "Petersburg Volunteer Fire Department"
+  },
+  {
+    "lat": 56.7778,
+    "long": -132.965,
+    "desc": "Petersburg Volunteer Fire Department Station 2"
+  },
+  {
+    "lat": 57.56426,
+    "long": -157.575,
+    "desc": "Pilot Point Volunteer Fire Department"
+  },
+  {
+    "lat": 61.93661,
+    "long": -162.883,
+    "desc": "Pilot Station Volunteer Fire Department"
+  },
+  {
+    "lat": 62.03495,
+    "long": -163.287,
+    "desc": "Pitkas Point Volunteer Fire Department"
+  },
+  {
+    "lat": 58.9214,
+    "long": -161.727,
+    "desc": "Platinum Volunteer Fire Department"
+  },
+  {
+    "lat": 56.35274,
+    "long": -133.622,
+    "desc": "Point Baker Volunteer Fire Department"
+  },
+  {
+    "lat": 56.25093,
+    "long": -134.647,
+    "desc": "Port Alexander Volunteer Fire Department"
+  },
+  {
+    "lat": 60.19723,
+    "long": -154.329,
+    "desc": "Port Alsworth Volunteer Fire Department"
+  },
+  {
+    "lat": 59.34806,
+    "long": -151.828,
+    "desc": "Port Graham Volunteer Fire Department"
+  },
+  {
+    "lat": 56.95417,
+    "long": -158.634,
+    "desc": "Port Heiden Volunteer Fire Department"
+  },
+  {
+    "lat": 57.86683,
+    "long": -152.888,
+    "desc": "Port Lions Volunteer Fire Department"
+  },
+  {
+    "lat": 56.32219,
+    "long": -133.612,
+    "desc": "Port Protection Volunteer Fire Department"
+  },
+  {
+    "lat": 55.05621,
+    "long": -162.328,
+    "desc": "Project Code Red"
+  },
+  {
+    "lat": 59.74958,
+    "long": -161.903,
+    "desc": "Quinhagak Volunteer Fire Department"
+  },
+  {
+    "lat": 68.07151,
+    "long": -162.855,
+    "desc": "Red Dog Mine Fire Department"
+  },
+  {
+    "lat": 59.603288,
+    "long": -151.424069,
+    "desc": "Rescue 21"
+  },
+  {
+    "lat": 64.73658,
+    "long": -155.486,
+    "desc": "Ruby Volunteer Fire Department"
+  },
+  {
+    "lat": 64.03376,
+    "long": -145.518,
+    "desc": "Rural Deltana Volunteer Fire Department Station 1"
+  },
+  {
+    "lat": 64.09309,
+    "long": -145.653,
+    "desc": "Rural Deltana Volunteer Fire Department Station 8"
+  },
+  {
+    "lat": 61.78404,
+    "long": -161.324,
+    "desc": "Russian Mission Volunteer Fire Department"
+  },
+  {
+    "lat": 62.04968,
+    "long": -163.183,
+    "desc": "Saint Marys Volunteer Fire Department"
+  },
+  {
+    "lat": 57.13452,
+    "long": -170.268,
+    "desc": "Saint Paul Island Volunteer Fire Department"
+  },
+  {
+    "lat": 64.54549,
+    "long": -147.026,
+    "desc": "Salcha Fire and Rescue Station 121"
+  },
+  {
+    "lat": 64.46071,
+    "long": -146.921,
+    "desc": "Salcha Fire and Rescue Station 122"
+  },
+  {
+    "lat": 55.34072,
+    "long": -160.499,
+    "desc": "Sand Point Fire Hall"
+  },
+  {
+    "lat": 55.34567,
+    "long": -160.489,
+    "desc": "Sand Point Volunteer Fire Department"
+  },
+  {
+    "lat": 61.68568,
+    "long": -144.8,
+    "desc": "Sapa Volunteer Fire Department"
+  },
+  {
+    "lat": 63.69495,
+    "long": -170.483,
+    "desc": "Savoonga Volunteer Fire Department"
+  },
+  {
+    "lat": 55.31866,
+    "long": -131.597,
+    "desc": "Saxman Fire Department Station 5"
+  },
+  {
+    "lat": 61.84285,
+    "long": -165.581,
+    "desc": "Scammon Bay Volunteer Fire Department"
+  },
+  {
+    "lat": 59.46379,
+    "long": -151.679,
+    "desc": "Seldovia Village Tribe Barabara Heights Volunteer Fire Department"
+  },
+  {
+    "lat": 59.43888,
+    "long": -151.714,
+    "desc": "Seldovia Volunteer Fire and Rescue Fire Department"
+  },
+  {
+    "lat": 60.10368,
+    "long": -149.44,
+    "desc": "Seward Volunteer Fire Department"
+  },
+  {
+    "lat": 66.25585,
+    "long": -166.074,
+    "desc": "Shishmaref Volunteer Fire Department"
+  },
+  {
+    "lat": 66.8885,
+    "long": -157.141,
+    "desc": "Shungnak Volunteer Fire Department"
+  },
+  {
+    "lat": 59.456575,
+    "long": -135.316815,
+    "desc": "Skagway Fire Department"
+  },
+  {
+    "lat": 61.7021,
+    "long": -157.172,
+    "desc": "Sleetmute Volunteer Fire Department"
+  },
+  {
+    "lat": 61.27595,
+    "long": -149.479,
+    "desc": "South Fork Volunteer Fire Department"
+  },
+  {
+    "lat": 55.29493,
+    "long": -131.54,
+    "desc": "South Tongass Volunteer Fire Department Station 4"
+  },
+  {
+    "lat": 61.375125,
+    "long": -149.505274,
+    "desc": "Station 31 Chugiak VFRD"
+  },
+  {
+    "lat": 60.960508,
+    "long": -149.135492,
+    "desc": "Station 41 Girdwood VFD"
+  },
+  {
+    "lat": 63.51656,
+    "long": -162.284,
+    "desc": "Stebbins Volunteer Fire Department"
+  },
+  {
+    "lat": 64.90353,
+    "long": -147.591,
+    "desc": "Steese Area Volunteer Fire Department Station 62"
+  },
+  {
+    "lat": 64.94662,
+    "long": -147.661,
+    "desc": "Steese Area Volunteer Fire Department Station 63"
+  },
+  {
+    "lat": 64.896617,
+    "long": -147.691768,
+    "desc": "Steese Volunteer Fire Department Station 61"
+  },
+  {
+    "lat": 66.00383,
+    "long": -149.086,
+    "desc": "Stevens Village Volunteer Fire Department"
+  },
+  {
+    "lat": 61.7862,
+    "long": -156.587,
+    "desc": "Stony River Volunteer Fire Department"
+  },
+  {
+    "lat": 61.5234,
+    "long": -144.255,
+    "desc": "Strelna Volunteer Fire Department"
+  },
+  {
+    "lat": 61.709804,
+    "long": -148.894346,
+    "desc": "Sutton Volunteer Fire Department"
+  },
+  {
+    "lat": 62.98819,
+    "long": -156.06,
+    "desc": "Takotna Volunteer Fire Department"
+  },
+  {
+    "lat": 62.3188,
+    "long": -150.107,
+    "desc": "Talkeetna Fire Department Station 11 - 1"
+  },
+  {
+    "lat": 62.13552,
+    "long": -150.043,
+    "desc": "Talkeetna Fire Department Station 11 - 2"
+  },
+  {
+    "lat": 63.378546,
+    "long": -143.359501,
+    "desc": "Tanacross Fire Department"
+  },
+  {
+    "lat": 63.37731,
+    "long": -143.357,
+    "desc": "Tanacross Volunteer Fire Department"
+  },
+  {
+    "lat": 61.1825,
+    "long": -149.997,
+    "desc": "Ted Stevens Anchorage International Airport Fire Department"
+  },
+  {
+    "lat": 61.182472,
+    "long": -149.997786,
+    "desc": "Ted Stevens ARFF"
+  },
+  {
+    "lat": 65.26342,
+    "long": -166.365,
+    "desc": "Teller Volunteer Fire Department"
+  },
+  {
+    "lat": 57.77996,
+    "long": -135.221,
+    "desc": "Tenakee Springs Volunteer Fire Department"
+  },
+  {
+    "lat": 63.13738,
+    "long": -142.52,
+    "desc": "Tetlin Volunteer Fire Department"
+  },
+  {
+    "lat": 55.68802,
+    "long": -132.524,
+    "desc": "Thorne Bay Volunteer Fire Department"
+  },
+  {
+    "lat": 68.34869,
+    "long": -166.732,
+    "desc": "Tikigaq Volunteer Fire Department"
+  },
+  {
+    "lat": 59.05959,
+    "long": -160.381,
+    "desc": "Togiak Volunteer Fire Department"
+  },
+  {
+    "lat": 63.32972,
+    "long": -142.99,
+    "desc": "Tok Fire Department"
+  },
+  {
+    "lat": 63.33686,
+    "long": -142.986,
+    "desc": "Tok Volunteer Fire Department"
+  },
+  {
+    "lat": 60.53465,
+    "long": -165.112,
+    "desc": "Toksook Bay Volunteer Fire Department"
+  },
+  {
+    "lat": 62.10032,
+    "long": -146.058,
+    "desc": "Tolsona Fire Department"
+  },
+  {
+    "lat": 60.3424,
+    "long": -162.676,
+    "desc": "Tuntutuliak Volunteer Fire Department"
+  },
+  {
+    "lat": 59.07638,
+    "long": -160.282,
+    "desc": "Twins Hills Volunteer Fire Department"
+  },
+  {
+    "lat": 61.07117,
+    "long": -151.137,
+    "desc": "Tyonek Volunteer Fire and Rescue Squad"
+  },
+  {
+    "lat": 63.87638,
+    "long": -160.792,
+    "desc": "Unalakleet Volunteer Fire Department"
+  },
+  {
+    "lat": 53.87121,
+    "long": -166.542,
+    "desc": "Unalaska Fire Service"
+  },
+  {
+    "lat": 64.85851,
+    "long": -147.823,
+    "desc": "University Fire Department Station 11 Headquarters"
+  },
+  {
+    "lat": 64.83021,
+    "long": -147.814,
+    "desc": "University Fire Department Station 12"
+  },
+  {
+    "lat": 61.53717,
+    "long": -160.312,
+    "desc": "Upper Kalskag Volunteer Fire Department"
+  },
+  {
+    "lat": 61.13056,
+    "long": -146.355792,
+    "desc": "Valdez Fire Department"
+  },
+  {
+    "lat": 61.09207,
+    "long": -146.201,
+    "desc": "Valdez Fire Department Station 3"
+  },
+  {
+    "lat": 61.06396,
+    "long": -146.018,
+    "desc": "Valdez Fire Department Station 4"
+  },
+  {
+    "lat": 67.01447,
+    "long": -146.417,
+    "desc": "Venetie Volunteer Fire Department"
+  },
+  {
+    "lat": 70.638059,
+    "long": -160.032488,
+    "desc": "Wainwright Fire Station"
+  },
+  {
+    "lat": 65.61013,
+    "long": -168.092,
+    "desc": "Wales Fire Department"
+  },
+  {
+    "lat": 61.55317,
+    "long": -149.932,
+    "desc": "West Lakes Fire Department Station 82"
+  },
+  {
+    "lat": 61.57003,
+    "long": -149.701,
+    "desc": "Westlakes Fire Department Station 7 - 3"
+  },
+  {
+    "lat": 56.11716,
+    "long": -133.122,
+    "desc": "Whale Pass Volunteer Fire Department"
+  },
+  {
+    "lat": 64.6779,
+    "long": -163.4,
+    "desc": "White Mountain Volunteer Fire Department"
+  },
+  {
+    "lat": 60.77413,
+    "long": -148.684,
+    "desc": "Whittier Volunteer Fire Department"
+  },
+  {
+    "lat": 61.73608,
+    "long": -150.122,
+    "desc": "Willow Fire Department Crystal Lake Station 12 - 5"
+  },
+  {
+    "lat": 61.76152,
+    "long": -149.935,
+    "desc": "Willow Fire Department Four Mile Road Station 12 - 4"
+  },
+  {
+    "lat": 61.7461,
+    "long": -150.051,
+    "desc": "Willow Fire Department Main Station 12 - 1"
+  },
+  {
+    "lat": 61.6843,
+    "long": -149.971,
+    "desc": "Willow Fire Department Nancy Lake Station 12 - 6"
+  },
+  {
+    "lat": 61.74018,
+    "long": -150.051,
+    "desc": "Willow Fire Station 12-1"
+  },
+  {
+    "lat": 61.77179,
+    "long": -149.799,
+    "desc": "Willow Volunteer Fire Department Hatcher Pass Station 12 - 2"
+  },
+  {
+    "lat": 57.71579,
+    "long": -152.579,
+    "desc": "Womens Bay Volunteer Fire Department"
+  },
+  {
+    "lat": 56.46961,
+    "long": -132.378,
+    "desc": "Wrangell Volunteer Fire Department Station 1"
+  },
+  {
+    "lat": 56.4079,
+    "long": -132.339,
+    "desc": "Wrangell Volunteer Fire Department Station 2"
+  },
+  {
+    "lat": 52.716841,
+    "long": -174.101432,
+    "desc": ""
+  },
+  {
+    "lat": 57.052012,
+    "long": -135.33461,
+    "desc": ""
+  },
+  {
+    "lat": 58.277243,
+    "long": -134.395173,
+    "desc": ""
+  },
+  {
+    "lat": 59.23178,
+    "long": -135.448,
+    "desc": ""
+  },
+  {
+    "lat": 59.55097,
+    "long": -139.74,
+    "desc": ""
+  },
+  {
+    "lat": 60.49062,
+    "long": -149.371,
+    "desc": ""
+  },
+  {
+    "lat": 60.539015,
+    "long": -145.667578,
+    "desc": ""
+  },
+  {
+    "lat": 61.39583,
+    "long": -149.515,
+    "desc": ""
+  },
+  {
+    "lat": 61.570107,
+    "long": -149.705189,
+    "desc": ""
+  },
+  {
+    "lat": 61.58257,
+    "long": -149.441015,
+    "desc": ""
+  },
+  {
+    "lat": 61.58628,
+    "long": -149.361,
+    "desc": ""
+  },
+  {
+    "lat": 62.30778,
+    "long": -150.238,
+    "desc": ""
+  },
+  {
+    "lat": 64.120362,
+    "long": -145.784723,
+    "desc": ""
+  },
+  {
+    "lat": 64.511929,
+    "long": -165.436053,
+    "desc": ""
+  },
+  {
+    "lat": 65.171378,
+    "long": -152.077949,
+    "desc": ""
+  },
+  {
+    "lat": 66.254869,
+    "long": -166.071124,
+    "desc": ""
+  },
+  {
+    "lat": 66.89879,
+    "long": -162.587,
+    "desc": ""
+  },
+  {
+    "lat": 68.137925,
+    "long": -151.739133,
+    "desc": ""
   }
 ]
