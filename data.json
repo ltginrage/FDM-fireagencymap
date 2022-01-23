@@ -2,7 +2,7 @@
   {
     "lat": 51.87006,
     "long": -176.642,
-    "desc": "Adak Volunteer Fire Department </br> Test </br> Test 2 </br> Test 3 </br> Test 4 </br> Test 5 </br> Test 6 </br> Test 7 </br> Test 8 </br> Test 9 </br> Test 10"
+    "desc": "Adak Volunteer Fire Department"
   },
   {
     "lat": 56.94135,
@@ -1985,6 +1985,11 @@
     "desc": "Alexis Fire Protection District"
   },
   {
+    "lat": 42.175816,
+    "long": -88.304885,
+    "desc": "Algonquin - Lake in the Hills Fire Protection District"
+  },
+  {
     "lat": 42.162779,
     "long": -88.333536,
     "desc": "Algonquin Fire Department"
@@ -1998,11 +2003,6 @@
     "lat": 42.159978,
     "long": -88.269984,
     "desc": "Algonquin Lake in the Hills Fire Department Station 3"
-  },
-  {
-    "lat": 42.175816,
-    "long": -88.304885,
-    "desc": "Algonquin - Lake in the Hills Fire Protection District"
   },
   {
     "lat": 38.888164,
@@ -2072,7 +2072,7 @@
   {
     "lat": 41.715801,
     "long": -89.333748,
-    "desc": "Amboy Fire Protection District"
+    "desc": "Amboy Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 38 - Lee County </br> EMS: ALS/Dependent on staffing  </br> Dispatched by: Lee County Sheriffs Department (Lee Co ETSB)"
   },
   {
     "lat": 40.568001,
@@ -2232,7 +2232,7 @@
   {
     "lat": 41.866367,
     "long": -89.222908,
-    "desc": "Ashton Fire Protection District"
+    "desc": "Ashton Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 38 - Lee County </br> EMS: BLS  </br> Dispatched by: Lee & Ogle County Sheriffs Department (Ogle/Lee Co ETSB)"
   },
   {
     "lat": 39.520963,
@@ -2292,57 +2292,57 @@
   {
     "lat": 41.758514,
     "long": -88.311201,
-    "desc": "Aurora Central Fire Station"
-  },
-  {
-    "lat": 41.794609,
-    "long": -88.258998,
-    "desc": "Aurora Fire Department Station 9"
-  },
-  {
-    "lat": 41.715798,
-    "long": -88.255247,
-    "desc": "Aurora Fire Station #12"
-  },
-  {
-    "lat": 41.780973,
-    "long": -88.330024,
-    "desc": "Aurora Fire Station #3"
-  },
-  {
-    "lat": 41.774406,
-    "long": -88.294274,
-    "desc": "Aurora Fire Station #4"
-  },
-  {
-    "lat": 41.741752,
-    "long": -88.287579,
-    "desc": "Aurora Fire Station #5"
-  },
-  {
-    "lat": 41.754878,
-    "long": -88.224638,
-    "desc": "Aurora Fire Station #8"
+    "desc": "Aurora Fire Department - Station 1 (HQ)  </br> Station: 1 of 9 </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: Aurora Central Dispatch (APD)"
   },
   {
     "lat": 41.773273,
     "long": -88.374977,
-    "desc": "Aurora Fire Station Number 10"
+    "desc": "Aurora Fire Department - Station 10  </br> Station: 8 of 9 </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: Aurora Central Dispatch (APD)"
+  },
+  {
+    "lat": 41.715798,
+    "long": -88.255247,
+    "desc": "Aurora Fire Department - Station 12  </br> Station: 9 of 9 </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: Aurora Central Dispatch (APD)"
+  },
+  {
+    "lat": 41.780973,
+    "long": -88.330024,
+    "desc": "Aurora Fire Department - Station 3  </br> Station: 2 of 9 </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: Aurora Central Dispatch (APD)"
+  },
+  {
+    "lat": 41.774406,
+    "long": -88.294274,
+    "desc": "Aurora Fire Department - Station 4  </br> Station: 3 of 9 </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: Aurora Central Dispatch (APD)"
+  },
+  {
+    "lat": 41.741752,
+    "long": -88.287579,
+    "desc": "Aurora Fire Department - Station 5  </br> Station: 4 of 9 </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: Aurora Central Dispatch (APD)"
   },
   {
     "lat": 41.753918,
     "long": -88.33785,
-    "desc": "Aurora Fire Station Number 7"
+    "desc": "Aurora Fire Department - Station 7  </br> Station: 5 of 9 </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: Aurora Central Dispatch (APD)"
+  },
+  {
+    "lat": 41.754878,
+    "long": -88.224638,
+    "desc": "Aurora Fire Department - Station 8  </br> Station: 6 of 9 </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: Aurora Central Dispatch (APD)"
+  },
+  {
+    "lat": 41.794609,
+    "long": -88.258998,
+    "desc": "Aurora Fire Department - Station 9  </br> Station: 7 of 9 </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: Aurora Central Dispatch (APD)"
   },
   {
     "lat": 41.742717,
     "long": -88.282287,
-    "desc": "Aurora Township Fire Protection District Station 1"
+    "desc": "Aurora Township Fire Protection District Station 1  </br> Station: 1 of 2 </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: KenCom 911 (Kendall Co ETSB)"
   },
   {
     "lat": 41.73084,
     "long": -88.305727,
-    "desc": "Aurora Township Fire Protection District Station 2"
+    "desc": "Aurora Township Fire Protection District Station 2  </br> Station: 2 of 2 </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: KenCom 911 (Kendall Co ETSB)"
   },
   {
     "lat": 37.888104,
@@ -2422,12 +2422,12 @@
   {
     "lat": 41.851163,
     "long": -88.292941,
-    "desc": "Batavia Fire Department - Station 1"
+    "desc": "Batavia Fire Department - Station 1 </br> Station: 1 of 2 </br> MABAS Division: 13 - Kane South </br> EMS: ALS\\Staffed by PSI </br> Dispatched by: TriCom Central Dispatch"
   },
   {
     "lat": 41.846284,
     "long": -88.332537,
-    "desc": "Batavia Fire Department - Station 2"
+    "desc": "Batavia Fire Department - Station 2 </br> Station: 1 of 2 </br> MABAS Division: 13 - Kane South </br> EMS: ALS\\Staffed by PSI </br> Dispatched by: TriCom Central Dispatch"
   },
   {
     "lat": 40.190605,
@@ -2537,12 +2537,12 @@
   {
     "lat": 42.258172,
     "long": -88.84249,
-    "desc": "Belvidere Fire Department Station 1"
+    "desc": "Belvidere Fire Department - Station 1   </br> Station: 1 of 2 </br> MABAS Division: 8 - Winnebago/Boone Co </br> EMS: Provided by OSF LifeLine </br> Dispatched by: Boone County Control"
   },
   {
     "lat": 42.247494,
     "long": -88.835556,
-    "desc": "Belvidere Fire Department Station 2"
+    "desc": "Belvidere Fire Department - Station 2   </br> Station: 2 of 2 </br> MABAS Division: 8 - Winnebago/Boone Co </br> EMS: Provided by OSF LifeLine </br> Dispatched by: Boone County Control"
   },
   {
     "lat": 39.919486,
@@ -2617,7 +2617,7 @@
   {
     "lat": 41.76149,
     "long": -88.543833,
-    "desc": "Big Rock Fire Protection District"
+    "desc": "Big Rock Fire Protection District  </br> Station: 1 of 1 </br> MABAS Division: 13 - Kane South </br> EMS: ALS </br> Dispatched by: KaneComm"
   },
   {
     "lat": 40.851784,
@@ -2740,16 +2740,6 @@
     "desc": "Bluegrass Fire Protection District"
   },
   {
-    "lat": 41.702942,
-    "long": -88.120787,
-    "desc": "Bolingbrook Fire Department - Station 4"
-  },
-  {
-    "lat": 41.7161,
-    "long": -88.055677,
-    "desc": "Bolingbrook Fire Department - Station 3"
-  },
-  {
     "lat": 41.699493,
     "long": -88.051117,
     "desc": "Bolingbrook Fire Department - Station 1"
@@ -2758,6 +2748,16 @@
     "lat": 41.69059,
     "long": -88.081551,
     "desc": "Bolingbrook Fire Department - Station 2"
+  },
+  {
+    "lat": 41.7161,
+    "long": -88.055677,
+    "desc": "Bolingbrook Fire Department - Station 3"
+  },
+  {
+    "lat": 41.702942,
+    "long": -88.120787,
+    "desc": "Bolingbrook Fire Department - Station 4"
   },
   {
     "lat": 41.667964,
@@ -2775,19 +2775,19 @@
     "desc": "Bone Gap Rural Fire Protection District"
   },
   {
-    "lat": 42.275696,
-    "long": -88.862992,
-    "desc": "Boone County Fire Protection District 2 - Station 1"
-  },
-  {
     "lat": 42.398058,
     "long": -88.741443,
-    "desc": "Boone County Fire Protection District 1 - Station 1"
+    "desc": "Boone County Fire Protection District 1 - Station 1   </br> Station: 1 of 1 </br> MABAS Division: 8 - Winnebago/Boone Co </br> EMS: Provided by OSF LifeLine </br> Dispatched by: Boone County Control"
+  },
+  {
+    "lat": 42.275696,
+    "long": -88.862992,
+    "desc": "Boone County Fire Protection District 2 - Station 1   </br> Station: 1 of 2 </br> MABAS Division: 8 - Winnebago/Boone Co </br> EMS: Provided by OSF LifeLine </br> Dispatched by: Boone County Control"
   },
   {
     "lat": 42.253185,
     "long": -88.75343,
-    "desc": "Boone County Fire Protection District 2 - Station 2"
+    "desc": "Boone County Fire Protection District 2 - Station 2   </br> Station: 2 of 2 </br> MABAS Division: 8 - Winnebago/Boone Co </br> EMS: Provided by OSF LifeLine </br> Dispatched by: Boone County Control"
   },
   {
     "lat": 41.162213,
@@ -2862,17 +2862,17 @@
   {
     "lat": 41.631632,
     "long": -88.44839,
-    "desc": "Bristol - Kendall Fire Department Station 1"
+    "desc": "Bristol - Kendall Fire Department - Station 1 </br> Station: 1 of 3 </br> MABAS Division: 14 - Kendall County </br> EMS: MICU\\Staffed by PSI </br> Dispatched by: KenCom 911"
   },
   {
     "lat": 41.669092,
     "long": -88.433681,
-    "desc": "Bristol - Kendall Fire Department Station 2"
+    "desc": "Bristol - Kendall Fire Department - Station 2 </br> Station: 1 of 3 </br> MABAS Division: 14 - Kendall County </br> EMS: MICU\\Staffed by PSI </br> Dispatched by: KenCom 911"
   },
   {
     "lat": 41.704133,
     "long": -88.436075,
-    "desc": "Bristol - Kendall Fire Department Station 3"
+    "desc": "Bristol - Kendall Fire Department - Station 3 </br> Station: 1 of 3 </br> MABAS Division: 14 - Kendall County </br> EMS: MICU\\Staffed by PSI </br> Dispatched by: KenCom 911"
   },
   {
     "lat": 41.860434,
@@ -3180,11 +3180,6 @@
     "desc": "Carmi Fire Department"
   },
   {
-    "lat": 41.896841,
-    "long": -88.101621,
-    "desc": "Carol Stream Fire Protection District - Station 29"
-  },
-  {
     "lat": 41.930414,
     "long": -88.156199,
     "desc": "Carol Stream Fire Protection District - Station 27"
@@ -3195,9 +3190,9 @@
     "desc": "Carol Stream Fire Protection District - Station 28"
   },
   {
-    "lat": 42.13151,
-    "long": -88.32015,
-    "desc": "Carpentersville Fire Department - Station 93"
+    "lat": 41.896841,
+    "long": -88.101621,
+    "desc": "Carol Stream Fire Protection District - Station 29"
   },
   {
     "lat": 42.108493,
@@ -3208,6 +3203,11 @@
     "lat": 42.121126,
     "long": -88.264058,
     "desc": "Carpentersville Fire Department - Station 92"
+  },
+  {
+    "lat": 42.13151,
+    "long": -88.32015,
+    "desc": "Carpentersville Fire Department - Station 93"
   },
   {
     "lat": 42.131487,
@@ -3457,517 +3457,517 @@
   {
     "lat": 41.869606,
     "long": -87.642034,
-    "desc": "Chicago Fire Academy"
+    "desc": "Chicago Fire Academy  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.901808,
     "long": -87.637861,
-    "desc": "Chicago Fire Department - Air Mask Services"
+    "desc": "Chicago Fire Department - Air Mask Services  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.963527,
     "long": -87.907614,
-    "desc": "Chicago Fire Department ARFF Station #1"
+    "desc": "Chicago Fire Department ARFF Station #1  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.991321,
     "long": -87.898641,
-    "desc": "Chicago Fire Department ARFF Station #2"
+    "desc": "Chicago Fire Department ARFF Station #2  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.980699,
     "long": -87.898338,
-    "desc": "Chicago Fire Department ARFF Station #3"
+    "desc": "Chicago Fire Department ARFF Station #3  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 42.000835,
     "long": -87.918373,
-    "desc": "Chicago Fire Department ARFF Station #4"
+    "desc": "Chicago Fire Department ARFF Station #4  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.988041,
     "long": -87.915928,
-    "desc": "Chicago Fire Department District 3 Station 6 O'Hare Field Rescue Station 1"
+    "desc": "Chicago Fire Department District 3 Station 6 O'Hare Field Rescue Station 1  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.864083,
     "long": -87.641407,
-    "desc": "Chicago Fire Department EMS & Paramedic Office"
-  },
-  {
-    "lat": 41.651942,
-    "long": -87.544616,
-    "desc": "Chicago Fire Department Engine Company 97"
+    "desc": "Chicago Fire Department EMS & Paramedic Office  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.876309,
     "long": -87.633528,
-    "desc": "Chicago Fire Department Engine Company 1"
+    "desc": "Chicago Fire Department Engine Company 1  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.768623,
     "long": -87.680107,
-    "desc": "Chicago Fire Department Engine Company 101"
+    "desc": "Chicago Fire Department Engine Company 101  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 42.014725,
     "long": -87.675377,
-    "desc": "Chicago Fire Department Engine Company 102"
+    "desc": "Chicago Fire Department Engine Company 102  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.880687,
     "long": -87.664274,
-    "desc": "Chicago Fire Department Engine Company 103"
+    "desc": "Chicago Fire Department Engine Company 103  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.683086,
     "long": -87.539619,
-    "desc": "Chicago Fire Department Engine Company 104"
+    "desc": "Chicago Fire Department Engine Company 104  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.942898,
     "long": -87.703204,
-    "desc": "Chicago Fire Department Engine Company 106"
+    "desc": "Chicago Fire Department Engine Company 106  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.868109,
     "long": -87.695602,
-    "desc": "Chicago Fire Department Engine Company 107"
+    "desc": "Chicago Fire Department Engine Company 107  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.96449,
     "long": -87.757599,
-    "desc": "Chicago Fire Department Engine Company 108"
+    "desc": "Chicago Fire Department Engine Company 108  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.848264,
     "long": -87.704576,
-    "desc": "Chicago Fire Department Engine Company 109"
+    "desc": "Chicago Fire Department Engine Company 109  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.97686,
     "long": -87.836386,
-    "desc": "Chicago Fire Department Engine Company 11"
+    "desc": "Chicago Fire Department Engine Company 11  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.976044,
     "long": -87.687803,
-    "desc": "Chicago Fire Department Engine Company 110"
+    "desc": "Chicago Fire Department Engine Company 110  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.950862,
     "long": -87.678482,
-    "desc": "Chicago Fire Department Engine Company 112"
+    "desc": "Chicago Fire Department Engine Company 112  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.873075,
     "long": -87.755522,
-    "desc": "Chicago Fire Department Engine Company 113"
+    "desc": "Chicago Fire Department Engine Company 113  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.678878,
     "long": -87.647463,
-    "desc": "Chicago Fire Department Engine Company 115"
+    "desc": "Chicago Fire Department Engine Company 115  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.785062,
     "long": -87.664156,
-    "desc": "Chicago Fire Department Engine Company 116"
+    "desc": "Chicago Fire Department Engine Company 116  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.895146,
     "long": -87.748976,
-    "desc": "Chicago Fire Department Engine Company 117"
+    "desc": "Chicago Fire Department Engine Company 117  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.990625,
     "long": -87.798603,
-    "desc": "Chicago Fire Department Engine Company 119"
+    "desc": "Chicago Fire Department Engine Company 119  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.692896,
     "long": -87.668695,
-    "desc": "Chicago Fire Department Engine Company 120"
+    "desc": "Chicago Fire Department Engine Company 120  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.721486,
     "long": -87.665674,
-    "desc": "Chicago Fire Department Engine Company 121"
+    "desc": "Chicago Fire Department Engine Company 121  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.750821,
     "long": -87.620979,
-    "desc": "Chicago Fire Department Engine Company 122"
+    "desc": "Chicago Fire Department Engine Company 122  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.800757,
     "long": -87.680294,
-    "desc": "Chicago Fire Department Engine Company 123"
+    "desc": "Chicago Fire Department Engine Company 123  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.96198,
     "long": -87.708768,
-    "desc": "Chicago Fire Department Engine Company 124"
+    "desc": "Chicago Fire Department Engine Company 124  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.922539,
     "long": -87.787665,
-    "desc": "Chicago Fire Department Engine Company 125"
+    "desc": "Chicago Fire Department Engine Company 125  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.762181,
     "long": -87.5637,
-    "desc": "Chicago Fire Department Engine Company 126"
+    "desc": "Chicago Fire Department Engine Company 126  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.778611,
     "long": -87.752541,
-    "desc": "Chicago Fire Department Engine Company 127"
+    "desc": "Chicago Fire Department Engine Company 127  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.745946,
     "long": -87.663885,
-    "desc": "Chicago Fire Department Engine Company 129"
+    "desc": "Chicago Fire Department Engine Company 129  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.886755,
     "long": -87.620397,
-    "desc": "Chicago Fire Department Engine Company 13"
+    "desc": "Chicago Fire Department Engine Company 13  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.895855,
     "long": -87.656296,
-    "desc": "Chicago Fire Department Engine Company 14"
+    "desc": "Chicago Fire Department Engine Company 14  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.747155,
     "long": -87.702682,
-    "desc": "Chicago Fire Department Engine Company 15"
+    "desc": "Chicago Fire Department Engine Company 15  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.823338,
     "long": -87.624243,
-    "desc": "Chicago Fire Department Engine Company 16"
+    "desc": "Chicago Fire Department Engine Company 16  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.864729,
     "long": -87.655786,
-    "desc": "Chicago Fire Department Engine Company 18"
+    "desc": "Chicago Fire Department Engine Company 18  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.832299,
     "long": -87.61782,
-    "desc": "Chicago Fire Department Engine Company 19"
+    "desc": "Chicago Fire Department Engine Company 19  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.91774,
     "long": -87.644114,
-    "desc": "Chicago Fire Department Engine Company 22"
+    "desc": "Chicago Fire Department Engine Company 22  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.855082,
     "long": -87.675777,
-    "desc": "Chicago Fire Department Engine Company 23"
+    "desc": "Chicago Fire Department Engine Company 23  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.704672,
     "long": -87.657117,
-    "desc": "Chicago Fire Department Engine Company 24"
+    "desc": "Chicago Fire Department Engine Company 24  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.881393,
     "long": -87.682042,
-    "desc": "Chicago Fire Department Engine Company 26"
+    "desc": "Chicago Fire Department Engine Company 26  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.845226,
     "long": -87.656397,
-    "desc": "Chicago Fire Department Engine Company 28"
+    "desc": "Chicago Fire Department Engine Company 28  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.830465,
     "long": -87.642288,
-    "desc": "Chicago Fire Department Engine Company 29"
+    "desc": "Chicago Fire Department Engine Company 29  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.902312,
     "long": -87.667192,
-    "desc": "Chicago Fire Department Engine Company 30"
+    "desc": "Chicago Fire Department Engine Company 30  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.790628,
     "long": -87.781574,
-    "desc": "Chicago Fire Department Engine Company 32"
+    "desc": "Chicago Fire Department Engine Company 32  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.808002,
     "long": -87.72531,
-    "desc": "Chicago Fire Department Engine Company 34"
+    "desc": "Chicago Fire Department Engine Company 34  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.916104,
     "long": -87.677394,
-    "desc": "Chicago Fire Department Engine Company 35"
+    "desc": "Chicago Fire Department Engine Company 35  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.858998,
     "long": -87.747719,
-    "desc": "Chicago Fire Department Engine Company 38"
+    "desc": "Chicago Fire Department Engine Company 38  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.833344,
     "long": -87.666398,
-    "desc": "Chicago Fire Department Engine Company 39"
+    "desc": "Chicago Fire Department Engine Company 39  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.903867,
     "long": -87.643073,
-    "desc": "Chicago Fire Department Engine Company 4"
+    "desc": "Chicago Fire Department Engine Company 4  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.890413,
     "long": -87.629781,
-    "desc": "Chicago Fire Department Engine Company 42"
+    "desc": "Chicago Fire Department Engine Company 42  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.920825,
     "long": -87.696445,
-    "desc": "Chicago Fire Department Engine Company 43"
+    "desc": "Chicago Fire Department Engine Company 43  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.888594,
     "long": -87.706789,
-    "desc": "Chicago Fire Department Engine Company 44"
+    "desc": "Chicago Fire Department Engine Company 44  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.811212,
     "long": -87.60692,
-    "desc": "Chicago Fire Department Engine Company 45"
+    "desc": "Chicago Fire Department Engine Company 45  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.726077,
     "long": -87.549975,
-    "desc": "Chicago Fire Department Engine Company 46"
+    "desc": "Chicago Fire Department Engine Company 46  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.773242,
     "long": -87.613874,
-    "desc": "Chicago Fire Department Engine Company 47"
+    "desc": "Chicago Fire Department Engine Company 47  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.813629,
     "long": -87.66487,
-    "desc": "Chicago Fire Department Engine Company 49"
+    "desc": "Chicago Fire Department Engine Company 49  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.877103,
     "long": -87.644476,
-    "desc": "Chicago Fire Department Engine Company 5"
+    "desc": "Chicago Fire Department Engine Company 5  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.80326,
     "long": -87.643272,
-    "desc": "Chicago Fire Department Engine Company 50"
+    "desc": "Chicago Fire Department Engine Company 50  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.76515,
     "long": -87.637969,
-    "desc": "Chicago Fire Department Engine Company 54"
+    "desc": "Chicago Fire Department Engine Company 54  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.93196,
     "long": -87.649472,
-    "desc": "Chicago Fire Department Engine Company 55"
+    "desc": "Chicago Fire Department Engine Company 55  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.9379,
     "long": -87.683859,
-    "desc": "Chicago Fire Department Engine Company 56"
+    "desc": "Chicago Fire Department Engine Company 56  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.904437,
     "long": -87.687577,
-    "desc": "Chicago Fire Department Engine Company 57"
+    "desc": "Chicago Fire Department Engine Company 57  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.795428,
     "long": -87.597692,
-    "desc": "Chicago Fire Department Engine Company 60"
+    "desc": "Chicago Fire Department Engine Company 60  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.687271,
     "long": -87.621687,
-    "desc": "Chicago Fire Department Engine Company 62"
+    "desc": "Chicago Fire Department Engine Company 62  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.773518,
     "long": -87.589828,
-    "desc": "Chicago Fire Department Engine Company 63"
+    "desc": "Chicago Fire Department Engine Company 63  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.75288,
     "long": -87.72175,
-    "desc": "Chicago Fire Department Engine Company 64"
+    "desc": "Chicago Fire Department Engine Company 64  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.817545,
     "long": -87.699697,
-    "desc": "Chicago Fire Department Engine Company 65"
+    "desc": "Chicago Fire Department Engine Company 65  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.917456,
     "long": -87.758006,
-    "desc": "Chicago Fire Department Engine Company 68"
+    "desc": "Chicago Fire Department Engine Company 68  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.954095,
     "long": -87.73378,
-    "desc": "Chicago Fire Department Engine Company 69"
+    "desc": "Chicago Fire Department Engine Company 69  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.938508,
     "long": -87.749933,
-    "desc": "Chicago Fire Department Engine Company 7"
+    "desc": "Chicago Fire Department Engine Company 7  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.991906,
     "long": -87.670586,
-    "desc": "Chicago Fire Department Engine Company 70"
+    "desc": "Chicago Fire Department Engine Company 70  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.995103,
     "long": -87.699385,
-    "desc": "Chicago Fire Department Engine Company 71"
+    "desc": "Chicago Fire Department Engine Company 71  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.749464,
     "long": -87.583567,
-    "desc": "Chicago Fire Department Engine Company 72"
+    "desc": "Chicago Fire Department Engine Company 72  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.736844,
     "long": -87.642717,
-    "desc": "Chicago Fire Department Engine Company 73"
+    "desc": "Chicago Fire Department Engine Company 73  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.702174,
     "long": -87.535135,
-    "desc": "Chicago Fire Department Engine Company 74"
+    "desc": "Chicago Fire Department Engine Company 74  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.676336,
     "long": -87.622961,
-    "desc": "Chicago Fire Department Engine Company 75"
+    "desc": "Chicago Fire Department Engine Company 75  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.913103,
     "long": -87.726276,
-    "desc": "Chicago Fire Department Engine Company 76"
+    "desc": "Chicago Fire Department Engine Company 76  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.949153,
     "long": -87.656583,
-    "desc": "Chicago Fire Department Engine Company 78"
+    "desc": "Chicago Fire Department Engine Company 78  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.997994,
     "long": -87.766593,
-    "desc": "Chicago Fire Department Engine Company 79"
+    "desc": "Chicago Fire Department Engine Company 79  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.853112,
     "long": -87.63237,
-    "desc": "Chicago Fire Department Engine Company 8"
+    "desc": "Chicago Fire Department Engine Company 8  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.663409,
     "long": -87.590786,
-    "desc": "Chicago Fire Department Engine Company 80"
+    "desc": "Chicago Fire Department Engine Company 80  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.704684,
     "long": -87.561286,
-    "desc": "Chicago Fire Department Engine Company 81"
+    "desc": "Chicago Fire Department Engine Company 81  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.729021,
     "long": -87.603847,
-    "desc": "Chicago Fire Department Engine Company 82"
+    "desc": "Chicago Fire Department Engine Company 82  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.9655,
     "long": -87.660027,
-    "desc": "Chicago Fire Department Engine Company 83"
+    "desc": "Chicago Fire Department Engine Company 83  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.787062,
     "long": -87.626788,
-    "desc": "Chicago Fire Department Engine Company 84"
-  },
-  {
-    "lat": 41.785788,
-    "long": -87.714949,
-    "desc": "Chicago Fire Department Engine Company 88"
-  },
-  {
-    "lat": 41.989735,
-    "long": -87.728097,
-    "desc": "Chicago Fire Department Engine Company 89"
-  },
-  {
-    "lat": 41.932318,
-    "long": -87.726606,
-    "desc": "Chicago Fire Department Engine Company 91"
-  },
-  {
-    "lat": 41.691818,
-    "long": -87.699001,
-    "desc": "Chicago Fire Department Engine Company 92"
-  },
-  {
-    "lat": 41.705444,
-    "long": -87.631977,
-    "desc": "Chicago Fire Department Engine Company 93"
-  },
-  {
-    "lat": 41.949666,
-    "long": -87.771604,
-    "desc": "Chicago Fire Department Engine Company 94"
-  },
-  {
-    "lat": 41.882902,
-    "long": -87.726233,
-    "desc": "Chicago Fire Department Engine Company 95"
-  },
-  {
-    "lat": 41.88834,
-    "long": -87.767555,
-    "desc": "Chicago Fire Department Engine Company 96"
-  },
-  {
-    "lat": 41.897195,
-    "long": -87.622555,
-    "desc": "Chicago Fire Department Engine Company 98"
-  },
-  {
-    "lat": 41.83732,
-    "long": -87.728312,
-    "desc": "Chicago Fire Department Engine Company 99"
-  },
-  {
-    "lat": 41.829834,
-    "long": -87.624185,
-    "desc": "Chicago Fire Department Headquarters"
-  },
-  {
-    "lat": 41.869585,
-    "long": -87.641151,
-    "desc": "Chicago Fire Department Survive Alive House"
+    "desc": "Chicago Fire Department Engine Company 84  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.951336,
     "long": -87.807721,
-    "desc": "Chicago Fire Department Engine Company 86"
+    "desc": "Chicago Fire Department Engine Company 86  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.785788,
+    "long": -87.714949,
+    "desc": "Chicago Fire Department Engine Company 88  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.989735,
+    "long": -87.728097,
+    "desc": "Chicago Fire Department Engine Company 89  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.932318,
+    "long": -87.726606,
+    "desc": "Chicago Fire Department Engine Company 91  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.691818,
+    "long": -87.699001,
+    "desc": "Chicago Fire Department Engine Company 92  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.705444,
+    "long": -87.631977,
+    "desc": "Chicago Fire Department Engine Company 93  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.949666,
+    "long": -87.771604,
+    "desc": "Chicago Fire Department Engine Company 94  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.882902,
+    "long": -87.726233,
+    "desc": "Chicago Fire Department Engine Company 95  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.88834,
+    "long": -87.767555,
+    "desc": "Chicago Fire Department Engine Company 96  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.651942,
+    "long": -87.544616,
+    "desc": "Chicago Fire Department Engine Company 97  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.897195,
+    "long": -87.622555,
+    "desc": "Chicago Fire Department Engine Company 98  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.83732,
+    "long": -87.728312,
+    "desc": "Chicago Fire Department Engine Company 99  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.829834,
+    "long": -87.624185,
+    "desc": "Chicago Fire Department Headquarters  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.869585,
+    "long": -87.641151,
+    "desc": "Chicago Fire Department Survive Alive House  </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.498667,
@@ -4007,7 +4007,7 @@
   {
     "lat": 42.209317,
     "long": -89.083179,
-    "desc": "Chicago Rockford International Airport Fire Brigade"
+    "desc": "Chicago Rockford International Airport Fire Brigade </br> Station: 1 of 1 </br> MABAS Division: 8 - Winnebago/Boone County </br> EMS: ALS </br> Dispatched by: Self"
   },
   {
     "lat": 40.876452,
@@ -4083,11 +4083,6 @@
     "lat": 40.564905,
     "long": -87.893438,
     "desc": "Cissna Park Fire Protection District"
-  },
-  {
-    "lat": 41.912604,
-    "long": -88.351614,
-    "desc": "City of St. Charles Fire Department - Station 3"
   },
   {
     "lat": 38.719809,
@@ -4220,11 +4215,6 @@
     "desc": "Congerville Fire Department"
   },
   {
-    "lat": 41.405994,
-    "long": -90.561444,
-    "desc": "Coyne Center Fire and Ambulance"
-  },
-  {
     "lat": 39.579455,
     "long": -88.406913,
     "desc": "Cooks Mills Fire Protection District"
@@ -4308,6 +4298,11 @@
     "lat": 39.250642,
     "long": -88.861933,
     "desc": "Cowden Fire Protection District"
+  },
+  {
+    "lat": 41.405994,
+    "long": -90.561444,
+    "desc": "Coyne Center Fire and Ambulance"
   },
   {
     "lat": 40.770694,
@@ -4647,22 +4642,22 @@
   {
     "lat": 41.84166,
     "long": -89.483046,
-    "desc": "Dixon City Fire Department"
+    "desc": "Dixon City Fire Department  </br> Station: 1 of 3 </br> MABAS Division: 38 - Lee County </br> EMS: ALS </br> Dispatched by: Lee County Sheriffs Department"
   },
   {
     "lat": 41.847427,
     "long": -89.499085,
-    "desc": "Dixon Rural Fire Protection District - Station 1 (Dixon)"
+    "desc": "Dixon Rural Fire Protection District - Station 1 (Dixon) </br> Station: 1 of 3 </br> MABAS Division: 38 - Lee County </br> EMS: ALS </br> Dispatched by: Lee County Sheriffs Department"
   },
   {
     "lat": 41.832588,
     "long": -89.388356,
-    "desc": "Dixon Rural Fire Protection District - Station 2 (Nachusa)"
+    "desc": "Dixon Rural Fire Protection District - Station 2 (Nachusa) </br> Station: 1 of 3 </br> MABAS Division: 38 - Lee County </br> EMS: ALS </br> Dispatched by: Lee County Sheriffs Department"
   },
   {
     "lat": 41.8992,
     "long": -89.414436,
-    "desc": "Dixon Rural Fire Protection District - Station 3 (Grand Detour)"
+    "desc": "Dixon Rural Fire Protection District - Station 3 (Grand Detour) </br> Station: 1 of 3 </br> MABAS Division: 38 - Lee County </br> EMS: ALS </br> Dispatched by: Lee County Sheriffs Department"
   },
   {
     "lat": 41.623399,
@@ -4725,6 +4720,16 @@
     "desc": "Downs Community Fire Protection District"
   },
   {
+    "lat": 38.010288,
+    "long": -89.23813,
+    "desc": "Du Quoin Fire Department Station 1"
+  },
+  {
+    "lat": 37.978322,
+    "long": -89.232759,
+    "desc": "Du Quoin Fire Department Station 2"
+  },
+  {
     "lat": 40.864323,
     "long": -89.677737,
     "desc": "Dunlap Fire Department"
@@ -4738,16 +4743,6 @@
     "lat": 38.516449,
     "long": -90.211577,
     "desc": "Dupo Fire Protection District"
-  },
-  {
-    "lat": 38.010288,
-    "long": -89.23813,
-    "desc": "Du Quoin Fire Department Station 1"
-  },
-  {
-    "lat": 37.978322,
-    "long": -89.232759,
-    "desc": "Du Quoin Fire Department Station 2"
   },
   {
     "lat": 42.436496,
@@ -4962,12 +4957,17 @@
   {
     "lat": 41.903828,
     "long": -88.468849,
-    "desc": "Elburn and Countryside Fire Protection District Station 1"
+    "desc": "Elburn and Countryside Fire Protection District Station 1 </br> Station: 1 of 3 </br> MABAS Division: 13 - Kane South </br> EMS: ALS </br> Dispatched by: TriCom Central Dispatch"
   },
   {
     "lat": 41.862248,
     "long": -88.394257,
-    "desc": "Elburn and Countryside Fire Protection District Station 2"
+    "desc": "Elburn and Countryside Fire Protection District Station 2 </br> Station: 2 of 3 </br> MABAS Division: 13 - Kane South </br> EMS: ALS </br> Dispatched by: TriCom Central Dispatch"
+  },
+  {
+    "lat": 41.942968,
+    "long": -88.480903,
+    "desc": "Elburn and Countryside Fire Protection District Station 3 </br> Station: 3 of 3 </br> MABAS Division: 13 - Kane South </br> EMS: ALS </br> Dispatched by: TriCom Central Dispatch"
   },
   {
     "lat": 37.812611,
@@ -4982,47 +4982,37 @@
   {
     "lat": 42.0467,
     "long": -88.269617,
-    "desc": "Elgin Fire Department - Station 1"
-  },
-  {
-    "lat": 42.051298,
-    "long": -88.337405,
-    "desc": "Elgin Fire Department - Station 3"
-  },
-  {
-    "lat": 42.046621,
-    "long": -88.269437,
-    "desc": "Elgin Fire Department Station #1"
+    "desc": "Elgin Fire Department - Station 1 </br> Station: 1 of 7 </br> MABAS Division: 2 - Kane North </br> EMS: ALS </br> Dispatched by: Elgin Police Department"
   },
   {
     "lat": 42.059087,
     "long": -88.297202,
-    "desc": "Elgin Fire Station #2"
-  },
-  {
-    "lat": 42.034604,
-    "long": -88.294861,
-    "desc": "Elgin Fire Station 6"
+    "desc": "Elgin Fire Department - Station 2 </br> Station: 2 of 7 </br> MABAS Division: 2 - Kane North </br> EMS: ALS </br> Dispatched by: Elgin Police Department"
   },
   {
     "lat": 42.051268,
     "long": -88.337245,
-    "desc": "Elgin Fire Station Number 3"
+    "desc": "Elgin Fire Department - Station 3 </br> Station: 3 of 7 </br> MABAS Division: 2 - Kane North </br> EMS: ALS </br> Dispatched by: Elgin Police Department"
   },
   {
     "lat": 42.019095,
     "long": -88.313187,
-    "desc": "Elgin Fire Station Number 4"
+    "desc": "Elgin Fire Department - Station 4 </br> Station: 4 of 7 </br> MABAS Division: 2 - Kane North </br> EMS: ALS </br> Dispatched by: Elgin Police Department"
   },
   {
     "lat": 42.02832,
     "long": -88.25989,
-    "desc": "Elgin Fire Station Number 5"
+    "desc": "Elgin Fire Department - Station 5 </br> Station: 5 of 7 </br> MABAS Division: 2 - Kane North </br> EMS: ALS </br> Dispatched by: Elgin Police Department"
+  },
+  {
+    "lat": 42.034604,
+    "long": -88.294861,
+    "desc": "Elgin Fire Department - Station 6 </br> Station: 6 of 7 </br> MABAS Division: 2 - Kane North </br> EMS: ALS </br> Dispatched by: Elgin Police Department"
   },
   {
     "lat": 42.009346,
     "long": -88.360061,
-    "desc": "Elgin Fire Station Number 7"
+    "desc": "Elgin Fire Department - Station 7 </br> Station: 7 of 7 </br> MABAS Division: 2 - Kane North </br> EMS: ALS </br> Dispatched by: Elgin Police Department"
   },
   {
     "lat": 42.318477,
@@ -5032,7 +5022,7 @@
   {
     "lat": 37.449129,
     "long": -88.302929,
-    "desc": "Elizabethtown Fire Department"
+    "desc": "Elizabethtown Fire Department </br> Station: 1 of 1 </br> MABAS Division: 45 - Southern IL </br> EMS: Provided by Hardin County Ambulance </br> Dispatched by: Hardin County Sheriff Department"
   },
   {
     "lat": 42.030046,
@@ -5630,11 +5620,6 @@
     "desc": "Geneva Fire Department"
   },
   {
-    "lat": 42.09823,
-    "long": -88.691737,
-    "desc": "Genoa - Kingston Fire Protection District Station 2"
-  },
-  {
     "lat": 42.098926,
     "long": -88.688162,
     "desc": "Genoa - Kingston Fire Protection Dist. Station 1"
@@ -5643,6 +5628,11 @@
     "lat": 42.099848,
     "long": -88.758369,
     "desc": "Genoa - Kingston Fire Protection Dist. Station 2"
+  },
+  {
+    "lat": 42.09823,
+    "long": -88.691737,
+    "desc": "Genoa - Kingston Fire Protection District Station 2"
   },
   {
     "lat": 39.973858,
@@ -5835,14 +5825,14 @@
     "desc": "Grandview Fire Department"
   },
   {
-    "lat": 38.710411,
-    "long": -90.160961,
-    "desc": "Granite City Fire Department - Station 2"
-  },
-  {
     "lat": 38.704506,
     "long": -90.139687,
     "desc": "Granite City Fire Department - Station 1 (HQ)"
+  },
+  {
+    "lat": 38.710411,
+    "long": -90.160961,
+    "desc": "Granite City Fire Department - Station 2"
   },
   {
     "lat": 38.729168,
@@ -5900,6 +5890,11 @@
     "desc": "Grayslake Fire Protection District Station 3"
   },
   {
+    "lat": 42.313748,
+    "long": -87.839234,
+    "desc": "Great Lakes Naval Fire Department"
+  },
+  {
     "lat": 42.313998,
     "long": -87.839058,
     "desc": "Great Lakes Naval Fire Station #1"
@@ -5908,11 +5903,6 @@
     "lat": 42.30926,
     "long": -87.852216,
     "desc": "Great Lakes Naval Fire Station #2"
-  },
-  {
-    "lat": 42.313748,
-    "long": -87.839234,
-    "desc": "Great Lakes Naval Fire Department"
   },
   {
     "lat": 42.311949,
@@ -6217,7 +6207,7 @@
   {
     "lat": 41.779081,
     "long": -88.641779,
-    "desc": "Hinckley Fire Protection District"
+    "desc": "Hinckley Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS </br> Dispatched by: DeKalb County Sheriffs Department"
   },
   {
     "lat": 39.683874,
@@ -6385,24 +6375,24 @@
     "desc": "Hume Fire Protection District"
   },
   {
-    "lat": 42.18312,
-    "long": -88.402797,
-    "desc": "Huntley Fire Department - Station 2"
-  },
-  {
-    "lat": 42.168903,
-    "long": -88.413925,
-    "desc": "Huntley Fire Protection District Annex Building"
-  },
-  {
     "lat": 42.168919,
     "long": -88.427055,
     "desc": "Huntley Fire Department - Station 1"
   },
   {
+    "lat": 42.18312,
+    "long": -88.402797,
+    "desc": "Huntley Fire Department - Station 2"
+  },
+  {
     "lat": 42.148968,
     "long": -88.438797,
     "desc": "Huntley Fire Department - Station 3"
+  },
+  {
+    "lat": 42.168903,
+    "long": -88.413925,
+    "desc": "Huntley Fire Protection District Annex Building"
   },
   {
     "lat": 37.831964,
@@ -6632,7 +6622,7 @@
   {
     "lat": 41.834921,
     "long": -88.519061,
-    "desc": "Kaneville Fire Protection District"
+    "desc": "Kaneville Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 13 - Kane South </br> EMS: Provided by Big Rock </br> Dispatched by: KaneComm"
   },
   {
     "lat": 41.119755,
@@ -6737,7 +6727,7 @@
   {
     "lat": 42.088213,
     "long": -88.870745,
-    "desc": "Kirkland Fire Department"
+    "desc": "Kirkland Fire Department </br> Station: 1 of 1 </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS\\Staffing Dependent </br> Dispatched by: DeKalb County Sheriffs Department"
   },
   {
     "lat": 42.280596,
@@ -6947,12 +6937,12 @@
   {
     "lat": 41.790488,
     "long": -88.940904,
-    "desc": "Lee Volunteer Fire Protection District"
+    "desc": "Lee Volunteer Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 6 - DeKalb County </br> EMS: BLS FR\\Provided by Shabbona FD </br> Dispatched by: DeKalb County Sheriffs Department"
   },
   {
     "lat": 41.61445,
     "long": -88.797116,
-    "desc": "Leland Fire Protection District"
+    "desc": "Leland Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 25 - LaSalle County </br> EMS: BLS </br> Dispatched by: DeKalb County Sheriffs Department"
   },
   {
     "lat": 41.672096,
@@ -7235,14 +7225,14 @@
     "desc": "Loda Fire Protection District"
   },
   {
-    "lat": 40.698306,
-    "long": -89.894411,
-    "desc": "Logan - Trivoli Fire Protection District - Travoli Station"
-  },
-  {
     "lat": 40.636624,
     "long": -89.748571,
     "desc": "Logan - Trivoli Fire Protection District - Lake Camelot Station"
+  },
+  {
+    "lat": 40.698306,
+    "long": -89.894411,
+    "desc": "Logan - Trivoli Fire Protection District - Travoli Station"
   },
   {
     "lat": 41.846897,
@@ -7295,14 +7285,14 @@
     "desc": "Lostant Community Fire Protection District"
   },
   {
-    "lat": 42.325145,
-    "long": -89.035953,
-    "desc": "Loves Park Fire Department - Station 2"
-  },
-  {
     "lat": 42.3125,
     "long": -89.059326,
     "desc": "Loves Park Fire Department - Station 1"
+  },
+  {
+    "lat": 42.325145,
+    "long": -89.035953,
+    "desc": "Loves Park Fire Department - Station 2"
   },
   {
     "lat": 39.715236,
@@ -7330,14 +7320,14 @@
     "desc": "Lyndon Fire Department"
   },
   {
-    "lat": 42.058481,
-    "long": -89.037236,
-    "desc": "Lynn Scott Rock Fire Protection District - Lindenwood Station"
-  },
-  {
     "lat": 42.100765,
     "long": -89.096053,
     "desc": "Lynn Scott Rock Fire Protection District - Davis Junction Station"
+  },
+  {
+    "lat": 42.058481,
+    "long": -89.037236,
+    "desc": "Lynn Scott Rock Fire Protection District - Lindenwood Station"
   },
   {
     "lat": 41.5152,
@@ -7475,11 +7465,6 @@
     "desc": "Marissa Volunteer Fire Protection District"
   },
   {
-    "lat": 41.593331,
-    "long": -87.66526,
-    "desc": "Markham Fire Department Station #3"
-  },
-  {
     "lat": 41.593289,
     "long": -87.693606,
     "desc": "Markham Fire Department Station #1"
@@ -7488,6 +7473,11 @@
     "lat": 41.604084,
     "long": -87.704704,
     "desc": "Markham Fire Department Station #2"
+  },
+  {
+    "lat": 41.593331,
+    "long": -87.66526,
+    "desc": "Markham Fire Department Station #3"
   },
   {
     "lat": 41.592969,
@@ -7815,14 +7805,14 @@
     "desc": "Mokena Fire Protection District - Station 1"
   },
   {
-    "lat": 41.556745,
-    "long": -87.880943,
-    "desc": "Mokena Fire Protection District - Station 3"
-  },
-  {
     "lat": 41.543401,
     "long": -87.862703,
     "desc": "Mokena Fire Protection District - Station 2"
+  },
+  {
+    "lat": 41.556745,
+    "long": -87.880943,
+    "desc": "Mokena Fire Protection District - Station 3"
   },
   {
     "lat": 41.411021,
@@ -8230,6 +8220,11 @@
     "desc": "New Lenox Fire Protection District Station 2"
   },
   {
+    "lat": 41.490629,
+    "long": -87.983696,
+    "desc": "New Lenox Fire Protection District Station 3"
+  },
+  {
     "lat": 41.528578,
     "long": -87.927245,
     "desc": "New Lenox Fire Protection District Station 4"
@@ -8263,11 +8258,6 @@
     "lat": 42.429495,
     "long": -87.927629,
     "desc": "Newport Township Fire Protection District"
-  },
-  {
-    "lat": 41.490629,
-    "long": -87.983696,
-    "desc": "New Lenox Fire Protection District Station 3"
   },
   {
     "lat": 39.853851,
@@ -8335,14 +8325,14 @@
     "desc": "Norris City Fire Protection District"
   },
   {
-    "lat": 41.810224,
-    "long": -88.377359,
-    "desc": "North Aurora Fire Department - Station 2"
-  },
-  {
     "lat": 41.806822,
     "long": -88.325836,
     "desc": "North Aurora Fire Department - Station 1"
+  },
+  {
+    "lat": 41.810224,
+    "long": -88.377359,
+    "desc": "North Aurora Fire Department - Station 2"
   },
   {
     "lat": 42.369463,
@@ -8940,14 +8930,14 @@
     "desc": "Park Forest Fire Department"
   },
   {
-    "lat": 42.025726,
-    "long": -87.841249,
-    "desc": "Park Ridge Fire Department Station 36"
-  },
-  {
     "lat": 41.996017,
     "long": -87.837089,
     "desc": "Park Ridge Fire Department Station 35"
+  },
+  {
+    "lat": 42.025726,
+    "long": -87.841249,
+    "desc": "Park Ridge Fire Department Station 36"
   },
   {
     "lat": 38.75328,
@@ -9190,9 +9180,9 @@
     "desc": "Pittsfield City Fire Department"
   },
   {
-    "lat": 41.637988,
-    "long": -88.197384,
-    "desc": "Plainfield Fire Protection District Headquarters"
+    "lat": 41.62168,
+    "long": -88.212975,
+    "desc": "Plainfield Fire Protection District - Station 1"
   },
   {
     "lat": 41.637673,
@@ -9210,9 +9200,9 @@
     "desc": "Plainfield Fire Protection District - Station 4"
   },
   {
-    "lat": 41.62168,
-    "long": -88.212975,
-    "desc": "Plainfield Fire Protection District - Station 1"
+    "lat": 41.637988,
+    "long": -88.197384,
+    "desc": "Plainfield Fire Protection District Headquarters"
   },
   {
     "lat": 39.444704,
@@ -9685,11 +9675,6 @@
     "desc": "Rolling Meadows Fire Department Station 16"
   },
   {
-    "lat": 41.653342,
-    "long": -88.114569,
-    "desc": "Romeoville Fire Station #3"
-  },
-  {
     "lat": 41.644448,
     "long": -88.083112,
     "desc": "Romeoville Fire Station #1"
@@ -9698,6 +9683,11 @@
     "lat": 41.668484,
     "long": -88.075418,
     "desc": "Romeoville Fire Station #2"
+  },
+  {
+    "lat": 41.653342,
+    "long": -88.114569,
+    "desc": "Romeoville Fire Station #3"
   },
   {
     "lat": 39.474005,
@@ -10032,22 +10022,22 @@
   {
     "lat": 41.514424,
     "long": -88.849249,
-    "desc": "Serena Fire Protection District - Harding Station"
+    "desc": "Serena Fire Protection District - Harding Station </br> Station: 4 of 4 </br> MABAS Division: 25 - La Salle County </br> EMS: Provided by Sheridan </br> Dispatched by: La Salle County Sheriffs Department"
   },
   {
     "lat": 41.468753,
     "long": -88.670077,
-    "desc": "Serena Fire Protection District - Norway Station"
+    "desc": "Serena Fire Protection District - Norway Station </br> Station: 2 of 4 </br> MABAS Division: 25 - La Salle County </br> EMS: Provided by Sheridan </br> Dispatched by: La Salle County Sheriffs Department"
   },
   {
     "lat": 41.484791,
     "long": -88.731154,
-    "desc": "Serena Fire Protection District - Serena Station (HQ)"
+    "desc": "Serena Fire Protection District - Serena Station (HQ) </br> Station: 1 of 4 </br> MABAS Division: 25 - La Salle County </br> EMS: Provided by Sheridan </br> Dispatched by: La Salle County Sheriffs Department"
   },
   {
     "lat": 41.436399,
     "long": -88.773643,
-    "desc": "Serena Fire Protection District - Wedron Station"
+    "desc": "Serena Fire Protection District - Wedron Station </br> Station: 3 of 4 </br> MABAS Division: 25 - La Salle County </br> EMS: Provided by Sheridan </br> Dispatched by: La Salle County Sheriffs Department"
   },
   {
     "lat": 38.082003,
@@ -10072,7 +10062,7 @@
   {
     "lat": 41.768677,
     "long": -88.871807,
-    "desc": "Shabbona Fire Department"
+    "desc": "Shabbona Fire Department </br> Station: 1 of 1 </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS </br> Dispatched by: DeKalb County Sheriffs Department"
   },
   {
     "lat": 42.154156,
@@ -10202,12 +10192,12 @@
   {
     "lat": 41.635221,
     "long": -88.681772,
-    "desc": "Somonauk Fire Department - Engine Company 311"
+    "desc": "Somonauk Fire Department - Engine Company 311 </br> Station: 2 of 2 </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS\\Staffed by PSI </br> Dispatched by: DeKalb County Sheriffs Department"
   },
   {
     "lat": 41.632661,
     "long": -88.683978,
-    "desc": "Somonauk Fire Department - Station 1"
+    "desc": "Somonauk Fire Department - Station 1 </br> Station: 1 of 2 </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS\\Staffed by PSI </br> Dispatched by: DeKalb County Sheriffs Department"
   },
   {
     "lat": 42.492878,
@@ -10400,6 +10390,11 @@
     "desc": "St Charles Fire Department - Station 2"
   },
   {
+    "lat": 41.912604,
+    "long": -88.351614,
+    "desc": "St. Charles Fire Department - Station 3 </br> Station: 3 of 3 </br> MABAS Division: 13 - Kane South </br> EMS: ALS </br> Dispatched by: TriCom Central Dispatch"
+  },
+  {
     "lat": 41.258235,
     "long": -89.183546,
     "desc": "Standard Fire Protection District"
@@ -10467,7 +10462,7 @@
   {
     "lat": 42.10601,
     "long": -89.184807,
-    "desc": "Stillman Fire Protection District"
+    "desc": "Stillman Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 18 - Ogle County </br> EMS: ALS </br> Dispatched by: Ogle County Sheriffs Department"
   },
   {
     "lat": 40.614095,
@@ -10522,7 +10517,7 @@
   {
     "lat": 41.644344,
     "long": -89.231472,
-    "desc": "Sublette Fire Department"
+    "desc": "Sublette Fire Department </br> Station: 1 of 1 </br> MABAS Division: 38 - Lee County </br> EMS: BLS </br> Dispatched by: Lee County Sheriffs Department"
   },
   {
     "lat": 38.605567,
@@ -10532,7 +10527,7 @@
   {
     "lat": 41.764323,
     "long": -88.456351,
-    "desc": "Sugar Grove Fire Protection District"
+    "desc": "Sugar Grove Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 13 - Kane South </br> EMS: ALS </br> Dispatched by: TriCom Central Dispatch"
   },
   {
     "lat": 39.598943,
@@ -10562,12 +10557,12 @@
   {
     "lat": 41.987074,
     "long": -88.691935,
-    "desc": "Sycamore Fire Department - Station 1"
+    "desc": "Sycamore Fire Department - Station 1 </br> Station: 1 of 2 </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS </br> Dispatched by: DeKalb County Sheriffs Department"
   },
   {
     "lat": 42.016417,
     "long": -88.689185,
-    "desc": "Sycamore Fire Department - Station 2"
+    "desc": "Sycamore Fire Department - Station 2 </br> Station: 2 of 2 </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS </br> Dispatched by: DeKalb County Sheriffs Department"
   },
   {
     "lat": 40.361866,
@@ -11092,7 +11087,7 @@
   {
     "lat": 41.769799,
     "long": -88.774983,
-    "desc": "Waterman Community Fire Protection District"
+    "desc": "Waterman Community Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS\\Staffed by PSI </br> Dispatched by: DeKalb County Sheriffs Department"
   },
   {
     "lat": 40.777257,
