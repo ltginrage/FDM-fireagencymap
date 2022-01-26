@@ -2617,7 +2617,7 @@
   {
     "lat": 41.76149,
     "long": -88.543833,
-    "desc": "Big Rock Fire Protection District  </br> Station: 1 of 1 </br> MABAS Division: 13 - Kane South </br> EMS: ALS </br> Dispatched by: KaneComm"
+    "desc": "Big Rock Fire Protection District </br> Station: 1 of 1MABAS Division: 13 - Kane South </br> Type: POC/Voulenteer </br> EMS: ALS </br> Dispatched by: KaneComm (Kane County ETSB)"
   },
   {
     "lat": 40.851784,
@@ -2657,7 +2657,7 @@
   {
     "lat": 42.227222,
     "long": -89.10849,
-    "desc": "Blackhawk Fire Station"
+    "desc": "Blackhawk Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 8 - Boone & Winnebago Counties </br> Type: POC </br> EMS: BLS </br> Dispatched by: Rockford Fire Alarm Office"
   },
   {
     "lat": 40.554488,
@@ -2862,17 +2862,17 @@
   {
     "lat": 41.631632,
     "long": -88.44839,
-    "desc": "Bristol - Kendall Fire Department - Station 1 </br> Station: 1 of 3 </br> MABAS Division: 14 - Kendall County </br> EMS: MICU\\Staffed by PSI </br> Dispatched by: KenCom 911"
+    "desc": "Bristol - Kendall Fire Department - Station 1 </br> Station: 1 of 3 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: MICU\\Staffed by PSI </br> Dispatched by: KenCom 911"
   },
   {
     "lat": 41.669092,
     "long": -88.433681,
-    "desc": "Bristol - Kendall Fire Department - Station 2 </br> Station: 1 of 3 </br> MABAS Division: 14 - Kendall County </br> EMS: MICU\\Staffed by PSI </br> Dispatched by: KenCom 911"
+    "desc": "Bristol - Kendall Fire Department - Station 2 </br> Station: 2 of 3 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: MICU\\Staffed by PSI </br> Dispatched by: KenCom 912"
   },
   {
     "lat": 41.704133,
     "long": -88.436075,
-    "desc": "Bristol - Kendall Fire Department - Station 3 </br> Station: 1 of 3 </br> MABAS Division: 14 - Kendall County </br> EMS: MICU\\Staffed by PSI </br> Dispatched by: KenCom 911"
+    "desc": "Bristol - Kendall Fire Department - Station 3 </br> Station: 3 of 3 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: MICU\\Staffed by PSI </br> Dispatched by: KenCom 913"
   },
   {
     "lat": 41.860434,
@@ -7107,12 +7107,12 @@
   {
     "lat": 41.479953,
     "long": -88.482419,
-    "desc": "Lisbon - Seward Fire Protection District - Company 1 (Lisbon)"
+    "desc": "Lisbon - Seward Fire Protection District - Company 1 (Lisbon) </br> Station: 1 of 2 </br> MABAS Division: 14 - Kendall County </br> Type: Voulenteer </br> EMS: BLS\\Provided by nearest ambulance to scene </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
   },
   {
     "lat": 41.53374,
     "long": -88.374311,
-    "desc": "Lisbon - Seward Fire Protection District - Company 2 (Plattville)"
+    "desc": "Lisbon - Seward Fire Protection District - Company 2 (Plattville) </br> Station: 2 of 2 </br> MABAS Division: 14 - Kendall County </br> Type: Voulenteer </br> EMS: BLS\\Provided by nearest ambulance to scene </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
   },
   {
     "lat": 41.799538,
@@ -7162,17 +7162,17 @@
   {
     "lat": 41.663894,
     "long": -88.537002,
-    "desc": "Little Rock - Fox Fire Protection District - Station 1 (HQ)"
+    "desc": "Little Rock - Fox Fire Protection District - Station 1 (HQ) </br> Station: 1 of 3 </br> MABAS Division: 14 - Kendall County </br> Type: EMS - Career/FF - POC </br> EMS: ALS </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
   },
   {
     "lat": 41.599341,
     "long": -88.553729,
-    "desc": "Little Rock - Fox Fire Protection District - Station 2 (Millbrook)"
+    "desc": "Little Rock - Fox Fire Protection District - Station 2 (Millbrook) </br> Station: 2 of 3 </br> MABAS Division: 14 - Kendall County </br> Type: EMS - Career/FF - POC </br> EMS: ALS </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
   },
   {
     "lat": 41.659798,
     "long": -88.502977,
-    "desc": "Little Rock - Fox Fire Protection District - Station 3 (Lakewood)"
+    "desc": "Little Rock - Fox Fire Protection District - Station 3 (Lakewood) </br> Station: 2 of 3 </br> MABAS Division: 14 - Kendall County </br> Type: EMS - Career/FF - POC </br> EMS: ALS </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
   },
   {
     "lat": 38.257972,
@@ -7877,12 +7877,12 @@
   {
     "lat": 41.729023,
     "long": -88.345233,
-    "desc": "Montgomery and Countryside Fire Protection District Station 1"
+    "desc": "Montgomery and Countryside Fire Protection District Station 1 </br> Station: 1 of 2 </br> MABAS Division: 13 - Kane South </br> Type: Career </br> EMS: ALS/Staffed by PSI </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
   },
   {
     "lat": 41.733504,
     "long": -88.347048,
-    "desc": "Montgomery and Countryside Fire Protection District Station 2"
+    "desc": "Montgomery and Countryside Fire Protection District Station 2 </br> Station: 2 of 2 </br> MABAS Division: 13 - Kane South </br> Type: Career </br> EMS: ALS/Staffed by PSI </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
   },
   {
     "lat": 40.026906,
@@ -8247,7 +8247,7 @@
   {
     "lat": 41.537476,
     "long": -88.582014,
-    "desc": "Newark Fire Department"
+    "desc": "Newark Fire Department </br> Station: 1 of 1 </br> MABAS Division: 14 - Kendall County </br> Type: Voulenteer POC </br> EMS: Staffing Dependent\\BLS Upgradeable </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
   },
   {
     "lat": 39.797719,
@@ -8807,22 +8807,22 @@
   {
     "lat": 41.672243,
     "long": -88.328684,
-    "desc": "Oswego Fire Protection District - Station 1"
+    "desc": "Oswego Fire Protection District - Station 1 </br> Station: 1 of 4 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: ALS </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
   },
   {
-    "lat": 41.716141,
-    "long": -88.132901,
-    "desc": "Oswego Fire Protection District - Station 2"
+    "lat": 41.716083,
+    "long": -88.3126,
+    "desc": "Oswego Fire Protection District - Station 2 </br> Station: 2 of 4 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: ALS </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
   },
   {
     "lat": 41.71241,
     "long": -88.375179,
-    "desc": "Oswego Fire Protection District - Station 3"
+    "desc": "Oswego Fire Protection District - Station 3 </br> Station: 3 of 4 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: ALS </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
   },
   {
     "lat": 41.650816,
     "long": -88.278455,
-    "desc": "Oswego Fire Protection District - Station 4"
+    "desc": "Oswego Fire Protection District - Station 4 </br> Station: 4 of 4 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: ALS </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
   },
   {
     "lat": 41.349567,
@@ -9600,59 +9600,59 @@
     "desc": "Rockdale Fire Protection District"
   },
   {
+    "lat": 42.277272,
+    "long": -89.095706,
+    "desc": "Rockford Fire Department - Station 1 </br> Station: 1 of 11 </br> MABAS Division: 8 - Boone & Winnebago Counties </br> Type: Career </br> EMS: ALS </br> Dispatched by: Rockford Fire Alarm Office"
+  },
+  {
     "lat": 42.274071,
     "long": -89.043504,
-    "desc": "Rockford Fire Department - Station 10"
+    "desc": "Rockford Fire Department - Station 10 </br> Station: 10 of 11 </br> MABAS Division: 8 - Boone & Winnebago Counties </br> Type: Career </br> EMS: ALS </br> Dispatched by: Rockford Fire Alarm Office"
   },
   {
     "lat": 42.243754,
     "long": -89.030672,
-    "desc": "Rockford Fire Department - Station 11"
+    "desc": "Rockford Fire Department - Station 11 </br> Station: 11 of 11 </br> MABAS Division: 8 - Boone & Winnebago Counties </br> Type: Career </br> EMS: ALS </br> Dispatched by: Rockford Fire Alarm Office"
   },
   {
     "lat": 42.257207,
     "long": -89.080549,
-    "desc": "Rockford Fire Department - Station 2"
+    "desc": "Rockford Fire Department - Station 2 </br> Station: 2 of 11 </br> MABAS Division: 8 - Boone & Winnebago Counties </br> Type: Career </br> EMS: ALS </br> Dispatched by: Rockford Fire Alarm Office"
   },
   {
     "lat": 42.251806,
     "long": -89.109083,
-    "desc": "Rockford Fire Department - Station 3"
-  },
-  {
-    "lat": 42.288514,
-    "long": -89.076238,
-    "desc": "Rockford Fire Department - Station 8"
-  },
-  {
-    "lat": 42.309939,
-    "long": -89.095874,
-    "desc": "Rockford Fire Department - Station 9"
-  },
-  {
-    "lat": 42.277584,
-    "long": -89.137166,
-    "desc": "Rockford Fire Department Station 6"
-  },
-  {
-    "lat": 42.226853,
-    "long": -89.059358,
-    "desc": "Rockford Fire Department Station 7"
+    "desc": "Rockford Fire Department - Station 3 </br> Station: 3 of 11 </br> MABAS Division: 8 - Boone & Winnebago Counties </br> Type: Career </br> EMS: ALS </br> Dispatched by: Rockford Fire Alarm Office"
   },
   {
     "lat": 42.303417,
     "long": -89.008559,
-    "desc": "Rockford Fire Station #4"
-  },
-  {
-    "lat": 42.277272,
-    "long": -89.095706,
-    "desc": "Rockford Fire Station 1"
+    "desc": "Rockford Fire Department - Station 4 </br> Station: 4 of 11 </br> MABAS Division: 8 - Boone & Winnebago Counties </br> Type: Career </br> EMS: ALS </br> Dispatched by: Rockford Fire Alarm Office"
   },
   {
     "lat": 42.27346,
     "long": -88.989415,
-    "desc": "Rockford Fire Station 5"
+    "desc": "Rockford Fire Department - Station 5 </br> Station: 5 of 11 </br> MABAS Division: 8 - Boone & Winnebago Counties </br> Type: Career </br> EMS: ALS </br> Dispatched by: Rockford Fire Alarm Office"
+  },
+  {
+    "lat": 42.277584,
+    "long": -89.137166,
+    "desc": "Rockford Fire Department - Station 6 </br> Station: 6 of 11 </br> MABAS Division: 8 - Boone & Winnebago Counties </br> Type: Career </br> EMS: ALS </br> Dispatched by: Rockford Fire Alarm Office"
+  },
+  {
+    "lat": 42.226853,
+    "long": -89.059358,
+    "desc": "Rockford Fire Department - Station 7 </br> Station: 7 of 11 </br> MABAS Division: 8 - Boone & Winnebago Counties </br> Type: Career </br> EMS: ALS </br> Dispatched by: Rockford Fire Alarm Office"
+  },
+  {
+    "lat": 42.288514,
+    "long": -89.076238,
+    "desc": "Rockford Fire Department - Station 8 </br> Station: 8 of 11 </br> MABAS Division: 8 - Boone & Winnebago Counties </br> Type: Career </br> EMS: ALS </br> Dispatched by: Rockford Fire Alarm Office"
+  },
+  {
+    "lat": 42.309939,
+    "long": -89.095874,
+    "desc": "Rockford Fire Department - Station 9 </br> Station: 9 of 11 </br> MABAS Division: 8 - Boone & Winnebago Counties </br> Type: Career </br> EMS: ALS </br> Dispatched by: Rockford Fire Alarm Office"
   },
   {
     "lat": 42.454181,
@@ -10527,7 +10527,7 @@
   {
     "lat": 41.764323,
     "long": -88.456351,
-    "desc": "Sugar Grove Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 13 - Kane South </br> EMS: ALS </br> Dispatched by: TriCom Central Dispatch"
+    "desc": "Sugar Grove Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 13 - Kane South </br> Type: Career </br> EMS: ALS </br> Dispatched by: Tri-Comm Central Dispatch"
   },
   {
     "lat": 39.598943,
@@ -11590,6 +11590,11 @@
     "desc": "Affton Fire Protection District Station 3"
   },
   {
+    "lat": 38.553778,
+    "long": -90.318033,
+    "desc": "Afton Fire Protection District - Station 1 (HQ)"
+  },
+  {
     "lat": 39.122051,
     "long": -94.589632,
     "desc": "Aircraft Rescue Fire Fighting Station"
@@ -11668,11 +11673,6 @@
     "lat": 37.54885,
     "long": -93.8788,
     "desc": "Arcola Fire Department"
-  },
-  {
-    "lat": 37.241075,
-    "long": -93.392729,
-    "desc": "ARFF"
   },
   {
     "lat": 38.29521,
@@ -11757,6 +11757,11 @@
   {
     "lat": 36.95173,
     "long": -92.661,
+    "desc": "Ava Fire Department"
+  },
+  {
+    "lat": 36.958933,
+    "long": -92.660053,
     "desc": "Ava Fire Department"
   },
   {
@@ -12095,6 +12100,11 @@
     "desc": "Boles Fire Protection District Station 4"
   },
   {
+    "lat": 37.61261,
+    "long": -93.409866,
+    "desc": "Bolivar Fire Department"
+  },
+  {
     "lat": 37.59838,
     "long": -93.4411,
     "desc": "Bolivar Fire Department Station 2"
@@ -12113,6 +12123,11 @@
     "lat": 39.00918,
     "long": -92.4015,
     "desc": "Boone County Fire Protection 13"
+  },
+  {
+    "lat": 39.009114,
+    "long": -92.401584,
+    "desc": "Boone County Fire Protection District - Station 13"
   },
   {
     "lat": 38.9628,
@@ -12203,6 +12218,11 @@
     "lat": 36.65122,
     "long": -91.6982,
     "desc": "Brandsville Fire Protection Association"
+  },
+  {
+    "lat": 36.64488,
+    "long": -93.2903,
+    "desc": "Branson Fire Department - Station 3"
   },
   {
     "lat": 36.643,
@@ -12530,6 +12550,11 @@
     "desc": "Canton R - V Fire Protection District"
   },
   {
+    "lat": 37.333171,
+    "long": -89.523516,
+    "desc": "Cape Girardeau Fire Department - Station 3"
+  },
+  {
     "lat": 37.29255,
     "long": -89.572,
     "desc": "Cape Girardeau Fire Department Station 2"
@@ -12560,6 +12585,11 @@
     "desc": "Cardwell Volunteer Fire Department"
   },
   {
+    "lat": 37.143929,
+    "long": -94.539473,
+    "desc": "Carl Junction Fire Department - Station 4"
+  },
+  {
     "lat": 37.17723,
     "long": -94.5636,
     "desc": "Carl Junction Fire Protection District Station 1"
@@ -12573,6 +12603,16 @@
     "lat": 37.24682,
     "long": -94.584,
     "desc": "Carl Junction Fire Protection District Station 3"
+  },
+  {
+    "lat": 39.365092,
+    "long": -93.482514,
+    "desc": "Carrollton Fire Department"
+  },
+  {
+    "lat": 37.14899,
+    "long": -94.4426,
+    "desc": "Carterville Fire Department"
   },
   {
     "lat": 37.1731,
@@ -12765,6 +12805,26 @@
     "desc": "Central Fire Station"
   },
   {
+    "lat": 39.02919,
+    "long": -94.303069,
+    "desc": "Central Jackson County Fire Protection District - Station 2"
+  },
+  {
+    "lat": 39.029107,
+    "long": -94.251996,
+    "desc": "Central Jackson County Fire Protection District - Station 3"
+  },
+  {
+    "lat": 39.011064,
+    "long": -94.208403,
+    "desc": "Central Jackson County Fire Protection District - Station 4"
+  },
+  {
+    "lat": 38.991715,
+    "long": -94.253961,
+    "desc": "Central Jackson County Fire Protection District - Station 5"
+  },
+  {
     "lat": 39.36999,
     "long": -94.7819,
     "desc": "Central Platte Fire Protection District"
@@ -12880,6 +12940,171 @@
     "desc": "City of Saint Louis Fire Department District 8 West Fire Station"
   },
   {
+    "lat": 38.6111,
+    "long": -90.2876,
+    "desc": "City of St Louis Fire Department - Bureau of Emergency Medical Services"
+  },
+  {
+    "lat": 38.600508,
+    "long": -90.223706,
+    "desc": "City of St Louis Fire Department - Engine Co. 1"
+  },
+  {
+    "lat": 38.659364,
+    "long": -90.234594,
+    "desc": "City of St Louis Fire Department - Engine Co. 10"
+  },
+  {
+    "lat": 38.693743,
+    "long": -90.238643,
+    "desc": "City of St Louis Fire Department - Engine Co. 12"
+  },
+  {
+    "lat": 38.6063,
+    "long": -90.240216,
+    "desc": "City of St Louis Fire Department - Engine Co. 13"
+  },
+  {
+    "lat": 38.64424,
+    "long": -90.224926,
+    "desc": "City of St Louis Fire Department - Engine Co. 17"
+  },
+  {
+    "lat": 38.567468,
+    "long": -90.27566,
+    "desc": "City of St Louis Fire Department - Engine Co. 19"
+  },
+  {
+    "lat": 38.62445,
+    "long": -90.199,
+    "desc": "City of St Louis Fire Department - Engine Co. 2 and Repair Shop"
+  },
+  {
+    "lat": 38.681529,
+    "long": -90.212257,
+    "desc": "City of St Louis Fire Department - Engine Co. 20"
+  },
+  {
+    "lat": 38.629072,
+    "long": -90.307266,
+    "desc": "City of St Louis Fire Department - Engine Co. 22"
+  },
+  {
+    "lat": 38.557158,
+    "long": -90.251696,
+    "desc": "City of St Louis Fire Department - Engine Co. 23"
+  },
+  {
+    "lat": 38.67907,
+    "long": -90.257558,
+    "desc": "City of St Louis Fire Department - Engine Co. 24"
+  },
+  {
+    "lat": 38.67336,
+    "long": -90.238894,
+    "desc": "City of St Louis Fire Department - Engine Co. 26"
+  },
+  {
+    "lat": 38.703993,
+    "long": -90.251911,
+    "desc": "City of St Louis Fire Department - Engine Co. 27"
+  },
+  {
+    "lat": 38.651882,
+    "long": -90.259555,
+    "desc": "City of St Louis Fire Department - Engine Co. 28"
+  },
+  {
+    "lat": 38.634401,
+    "long": -90.242247,
+    "desc": "City of St Louis Fire Department - Engine Co. 29"
+  },
+  {
+    "lat": 38.652769,
+    "long": -90.284885,
+    "desc": "City of St Louis Fire Department - Engine Co. 30"
+  },
+  {
+    "lat": 38.591198,
+    "long": -90.302985,
+    "desc": "City of St Louis Fire Department - Engine Co. 31"
+  },
+  {
+    "lat": 38.593601,
+    "long": -90.243526,
+    "desc": "City of St Louis Fire Department - Engine Co. 32"
+  },
+  {
+    "lat": 38.712472,
+    "long": -90.23017,
+    "desc": "City of St Louis Fire Department - Engine Co. 33"
+  },
+  {
+    "lat": 38.542569,
+    "long": -90.263648,
+    "desc": "City of St Louis Fire Department - Engine Co. 34"
+  },
+  {
+    "lat": 38.60569,
+    "long": -90.281282,
+    "desc": "City of St Louis Fire Department - Engine Co. 35"
+  },
+  {
+    "lat": 38.583895,
+    "long": -90.277083,
+    "desc": "City of St Louis Fire Department - Engine Co. 36"
+  },
+  {
+    "lat": 38.576076,
+    "long": -90.241221,
+    "desc": "City of St Louis Fire Department - Engine Co. 4"
+  },
+  {
+    "lat": 38.648,
+    "long": -90.206055,
+    "desc": "City of St Louis Fire Department - Engine Co. 5"
+  },
+  {
+    "lat": 38.623106,
+    "long": -90.283534,
+    "desc": "City of St Louis Fire Department - Engine Co. 6"
+  },
+  {
+    "lat": 38.621305,
+    "long": -90.219179,
+    "desc": "City of St Louis Fire Department - Engine Co. 7"
+  },
+  {
+    "lat": 38.661,
+    "long": -90.200533,
+    "desc": "City of St Louis Fire Department - Engine Co. 8"
+  },
+  {
+    "lat": 38.644,
+    "long": -90.187553,
+    "desc": "City of St Louis Fire Department - Engine Co. 9"
+  },
+  {
+    "lat": 38.669033,
+    "long": -90.280205,
+    "desc": "City of St Louis Fire Department - Engine Co. Unk"
+  },
+  {
+    "lat": 38.644981,
+    "long": -90.213309,
+    "desc": "City of St Louis Fire Department - HQ"
+  },
+  {
+    "lat": 38.750984,
+    "long": -90.354789,
+    "desc": "City of St Louis Fire Department - Lambert North"
+  },
+  {
+    "lat": 38.60428,
+    "long": -90.20431,
+    "desc": "City of St Louis Fire Department - Station 11"
+  },
+  {
     "lat": 39.74366,
     "long": -92.2615,
     "desc": "Clarence City Fire Department"
@@ -12980,6 +13205,11 @@
     "desc": "Cole Camp and Rural Fire Protection District"
   },
   {
+    "lat": 38.57187,
+    "long": -92.2694,
+    "desc": "Cole County Fire Protection District"
+  },
+  {
     "lat": 38.55711,
     "long": -92.2672,
     "desc": "Cole County Fire Protection District Station 1"
@@ -13035,9 +13265,39 @@
     "desc": "Columbia Fire Department"
   },
   {
+    "lat": 38.95389,
+    "long": -92.326043,
+    "desc": "Columbia Fire Department - Station 1"
+  },
+  {
+    "lat": 38.95965,
+    "long": -92.357,
+    "desc": "Columbia Fire Department - Station 2"
+  },
+  {
+    "lat": 38.97485,
+    "long": -92.3019,
+    "desc": "Columbia Fire Department - Station 4"
+  },
+  {
+    "lat": 38.934702,
+    "long": -92.38394,
+    "desc": "Columbia Fire Department - Station 6"
+  },
+  {
+    "lat": 38.907914,
+    "long": -92.305088,
+    "desc": "Columbia Fire Department - Station 8"
+  },
+  {
     "lat": 38.96497,
     "long": -92.2673,
     "desc": "Columbia Fire Department Station 5"
+  },
+  {
+    "lat": 38.98369,
+    "long": -92.3341,
+    "desc": "Columbia Fire Department Station 9"
   },
   {
     "lat": 38.71062,
@@ -13250,6 +13510,11 @@
     "desc": "Dawn Fire Protection Association"
   },
   {
+    "lat": 39.583648,
+    "long": -94.919593,
+    "desc": "De Kalb Fire Department"
+  },
+  {
     "lat": 38.13973,
     "long": -90.555,
     "desc": "De Soto Fire Department"
@@ -13338,6 +13603,11 @@
     "lat": 37.60866,
     "long": -93.4342,
     "desc": "Department of Conservation Southwest Field Fire Facility Bolivar"
+  },
+  {
+    "lat": 38.6012,
+    "long": -90.4434,
+    "desc": "Des Peres Public Saftey"
   },
   {
     "lat": 38.133879,
@@ -13785,9 +14055,14 @@
     "desc": "Fenton Fire House #4"
   },
   {
+    "lat": 38.741585,
+    "long": -90.303639,
+    "desc": "Ferguson Fire Department - Station 1"
+  },
+  {
     "lat": 38.74466,
     "long": -90.3039,
-    "desc": "Ferguson Fire Department Station 1"
+    "desc": "Ferguson Fire Department Station 2?"
   },
   {
     "lat": 38.763967,
@@ -13805,164 +14080,9 @@
     "desc": "Fillmore Fire Protection District"
   },
   {
-    "lat": 39.74094,
-    "long": -93.9985,
-    "desc": "Fire"
-  },
-  {
-    "lat": 38.690638,
-    "long": -93.258996,
-    "desc": "Fire House"
-  },
-  {
-    "lat": 38.750984,
-    "long": -90.354789,
-    "desc": "Fire Station"
-  },
-  {
-    "lat": 38.76245,
-    "long": -93.7412,
-    "desc": "Fire Station #1"
-  },
-  {
-    "lat": 39.206067,
-    "long": -94.577012,
-    "desc": "Fire Station #1"
-  },
-  {
-    "lat": 38.768227,
-    "long": -93.707282,
-    "desc": "Fire Station #2"
-  },
-  {
-    "lat": 38.98369,
-    "long": -92.3341,
-    "desc": "Fire Station #9"
-  },
-  {
-    "lat": 39.101315,
-    "long": -94.420333,
-    "desc": "Fire Station 1"
-  },
-  {
-    "lat": 39.055592,
-    "long": -94.315438,
-    "desc": "Fire Station 10"
-  },
-  {
-    "lat": 39.10248,
-    "long": -94.56278,
-    "desc": "Fire Station 10"
-  },
-  {
-    "lat": 39.064735,
-    "long": -94.567393,
-    "desc": "Fire Station 17"
-  },
-  {
-    "lat": 39.068399,
-    "long": -94.543318,
-    "desc": "Fire Station 18"
-  },
-  {
-    "lat": 39.050046,
-    "long": -94.5932,
-    "desc": "Fire Station 19"
-  },
-  {
-    "lat": 39.050207,
-    "long": -94.406579,
-    "desc": "Fire Station 2"
-  },
-  {
-    "lat": 39.10508,
-    "long": -94.527105,
-    "desc": "Fire Station 23"
-  },
-  {
-    "lat": 36.64488,
-    "long": -93.2903,
-    "desc": "Fire Station 3"
-  },
-  {
-    "lat": 39.089442,
-    "long": -94.456957,
-    "desc": "Fire Station 3"
-  },
-  {
-    "lat": 39.241254,
-    "long": -94.576532,
-    "desc": "Fire Station 38"
-  },
-  {
-    "lat": 39.079457,
-    "long": -94.417798,
-    "desc": "Fire Station 4"
-  },
-  {
-    "lat": 39.21097,
-    "long": -94.626842,
-    "desc": "Fire Station 4"
-  },
-  {
-    "lat": 39.058069,
-    "long": -94.444655,
-    "desc": "Fire Station 5"
-  },
-  {
-    "lat": 39.120649,
-    "long": -94.36714,
-    "desc": "Fire Station 6"
-  },
-  {
-    "lat": 39.078867,
-    "long": -94.381945,
-    "desc": "Fire Station 7"
-  },
-  {
-    "lat": 39.088096,
-    "long": -94.592311,
-    "desc": "Fire Station 7"
-  },
-  {
-    "lat": 39.091023,
-    "long": -94.328487,
-    "desc": "Fire Station 8"
-  },
-  {
-    "lat": 39.095113,
-    "long": -94.577461,
-    "desc": "Fire Station 8"
-  },
-  {
-    "lat": 38.741585,
-    "long": -90.303639,
-    "desc": "Fire Station No. 1"
-  },
-  {
-    "lat": 38.95389,
-    "long": -92.326043,
-    "desc": "Fire Station No. 1"
-  },
-  {
-    "lat": 39.275673,
-    "long": -94.417196,
-    "desc": "Fire Station Number 3"
-  },
-  {
-    "lat": 38.956587,
-    "long": -94.521667,
-    "desc": "Fire Station Number 41"
-  },
-  {
     "lat": 38.694435,
     "long": -90.524274,
     "desc": "Fire Training Grounds"
-  },
-  {
-    "lat": 38.201301,
-    "long": -92.831358,
-    "desc": "Firehouse 5"
   },
   {
     "lat": 39.315673,
@@ -14005,6 +14125,11 @@
     "desc": "Fort Leonard Wood Fire and Emergency Services Headquarters"
   },
   {
+    "lat": 37.733461,
+    "long": -92.136873,
+    "desc": "Fort Leonard Wood Fire Department"
+  },
+  {
     "lat": 39.138003,
     "long": -94.191141,
     "desc": "Fort Osage Fire Protection District"
@@ -14038,6 +14163,16 @@
     "lat": 39.49259,
     "long": -91.3196,
     "desc": "Frankford Fire Department"
+  },
+  {
+    "lat": 37.55808,
+    "long": -90.2969,
+    "desc": "Fredericktown Fire Department"
+  },
+  {
+    "lat": 38.313337,
+    "long": -91.921857,
+    "desc": "Freeburg Fire Department"
   },
   {
     "lat": 38.39632,
@@ -14168,6 +14303,11 @@
     "lat": 39.212799,
     "long": -94.548042,
     "desc": "Gladstone Fire Station 2"
+  },
+  {
+    "lat": 39.206067,
+    "long": -94.577012,
+    "desc": "Gladstone Public Saftey Station 1"
   },
   {
     "lat": 39.22682,
@@ -14413,6 +14553,11 @@
     "lat": 37.193542,
     "long": -93.628306,
     "desc": "Halltown Voulenteer Fire Rescue"
+  },
+  {
+    "lat": 39.74094,
+    "long": -93.9985,
+    "desc": "Hamilton Fire Department"
   },
   {
     "lat": 39.7075,
@@ -14740,9 +14885,59 @@
     "desc": "Iconium Fire Protection District Station 3"
   },
   {
+    "lat": 39.101315,
+    "long": -94.420333,
+    "desc": "Independence Fire Department - Station 1"
+  },
+  {
+    "lat": 39.055592,
+    "long": -94.315438,
+    "desc": "Independence Fire Department - Station 10"
+  },
+  {
+    "lat": 39.050207,
+    "long": -94.406579,
+    "desc": "Independence Fire Department - Station 2"
+  },
+  {
+    "lat": 39.089442,
+    "long": -94.456957,
+    "desc": "Independence Fire Department - Station 3"
+  },
+  {
+    "lat": 39.079457,
+    "long": -94.417798,
+    "desc": "Independence Fire Department - Station 4"
+  },
+  {
+    "lat": 39.058069,
+    "long": -94.444655,
+    "desc": "Independence Fire Department - Station 5"
+  },
+  {
+    "lat": 39.120649,
+    "long": -94.36714,
+    "desc": "Independence Fire Department - Station 6"
+  },
+  {
+    "lat": 39.078867,
+    "long": -94.381945,
+    "desc": "Independence Fire Department - Station 7"
+  },
+  {
+    "lat": 39.091023,
+    "long": -94.328487,
+    "desc": "Independence Fire Department - Station 8"
+  },
+  {
     "lat": 39.126627,
     "long": -94.288631,
     "desc": "Independence Fire Department - Station 9"
+  },
+  {
+    "lat": 39.126,
+    "long": -94.288,
+    "desc": "Independence? Fire Department?"
   },
   {
     "lat": 39.08905,
@@ -14980,6 +15175,16 @@
     "desc": "Kahoka Fire Department"
   },
   {
+    "lat": 39.10248,
+    "long": -94.56278,
+    "desc": "Kansas City Fire Department - Station 10"
+  },
+  {
+    "lat": 39.21097,
+    "long": -94.626842,
+    "desc": "Kansas City Fire Department - Station 10"
+  },
+  {
     "lat": 39.24399,
     "long": -94.5212,
     "desc": "Kansas City Fire Department - Station 14"
@@ -14988,6 +15193,26 @@
     "lat": 39.29523,
     "long": -94.6879,
     "desc": "Kansas City Fire Department - Station 16"
+  },
+  {
+    "lat": 39.064735,
+    "long": -94.567393,
+    "desc": "Kansas City Fire Department - Station 17"
+  },
+  {
+    "lat": 39.068399,
+    "long": -94.543318,
+    "desc": "Kansas City Fire Department - Station 18"
+  },
+  {
+    "lat": 39.050046,
+    "long": -94.5932,
+    "desc": "Kansas City Fire Department - Station 19"
+  },
+  {
+    "lat": 39.10508,
+    "long": -94.527105,
+    "desc": "Kansas City Fire Department - Station 23"
   },
   {
     "lat": 39.107986,
@@ -15030,6 +15255,11 @@
     "desc": "Kansas City Fire Department - Station 36"
   },
   {
+    "lat": 39.241254,
+    "long": -94.576532,
+    "desc": "Kansas City Fire Department - Station 38"
+  },
+  {
     "lat": 39.03747,
     "long": -94.4488,
     "desc": "Kansas City Fire Department - Station 39"
@@ -15038,6 +15268,11 @@
     "lat": 39.188354,
     "long": -94.577135,
     "desc": "Kansas City Fire Department - Station 40"
+  },
+  {
+    "lat": 38.956587,
+    "long": -94.521667,
+    "desc": "Kansas City Fire Department - Station 41"
   },
   {
     "lat": 38.9245,
@@ -15063,6 +15298,16 @@
     "lat": 39.29503,
     "long": -94.724898,
     "desc": "Kansas City Fire Department - Station 5"
+  },
+  {
+    "lat": 39.088096,
+    "long": -94.592311,
+    "desc": "Kansas City Fire Department - Station 7"
+  },
+  {
+    "lat": 39.095113,
+    "long": -94.577461,
+    "desc": "Kansas City Fire Department - Station 8"
   },
   {
     "lat": 39.085222,
@@ -15135,6 +15380,11 @@
     "desc": "Kewanee and Laforge Rural Volunteer Fire Department"
   },
   {
+    "lat": 39.43425,
+    "long": -92.9376,
+    "desc": "Keytesville Fire Department"
+  },
+  {
     "lat": 39.8699,
     "long": -94.1418,
     "desc": "Kidder - Altamont - Winston Fire Protection District Winston"
@@ -15173,6 +15423,11 @@
     "lat": 38.03881,
     "long": -90.3093,
     "desc": "Kinsey Volunteer Fire Department"
+  },
+  {
+    "lat": 40.093097,
+    "long": -92.54078,
+    "desc": "Kirksville Airport - ARFF"
   },
   {
     "lat": 40.19738,
@@ -15365,6 +15620,16 @@
     "desc": "Lathrop Fire and Rescue"
   },
   {
+    "lat": 38.201301,
+    "long": -92.831358,
+    "desc": "Laurie Fire Department - Station 5"
+  },
+  {
+    "lat": 39.43997,
+    "long": -94.1987,
+    "desc": "Lawson Fire & Rescue Protection District"
+  },
+  {
     "lat": 37.83363,
     "long": -90.4844,
     "desc": "Leadington Fire Department"
@@ -15403,6 +15668,11 @@
     "lat": 37.69596,
     "long": -92.7221,
     "desc": "Lebanon Rural Fire Protection District Station 3"
+  },
+  {
+    "lat": 38.949069,
+    "long": -94.359828,
+    "desc": "Lee's Summit Fire Department"
   },
   {
     "lat": 38.913709,
@@ -15470,6 +15740,11 @@
     "desc": "Leopold Volunteer Fire Department Station 2"
   },
   {
+    "lat": 37.45356,
+    "long": -90.8499,
+    "desc": "Lesterville Fire Department"
+  },
+  {
     "lat": 40.08568,
     "long": -91.8169,
     "desc": "Lewistown Volunteer Fire Department"
@@ -15478,6 +15753,11 @@
     "lat": 39.17613,
     "long": -93.876,
     "desc": "Lexington Fire and Rescue Department"
+  },
+  {
+    "lat": 39.275673,
+    "long": -94.417196,
+    "desc": "Liberty Fire Department - Station 3"
   },
   {
     "lat": 39.24845,
@@ -15533,6 +15813,11 @@
     "lat": 39.04547,
     "long": -90.9732,
     "desc": "Lincoln County Fire Protection District 1 Station 4"
+  },
+  {
+    "lat": 38.390416,
+    "long": -93.332968,
+    "desc": "Lincoln Fire Protection District"
   },
   {
     "lat": 38.54965,
@@ -15673,6 +15958,11 @@
     "lat": 38.14032,
     "long": -93.7285,
     "desc": "Lowry City Volunteer Fire Department"
+  },
+  {
+    "lat": 39.738839,
+    "long": -92.468921,
+    "desc": "Macon City Fire Department"
   },
   {
     "lat": 39.75755,
@@ -15880,11 +16170,6 @@
     "desc": "Medicine Creek Township Fire Department"
   },
   {
-    "lat": 38.5239,
-    "long": -90.3452,
-    "desc": "Mehlville Fire District Office"
-  },
-  {
     "lat": 38.4896,
     "long": -90.3835,
     "desc": "Mehlville Fire Protection District Engine House Number 4"
@@ -15898,6 +16183,11 @@
     "lat": 38.51372,
     "long": -90.3174,
     "desc": "Mehlville Fire Protection District Station 1"
+  },
+  {
+    "lat": 38.528332,
+    "long": -90.37834,
+    "desc": "Mehlville Fire Protection District Station 3"
   },
   {
     "lat": 38.48122,
@@ -15935,6 +16225,11 @@
     "desc": "Metro North Fire Protection District"
   },
   {
+    "lat": 38.593191,
+    "long": -90.541789,
+    "desc": "Metro West Fire Protection District - Station 1"
+  },
+  {
     "lat": 38.55466,
     "long": -90.5518,
     "desc": "Metro West Fire Protection District Station 2"
@@ -15945,14 +16240,19 @@
     "desc": "Metro West Fire Protection District Station 3 HQ"
   },
   {
-    "lat": 38.55549,
-    "long": -90.6969,
-    "desc": "Metro West Firehouse Number 5"
+    "lat": 38.604453,
+    "long": -90.594334,
+    "desc": "Metro West Fire Protection District Station 4"
   },
   {
-    "lat": 38.593191,
-    "long": -90.541789,
-    "desc": "METRO WEST PROTECTION DISTRICT"
+    "lat": 38.55549,
+    "long": -90.6969,
+    "desc": "Metro West Fire Protection District Station 5"
+  },
+  {
+    "lat": 39.17433,
+    "long": -91.8813,
+    "desc": "Mexico Fire Department"
   },
   {
     "lat": 38.09756,
@@ -16123,6 +16423,11 @@
     "lat": 39.43041,
     "long": -92.4328,
     "desc": "Moberly Fire Department Station 2"
+  },
+  {
+    "lat": 38.68312,
+    "long": -90.4808,
+    "desc": "Monarach Fire Protection District - Station 3"
   },
   {
     "lat": 38.640459,
@@ -16315,6 +16620,11 @@
     "desc": "Nebo Falcon Rural Volunteer Fire Department Station 4"
   },
   {
+    "lat": 36.870701,
+    "long": -94.370289,
+    "desc": "Neosho Fire Department"
+  },
+  {
     "lat": 36.83584,
     "long": -94.3765,
     "desc": "Neosho Fire Department Station 2"
@@ -16333,6 +16643,11 @@
     "lat": 38.75868,
     "long": -92.0956,
     "desc": "New Bloomfield Fire Protection District"
+  },
+  {
+    "lat": 39.951462,
+    "long": -92.859725,
+    "desc": "New Boston Fire Department"
   },
   {
     "lat": 39.77573,
@@ -16870,6 +17185,16 @@
     "desc": "Pattonville Fire Administrative Building"
   },
   {
+    "lat": 38.743238,
+    "long": -90.408839,
+    "desc": "Pattonville Fire Department - Station 1"
+  },
+  {
+    "lat": 38.7476,
+    "long": -90.433531,
+    "desc": "Pattonville Fire Department - Station 2"
+  },
+  {
     "lat": 38.743221,
     "long": -90.467543,
     "desc": "Pattonville Fire Protection District Engine House Three"
@@ -17105,6 +17430,11 @@
     "desc": "Poynor Volunteer Fire Department"
   },
   {
+    "lat": 38.916296,
+    "long": -94.297581,
+    "desc": "Praire Twp Fire Department"
+  },
+  {
     "lat": 37.59924,
     "long": -93.1817,
     "desc": "Prairie Grove Fire Department"
@@ -17330,6 +17660,11 @@
     "desc": "Rivers Pointe Fire and Rescue Station 2"
   },
   {
+    "lat": 39.174977,
+    "long": -94.616585,
+    "desc": "Riverside Fire Department"
+  },
+  {
     "lat": 38.74732,
     "long": -90.2113,
     "desc": "Riverview Fire Department"
@@ -17505,6 +17840,11 @@
     "desc": "Saint Charles Fire Department"
   },
   {
+    "lat": 38.800373,
+    "long": -90.504493,
+    "desc": "Saint Charles Fire Department - Station 3"
+  },
+  {
     "lat": 38.79091,
     "long": -90.4848,
     "desc": "Saint Charles Fire Department Station 1"
@@ -17517,6 +17857,11 @@
   {
     "lat": 38.81664,
     "long": -90.4781,
+    "desc": "Saint Charles Fire Department Station 4"
+  },
+  {
+    "lat": 38.82601,
+    "long": -90.4834,
     "desc": "Saint Charles Fire Department Station 4"
   },
   {
@@ -17610,166 +17955,6 @@
     "desc": "Saint Joseph Fire Department Station 9"
   },
   {
-    "lat": 38.600508,
-    "long": -90.223706,
-    "desc": "Saint Louis City Engine House Number 1 Fire Station"
-  },
-  {
-    "lat": 38.659364,
-    "long": -90.234594,
-    "desc": "Saint Louis City Engine House Number 10 Fire Station"
-  },
-  {
-    "lat": 38.693743,
-    "long": -90.238643,
-    "desc": "Saint Louis City Engine House Number 12 Fire Station"
-  },
-  {
-    "lat": 38.669033,
-    "long": -90.280205,
-    "desc": "Saint Louis City Engine House Number 13 Fire Station"
-  },
-  {
-    "lat": 38.6063,
-    "long": -90.240216,
-    "desc": "Saint Louis City Engine House Number 14 Fire Station"
-  },
-  {
-    "lat": 38.64424,
-    "long": -90.224926,
-    "desc": "Saint Louis City Engine House Number 17 Fire Station"
-  },
-  {
-    "lat": 38.567468,
-    "long": -90.27566,
-    "desc": "Saint Louis City Engine House Number 19 Fire Station"
-  },
-  {
-    "lat": 38.681529,
-    "long": -90.212257,
-    "desc": "Saint Louis City Engine House Number 20 Fire Station"
-  },
-  {
-    "lat": 38.629072,
-    "long": -90.307266,
-    "desc": "Saint Louis City Engine House Number 22 Fire Station"
-  },
-  {
-    "lat": 38.557158,
-    "long": -90.251696,
-    "desc": "Saint Louis City Engine House Number 23 Fire Station"
-  },
-  {
-    "lat": 38.67907,
-    "long": -90.257558,
-    "desc": "Saint Louis City Engine House Number 24 Fire Station"
-  },
-  {
-    "lat": 38.67336,
-    "long": -90.238894,
-    "desc": "Saint Louis City Engine House Number 26 Fire Station"
-  },
-  {
-    "lat": 38.703993,
-    "long": -90.251911,
-    "desc": "Saint Louis City Engine House Number 27 Fire Station"
-  },
-  {
-    "lat": 38.651882,
-    "long": -90.259555,
-    "desc": "Saint Louis City Engine House Number 28 Fire Station"
-  },
-  {
-    "lat": 38.634401,
-    "long": -90.242247,
-    "desc": "Saint Louis City Engine House Number 29 Fire Station"
-  },
-  {
-    "lat": 38.591198,
-    "long": -90.302985,
-    "desc": "Saint Louis City Engine House Number 31 Fire Station"
-  },
-  {
-    "lat": 38.593601,
-    "long": -90.243526,
-    "desc": "Saint Louis City Engine House Number 32 Fire Station"
-  },
-  {
-    "lat": 38.712472,
-    "long": -90.23017,
-    "desc": "Saint Louis City Engine House Number 33 Fire Station"
-  },
-  {
-    "lat": 38.542569,
-    "long": -90.263648,
-    "desc": "Saint Louis City Engine House Number 34 Fire Station"
-  },
-  {
-    "lat": 38.60569,
-    "long": -90.281282,
-    "desc": "Saint Louis City Engine House Number 35 Fire Station"
-  },
-  {
-    "lat": 38.583895,
-    "long": -90.277083,
-    "desc": "Saint Louis City Engine House Number 36 Fire Station"
-  },
-  {
-    "lat": 38.576076,
-    "long": -90.241221,
-    "desc": "Saint Louis City Engine House Number 4 Fire Station"
-  },
-  {
-    "lat": 38.648,
-    "long": -90.206055,
-    "desc": "Saint Louis City Engine House Number 5 Fire Station"
-  },
-  {
-    "lat": 38.623106,
-    "long": -90.283534,
-    "desc": "Saint Louis City Engine House Number 6 Fire Station"
-  },
-  {
-    "lat": 38.621305,
-    "long": -90.219179,
-    "desc": "Saint Louis City Engine House Number 7 Fire Station"
-  },
-  {
-    "lat": 38.661,
-    "long": -90.200533,
-    "desc": "Saint Louis City Engine House Number 8 Fire Station"
-  },
-  {
-    "lat": 38.644,
-    "long": -90.187553,
-    "desc": "Saint Louis City Engine House Number 9 Fire Station"
-  },
-  {
-    "lat": 38.62445,
-    "long": -90.199,
-    "desc": "Saint Louis FD Engine House 2 and Repair Shop"
-  },
-  {
-    "lat": 38.6111,
-    "long": -90.2876,
-    "desc": "Saint Louis Fire Department Bureau of Emergency Medical Services"
-  },
-  {
-    "lat": 38.652769,
-    "long": -90.284885,
-    "desc": "Saint Louis Fire Department Engine House Number 30"
-  },
-  {
-    "lat": 38.644981,
-    "long": -90.213309,
-    "desc": "Saint Louis Fire Department Headquarters"
-  },
-  {
-    "lat": 38.60428,
-    "long": -90.20431,
-    "desc": "Saint Louis Fire Department Station 11"
-  },
-  {
     "lat": 37.86573,
     "long": -89.9512,
     "desc": "Saint Mary Volunteer Fire Department"
@@ -17855,6 +18040,11 @@
     "desc": "Sedalia Fire Headquarters"
   },
   {
+    "lat": 38.690638,
+    "long": -93.258996,
+    "desc": "Sedalia? Fire Department?"
+  },
+  {
     "lat": 37.51596,
     "long": -89.9159,
     "desc": "Sedgewickville Fire Protection District Station 1"
@@ -17898,51 +18088,6 @@
     "lat": 37.14592,
     "long": -92.7675,
     "desc": "Seymour Fire Department"
-  },
-  {
-    "lat": 37.196641,
-    "long": -93.284964,
-    "desc": "Springfield Fire Department - Station 1"
-  },
-  {
-    "lat": 37.167374,
-    "long": -93.218241,
-    "desc": "Springfield Fire Department - Station 12"
-  },
-  {
-    "lat": 37.208929,
-    "long": -93.248688,
-    "desc": "Springfield Fire Department - Station 3"
-  },
-  {
-    "lat": 37.240681,
-    "long": -93.266176,
-    "desc": "Springfield Fire Department - Station 4"
-  },
-  {
-    "lat": 37.240995,
-    "long": -93.331273,
-    "desc": "Springfield Fire Department - Station 5"
-  },
-  {
-    "lat": 37.159679,
-    "long": -93.32961,
-    "desc": "Springfield Fire Department - Station 6"
-  },
-  {
-    "lat": 37.181547,
-    "long": -93.254704,
-    "desc": "Springfield Fire Department - Station 7"
-  },
-  {
-    "lat": 37.189582,
-    "long": -93.331657,
-    "desc": "Springfield Fire Department - Station 8"
-  },
-  {
-    "lat": 37.152379,
-    "long": -93.297754,
-    "desc": "Springfield Fire Department - Station 9"
   },
   {
     "lat": 39.69395,
@@ -18300,6 +18445,56 @@
     "desc": "Springdale Fire Protection District Station 2"
   },
   {
+    "lat": 37.241075,
+    "long": -93.392729,
+    "desc": "Springfield Airport ARFF"
+  },
+  {
+    "lat": 37.196641,
+    "long": -93.284964,
+    "desc": "Springfield Fire Department - Station 1"
+  },
+  {
+    "lat": 37.167374,
+    "long": -93.218241,
+    "desc": "Springfield Fire Department - Station 12"
+  },
+  {
+    "lat": 37.208929,
+    "long": -93.248688,
+    "desc": "Springfield Fire Department - Station 3"
+  },
+  {
+    "lat": 37.240681,
+    "long": -93.266176,
+    "desc": "Springfield Fire Department - Station 4"
+  },
+  {
+    "lat": 37.240995,
+    "long": -93.331273,
+    "desc": "Springfield Fire Department - Station 5"
+  },
+  {
+    "lat": 37.159679,
+    "long": -93.32961,
+    "desc": "Springfield Fire Department - Station 6"
+  },
+  {
+    "lat": 37.181547,
+    "long": -93.254704,
+    "desc": "Springfield Fire Department - Station 7"
+  },
+  {
+    "lat": 37.189582,
+    "long": -93.331657,
+    "desc": "Springfield Fire Department - Station 8"
+  },
+  {
+    "lat": 37.152379,
+    "long": -93.297754,
+    "desc": "Springfield Fire Department - Station 9"
+  },
+  {
     "lat": 37.14828,
     "long": -93.2522,
     "desc": "Springfield Fire Department Station 10"
@@ -18333,51 +18528,6 @@
     "lat": 36.86049,
     "long": -94.1903,
     "desc": "Stark City Volunteer Fire Department"
-  },
-  {
-    "lat": 38.82601,
-    "long": -90.4834,
-    "desc": "Station #4"
-  },
-  {
-    "lat": 38.553778,
-    "long": -90.318033,
-    "desc": "Station 1 Affton Fire Protection Headquarters"
-  },
-  {
-    "lat": 39.009114,
-    "long": -92.401584,
-    "desc": "Station 13 \"New Providence"
-  },
-  {
-    "lat": 39.02919,
-    "long": -94.303069,
-    "desc": "Station 2"
-  },
-  {
-    "lat": 39.029107,
-    "long": -94.251996,
-    "desc": "Station 3 and Administration Office"
-  },
-  {
-    "lat": 39.011064,
-    "long": -94.208403,
-    "desc": "Station 4"
-  },
-  {
-    "lat": 38.991715,
-    "long": -94.253961,
-    "desc": "Station 5"
-  },
-  {
-    "lat": 38.95965,
-    "long": -92.357,
-    "desc": "Station No. 2"
-  },
-  {
-    "lat": 38.97485,
-    "long": -92.3019,
-    "desc": "Station No. 4"
   },
   {
     "lat": 36.08355,
@@ -18460,6 +18610,11 @@
     "desc": "Stover Rural Fire Protection District Station 3"
   },
   {
+    "lat": 37.22221,
+    "long": -93.141784,
+    "desc": "Strafford Fire Protection District 2"
+  },
+  {
     "lat": 37.28566,
     "long": -93.1216,
     "desc": "Strafford Fire Protection District Station 1"
@@ -18478,6 +18633,11 @@
     "lat": 39.5424,
     "long": -95.0518,
     "desc": "Sugar Lake Fire Protection District"
+  },
+  {
+    "lat": 38.225099,
+    "long": -91.166663,
+    "desc": "Sullivan Fire Protection District"
   },
   {
     "lat": 38.21028,
@@ -18825,6 +18985,21 @@
     "desc": "Wardell Volunteer Fire Department"
   },
   {
+    "lat": 38.76245,
+    "long": -93.7412,
+    "desc": "Warrensburg Fire Department - Station 1"
+  },
+  {
+    "lat": 38.768227,
+    "long": -93.707282,
+    "desc": "Warrensburg Fire Department - Station 2"
+  },
+  {
+    "lat": 38.80404,
+    "long": -91.1439,
+    "desc": "Warrenton Fire Department"
+  },
+  {
     "lat": 38.83458,
     "long": -91.1407,
     "desc": "Warrenton Fire Protection District Station 1"
@@ -18853,6 +19028,11 @@
     "lat": 38.29255,
     "long": -93.4853,
     "desc": "Warsaw Fire and Rescue Station 6 Racket"
+  },
+  {
+    "lat": 38.240585,
+    "long": -93.379637,
+    "desc": "Warsaw Fire Protection District"
   },
   {
     "lat": 36.58792,
@@ -18953,6 +19133,11 @@
     "lat": 37.8984,
     "long": -90.2139,
     "desc": "Weingarten Volunteer Fire Department"
+  },
+  {
+    "lat": 39.135023,
+    "long": -93.982251,
+    "desc": "Wellington - Napoleon Fire Protection District"
   },
   {
     "lat": 39.07267,
@@ -19245,6 +19430,11 @@
     "desc": "Winfield - Foley Fire Protection District Station 4"
   },
   {
+    "lat": 40.044466,
+    "long": -92.902207,
+    "desc": "Winigan Fire Department"
+  },
+  {
     "lat": 37.00919,
     "long": -91.3248,
     "desc": "Winona Volunteer Fire Department"
@@ -19310,228 +19500,8 @@
     "desc": "Zell Volunteer Fire Department"
   },
   {
-    "lat": 36.870701,
-    "long": -94.370289,
-    "desc": ""
-  },
-  {
-    "lat": 36.958933,
-    "long": -92.660053,
-    "desc": ""
-  },
-  {
-    "lat": 37.143929,
-    "long": -94.539473,
-    "desc": ""
-  },
-  {
     "lat": 37.147916,
     "long": -84.501034,
-    "desc": ""
-  },
-  {
-    "lat": 37.14899,
-    "long": -94.4426,
-    "desc": ""
-  },
-  {
-    "lat": 37.149071,
-    "long": -94.442424,
-    "desc": ""
-  },
-  {
-    "lat": 37.22221,
-    "long": -93.141784,
-    "desc": ""
-  },
-  {
-    "lat": 37.333171,
-    "long": -89.523516,
-    "desc": ""
-  },
-  {
-    "lat": 37.45356,
-    "long": -90.8499,
-    "desc": ""
-  },
-  {
-    "lat": 37.55808,
-    "long": -90.2969,
-    "desc": ""
-  },
-  {
-    "lat": 37.61261,
-    "long": -93.409866,
-    "desc": ""
-  },
-  {
-    "lat": 37.733461,
-    "long": -92.136873,
-    "desc": ""
-  },
-  {
-    "lat": 38.225381,
-    "long": -91.166542,
-    "desc": ""
-  },
-  {
-    "lat": 38.240585,
-    "long": -93.379637,
-    "desc": ""
-  },
-  {
-    "lat": 38.313337,
-    "long": -91.921857,
-    "desc": ""
-  },
-  {
-    "lat": 38.390416,
-    "long": -93.332968,
-    "desc": ""
-  },
-  {
-    "lat": 38.528332,
-    "long": -90.37834,
-    "desc": ""
-  },
-  {
-    "lat": 38.57187,
-    "long": -92.2694,
-    "desc": ""
-  },
-  {
-    "lat": 38.6012,
-    "long": -90.4434,
-    "desc": ""
-  },
-  {
-    "lat": 38.604453,
-    "long": -90.594334,
-    "desc": ""
-  },
-  {
-    "lat": 38.68312,
-    "long": -90.4808,
-    "desc": ""
-  },
-  {
-    "lat": 38.71012,
-    "long": -90.346684,
-    "desc": ""
-  },
-  {
-    "lat": 38.743238,
-    "long": -90.408839,
-    "desc": ""
-  },
-  {
-    "lat": 38.7476,
-    "long": -90.433531,
-    "desc": ""
-  },
-  {
-    "lat": 38.800373,
-    "long": -90.504493,
-    "desc": ""
-  },
-  {
-    "lat": 38.80404,
-    "long": -91.1439,
-    "desc": ""
-  },
-  {
-    "lat": 38.804141,
-    "long": -91.143963,
-    "desc": ""
-  },
-  {
-    "lat": 38.81168,
-    "long": -90.855937,
-    "desc": ""
-  },
-  {
-    "lat": 38.820724,
-    "long": -90.878691,
-    "desc": ""
-  },
-  {
-    "lat": 38.907914,
-    "long": -92.305088,
-    "desc": ""
-  },
-  {
-    "lat": 38.916296,
-    "long": -94.297581,
-    "desc": ""
-  },
-  {
-    "lat": 38.934702,
-    "long": -92.38394,
-    "desc": ""
-  },
-  {
-    "lat": 38.949069,
-    "long": -94.359828,
-    "desc": ""
-  },
-  {
-    "lat": 39.126,
-    "long": -94.288,
-    "desc": ""
-  },
-  {
-    "lat": 39.135023,
-    "long": -93.982251,
-    "desc": ""
-  },
-  {
-    "lat": 39.17433,
-    "long": -91.8813,
-    "desc": ""
-  },
-  {
-    "lat": 39.174977,
-    "long": -94.616585,
-    "desc": ""
-  },
-  {
-    "lat": 39.365092,
-    "long": -93.482514,
-    "desc": ""
-  },
-  {
-    "lat": 39.43425,
-    "long": -92.9376,
-    "desc": ""
-  },
-  {
-    "lat": 39.43997,
-    "long": -94.1987,
-    "desc": ""
-  },
-  {
-    "lat": 39.583648,
-    "long": -94.919593,
-    "desc": ""
-  },
-  {
-    "lat": 39.738839,
-    "long": -92.468921,
-    "desc": ""
-  },
-  {
-    "lat": 39.951462,
-    "long": -92.859725,
-    "desc": ""
-  },
-  {
-    "lat": 40.044,
-    "long": -92.902,
-    "desc": ""
-  },
-  {
-    "lat": 40.093097,
-    "long": -92.54078,
     "desc": ""
   }
 ]
