@@ -272,12 +272,12 @@
   {
     "lat": 61.545174,
     "long": -149.033078,
-    "desc": "Butte Volunteer Fire Department - Station 2-1"
+    "desc": "Butte Volunteer Fire Department - Station 2-1 </br> Mat Su DES District: District 1 </br> Type: Volunteer </br> Dispatched by: MatCom Dispatch"
   },
   {
     "lat": 61.485,
     "long": -148.899,
-    "desc": "Butte Volunteer Fire Department - Station 2-2"
+    "desc": "Butte Volunteer Fire Department - Station 2-2 </br> Mat Su DES District: District 1 </br> Type: Volunteer </br> Dispatched by: MatCom Dispatch"
   },
   {
     "lat": 63.3893,
@@ -322,42 +322,42 @@
   {
     "lat": 61.562024,
     "long": -149.285672,
-    "desc": "Central Mat - Su Fire Department - Station 5-1"
+    "desc": "Central Mat - Su Fire Department - Station 5-1 </br> Mat Su DES District: District 1 </br> Type: Varies by Station </br> Dispatched by: MatCom Dispatch"
   },
   {
     "lat": 61.615055,
     "long": -149.255319,
-    "desc": "Central Mat - Su Fire Department - Station 5-2"
+    "desc": "Central Mat - Su Fire Department - Station 5-2 </br> Mat Su DES District: District 1 </br> Type: Varies by Station </br> Dispatched by: MatCom Dispatch"
   },
   {
     "lat": 61.584179,
     "long": -149.452274,
-    "desc": "Central Mat - Su Fire Department - Station 6-1"
+    "desc": "Central Mat - Su Fire Department - Station 6-1 </br> Mat Su DES District: District 1 </br> Type: Varies by Station </br> Dispatched by: MatCom Dispatch"
   },
   {
     "lat": 61.530572,
     "long": -149.608017,
-    "desc": "Central Mat - Su Fire Department - Station 6-2"
+    "desc": "Central Mat - Su Fire Department - Station 6-2 </br> Mat Su DES District: District 1 </br> Type: Varies by Station </br> Dispatched by: MatCom Dispatch"
   },
   {
     "lat": 61.4699,
     "long": -149.724,
-    "desc": "Central Mat - Su Fire Department - Station 6-3"
+    "desc": "Central Mat - Su Fire Department - Station 6-3 </br> Mat Su DES District: District 1 </br> Type: Varies by Station </br> Dispatched by: MatCom Dispatch"
   },
   {
     "lat": 61.42792,
     "long": -149.904,
-    "desc": "Central Mat - Su Fire Department - Station 6-4"
+    "desc": "Central Mat - Su Fire Department - Station 6-4 </br> Mat Su DES District: District 1 </br> Type: Varies by Station </br> Dispatched by: MatCom Dispatch"
   },
   {
     "lat": 61.58628,
     "long": -149.361,
-    "desc": "Central Mat - Su Fire Department - Station 6-5"
+    "desc": "Central Mat - Su Fire Department - Station 6-5 </br> Mat Su DES District: District 1 </br> Type: Varies by Station </br> Dispatched by: MatCom Dispatch"
   },
   {
     "lat": 61.52847,
     "long": -149.504,
-    "desc": "Central Mat - Su Fire Department - Station 6-6"
+    "desc": "Central Mat - Su Fire Department - Station 6-6 </br> Mat Su DES District: District 1 </br> Type: Varies by Station </br> Dispatched by: MatCom Dispatch"
   },
   {
     "lat": 66.65468,
@@ -792,12 +792,12 @@
   {
     "lat": 61.63122,
     "long": -149.804,
-    "desc": "Houston Volunteer Fire Department - Station 9-1"
+    "desc": "Houston Volunteer Fire Department - Station 9-1 </br> Mat Su DES District: District 1 </br> Type: Volunteer </br> Dispatched by: MatCom Dispatch"
   },
   {
     "lat": 61.57568,
     "long": -149.758,
-    "desc": "Houston Volunteer Fire Department - Station 9-2"
+    "desc": "Houston Volunteer Fire Department - Station 9-2 </br> Mat Su DES District: District 1 </br> Type: Volunteer </br> Dispatched by: MatCom Dispatch"
   },
   {
     "lat": 66.04328,
@@ -822,7 +822,7 @@
   {
     "lat": 64.519324,
     "long": -165.375303,
-    "desc": "Icyview Firehall"
+    "desc": "Icyview Fire Hall"
   },
   {
     "lat": 59.32596,
@@ -1362,32 +1362,32 @@
   {
     "lat": 61.600334,
     "long": -149.117564,
-    "desc": "Palmer Fire Rescue - Station 3-1"
+    "desc": "Palmer Fire Rescue - Station 3-1 </br> Mat Su DES District: District 1 </br> Type: POC </br> Dispatched by: MatCom Dispatch & Palmer PD"
   },
   {
     "lat": 61.649866,
     "long": -149.113022,
-    "desc": "Palmer Fire Rescue - Station 3-2"
+    "desc": "Palmer Fire Rescue - Station 3-2 </br> Mat Su DES District: District 1 </br> Type: POC </br> Dispatched by: MatCom Dispatch & Palmer PD"
   },
   {
     "lat": 61.62867,
     "long": -149.051,
-    "desc": "Palmer Fire Rescue - Station 3-3"
+    "desc": "Palmer Fire Rescue - Station 3-3 </br> Mat Su DES District: District 1 </br> Type: POC </br> Dispatched by: MatCom Dispatch & Palmer PD"
   },
   {
     "lat": 61.59657,
     "long": -149.092,
-    "desc": "Palmer Fire Rescue - Station 3-4"
+    "desc": "Palmer Fire Rescue - Station 3-4 </br> Mat Su DES District: District 1 </br> Type: POC </br> Dispatched by: MatCom Dispatch & Palmer PD"
   },
   {
     "lat": 61.68557,
     "long": -149.243,
-    "desc": "Palmer Fire Rescue - Station 3-5"
+    "desc": "Palmer Fire Rescue - Station 3-5 </br> Mat Su DES District: District 1 </br> Type: POC </br> Dispatched by: MatCom Dispatch & Palmer PD"
   },
   {
     "lat": 61.59269,
     "long": -149.101,
-    "desc": "Palmer Fire Rescue - Station 3-6"
+    "desc": "Palmer Fire Rescue - Station 3-6 </br> Mat Su DES District: District 1 </br> Type: POC </br> Dispatched by: MatCom Dispatch & Palmer PD"
   },
   {
     "lat": 63.88996,
@@ -1667,7 +1667,7 @@
   {
     "lat": 61.709804,
     "long": -148.894346,
-    "desc": "Sutton Volunteer Fire Department Station 1-1"
+    "desc": "Sutton Volunteer Fire Department Station 1-1 </br> Mat Su DES District: District 1 </br> Type: Volunteer </br> Dispatched by: MatCom Dispatch"
   },
   {
     "lat": 62.98819,
@@ -1677,12 +1677,12 @@
   {
     "lat": 62.3188,
     "long": -150.107,
-    "desc": "Talkeetna Fire Department - Station 11-1"
+    "desc": "Talkeetna Fire Department - Station 11-1 </br> Mat Su DES District: District 4 </br> Type: Volunteer </br> Dispatched by: MatCom Dispatch"
   },
   {
     "lat": 62.13552,
     "long": -150.043,
-    "desc": "Talkeetna Fire Department - Station 11-2"
+    "desc": "Talkeetna Fire Department - Station 11-2 </br> Mat Su DES District: District 4 </br> Type: Volunteer </br> Dispatched by: MatCom Dispatch"
   },
   {
     "lat": 63.378546,
@@ -1757,7 +1757,7 @@
   {
     "lat": 62.30778,
     "long": -150.238,
-    "desc": "Trapper Creek EMS Station 14-1"
+    "desc": "Trapper Creek EMS Station 14-1 </br> Mat Su DES District: District 4 </br> Type: ? </br> Dispatched by: MatCom Dispatch"
   },
   {
     "lat": 60.3424,
@@ -1832,27 +1832,27 @@
   {
     "lat": 61.61093,
     "long": -149.626,
-    "desc": "West Lakes Fire Department - Station 7-1"
+    "desc": "West Lakes Fire Department - Station 7-1 </br> Mat Su DES District: District 1 </br> Type: Varies by Station </br> Dispatched by: MatCom Dispatch"
   },
   {
     "lat": 61.628643,
     "long": -149.512786,
-    "desc": "West Lakes Fire Department - Station 7-2"
+    "desc": "West Lakes Fire Department - Station 7-2 </br> Mat Su DES District: District 1 </br> Type: Varies by Station </br> Dispatched by: MatCom Dispatch"
   },
   {
     "lat": 61.570107,
     "long": -149.705189,
-    "desc": "West Lakes Fire Department - Station 7-3"
+    "desc": "West Lakes Fire Department - Station 7-3 </br> Mat Su DES District: District 1 </br> Type: Varies by Station </br> Dispatched by: MatCom Dispatch"
   },
   {
     "lat": 61.54863,
     "long": -149.817,
-    "desc": "West Lakes Fire Department - Station 8-1"
+    "desc": "West Lakes Fire Department - Station 8-1 </br> Mat Su DES District: District 1 </br> Type: Varies by Station </br> Dispatched by: MatCom Dispatch"
   },
   {
     "lat": 61.55317,
     "long": -149.932,
-    "desc": "West Lakes Fire Department - Station 8-2"
+    "desc": "West Lakes Fire Department - Station 8-2 </br> Mat Su DES District: District 1 </br> Type: Varies by Station </br> Dispatched by: MatCom Dispatch"
   },
   {
     "lat": 56.11716,
@@ -1872,32 +1872,27 @@
   {
     "lat": 61.7461,
     "long": -150.051,
-    "desc": "Willow Fire Department - Station 12-1"
-  },
-  {
-    "lat": 61.74018,
-    "long": -150.051,
-    "desc": "Willow Fire Department - Station 12-2"
-  },
-  {
-    "lat": 61.76152,
-    "long": -149.935,
-    "desc": "Willow Fire Department - Station 12-4"
-  },
-  {
-    "lat": 61.73608,
-    "long": -150.122,
-    "desc": "Willow Fire Department - Station 12-5"
-  },
-  {
-    "lat": 61.6843,
-    "long": -149.971,
-    "desc": "Willow Fire Department - Station 12-6"
+    "desc": "Willow Fire Department - Station 12-1 </br> Mat Su DES District: District 4 </br> Type: Volunteer </br> Dispatched by: MatCom Dispatch"
   },
   {
     "lat": 61.77179,
     "long": -149.799,
-    "desc": "Willow Volunteer Fire Department Hatcher Pass Station 12 - 2"
+    "desc": "Willow Fire Department - Station 12-2 </br> Mat Su DES District: District 4 </br> Type: Volunteer </br> Dispatched by: MatCom Dispatch"
+  },
+  {
+    "lat": 61.76152,
+    "long": -149.935,
+    "desc": "Willow Fire Department - Station 12-4 </br> Mat Su DES District: District 4 </br> Type: Volunteer </br> Dispatched by: MatCom Dispatch"
+  },
+  {
+    "lat": 61.73608,
+    "long": -150.122,
+    "desc": "Willow Fire Department - Station 12-5 </br> Mat Su DES District: District 4 </br> Type: Volunteer </br> Dispatched by: MatCom Dispatch"
+  },
+  {
+    "lat": 61.6843,
+    "long": -149.971,
+    "desc": "Willow Fire Department - Station 12-6 </br> Mat Su DES District: District 4 </br> Type: Volunteer </br> Dispatched by: MatCom Dispatch"
   },
   {
     "lat": 57.71579,
@@ -1920,1539 +1915,9 @@
     "desc": "Yakutat Fire Department"
   },
   {
-    "lat": 42.290271,
-    "long": -87.893571,
-    "desc": "Abbott Laboratories Fire Department Station 1"
-  },
-  {
-    "lat": 42.333626,
-    "long": -87.838364,
-    "desc": "Abbott Laboratories Fire Department Station 2"
-  },
-  {
-    "lat": 40.802128,
-    "long": -90.397511,
-    "desc": "Abingdon Fire Protection District Station 1"
-  },
-  {
-    "lat": 40.798599,
-    "long": -90.538768,
-    "desc": "Abingdon Fire Protection District Station 2"
-  },
-  {
-    "lat": 38.391655,
-    "long": -89.486765,
-    "desc": "Addieville Community Fire Protection District"
-  },
-  {
-    "lat": 41.926974,
-    "long": -87.989233,
-    "desc": "Addison Fire Station Number 1"
-  },
-  {
-    "lat": 41.914752,
-    "long": -88.002289,
-    "desc": "Addison Fire Station Number 2"
-  },
-  {
-    "lat": 41.928224,
-    "long": -88.033158,
-    "desc": "Addison Fire Station Number 3"
-  },
-  {
-    "lat": 41.786633,
-    "long": -90.223509,
-    "desc": "Albany Fire Protection District"
-  },
-  {
-    "lat": 38.378262,
-    "long": -88.059242,
-    "desc": "Albion Fire Department Rural Fire Protection District"
-  },
-  {
-    "lat": 41.200398,
-    "long": -90.747625,
-    "desc": "Aledo Fire Department"
-  },
-  {
-    "lat": 39.724519,
-    "long": -90.039624,
-    "desc": "Alexander Fire Department"
-  },
-  {
-    "lat": 41.061417,
-    "long": -90.554749,
-    "desc": "Alexis Fire Protection District"
-  },
-  {
-    "lat": 42.175816,
-    "long": -88.304885,
-    "desc": "Algonquin - Lake in the Hills Fire Protection District"
-  },
-  {
-    "lat": 42.162779,
-    "long": -88.333536,
-    "desc": "Algonquin Fire Department"
-  },
-  {
-    "lat": 42.174335,
-    "long": -88.372231,
-    "desc": "Algonquin Fire Department"
-  },
-  {
-    "lat": 42.159978,
-    "long": -88.269984,
-    "desc": "Algonquin Lake in the Hills Fire Department Station 3"
-  },
-  {
-    "lat": 38.888164,
-    "long": -89.728024,
-    "desc": "Alhambra Fire Department"
-  },
-  {
-    "lat": 41.156557,
-    "long": -88.653225,
-    "desc": "Allen Township Volunteer Fire Protection District"
-  },
-  {
-    "lat": 38.525947,
-    "long": -87.708262,
-    "desc": "Allendale Rural Fire Protection District"
-  },
-  {
-    "lat": 39.909456,
-    "long": -87.937175,
-    "desc": "Allerton Fire Protection District"
-  },
-  {
-    "lat": 40.434462,
-    "long": -89.218726,
-    "desc": "Allin Township Fire Protection District"
-  },
-  {
-    "lat": 38.581215,
-    "long": -90.119018,
-    "desc": "Alorton Fire Department"
-  },
-  {
-    "lat": 41.663282,
-    "long": -87.719709,
-    "desc": "Alsip Fire Department Station # 1"
-  },
-  {
-    "lat": 41.674756,
-    "long": -87.749218,
-    "desc": "Alsip Fire Department Station #2"
-  },
-  {
-    "lat": 39.06187,
-    "long": -88.750083,
-    "desc": "Altamont Fire Protection District"
-  },
-  {
-    "lat": 37.570732,
-    "long": -89.317474,
-    "desc": "Alto Pass Fire Department"
-  },
-  {
-    "lat": 38.906564,
-    "long": -90.179041,
-    "desc": "Alton Fire Department"
-  },
-  {
-    "lat": 38.904531,
-    "long": -90.138264,
-    "desc": "Alton Fire Department - Station 2"
-  },
-  {
-    "lat": 41.113848,
-    "long": -90.162114,
-    "desc": "Altona Fire Protection District"
-  },
-  {
-    "lat": 41.715801,
-    "long": -89.333748,
-    "desc": "Amboy Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 38 - Lee County </br> EMS: ALS/Dependent on staffing  </br> Dispatched by: Lee County Sheriffs Department (Lee Co ETSB)"
-  },
-  {
-    "lat": 40.568001,
-    "long": -88.536926,
-    "desc": "Anchor Fire Department"
-  },
-  {
-    "lat": 41.442417,
-    "long": -90.720284,
-    "desc": "Andalusia Fire Protection District Station 1"
-  },
-  {
-    "lat": 37.459152,
-    "long": -89.240997,
-    "desc": "Anna Fire and Rescue Department"
-  },
-  {
-    "lat": 41.396988,
-    "long": -89.907448,
-    "desc": "Annawan - Alba Fire Protection District"
-  },
-  {
-    "lat": 42.479493,
-    "long": -88.099297,
-    "desc": "Antioch Fire Department Station #1"
-  },
-  {
-    "lat": 42.44747,
-    "long": -88.115156,
-    "desc": "Antioch Fire Station #3"
-  },
-  {
-    "lat": 42.484466,
-    "long": -88.062801,
-    "desc": "Antioch Fire Station 2"
-  },
-  {
-    "lat": 42.500259,
-    "long": -90.089653,
-    "desc": "Apple River Fire Department"
-  },
-  {
-    "lat": 40.945012,
-    "long": -90.180125,
-    "desc": "Appleton Fire Station"
-  },
-  {
-    "lat": 39.684192,
-    "long": -88.310069,
-    "desc": "Arcola Fire Protection District"
-  },
-  {
-    "lat": 39.68482,
-    "long": -88.306278,
-    "desc": "Arcola Fire Protection District Town Hall Station"
-  },
-  {
-    "lat": 39.876726,
-    "long": -90.372629,
-    "desc": "Arenzville Volunteer Fire Department"
-  },
-  {
-    "lat": 39.937121,
-    "long": -88.865337,
-    "desc": "Argenta - Oreana Fire Protection District Station 1"
-  },
-  {
-    "lat": 39.978314,
-    "long": -88.822965,
-    "desc": "Argenta - Oreana Fire Protection District Station 2"
-  },
-  {
-    "lat": 41.714316,
-    "long": -87.964226,
-    "desc": "Argonne Fire Department"
-  },
-  {
-    "lat": 41.474326,
-    "long": -89.247431,
-    "desc": "Arlington Fire Protection District"
-  },
-  {
-    "lat": 42.049701,
-    "long": -87.982681,
-    "desc": "Arlington Heights Fire Department"
-  },
-  {
-    "lat": 42.049883,
-    "long": -87.982555,
-    "desc": "Arlington Heights Fire Department - Station 3"
-  },
-  {
-    "lat": 42.08128,
-    "long": -87.97825,
-    "desc": "Arlington Heights Fire Station 1"
-  },
-  {
-    "lat": 42.096992,
-    "long": -87.980992,
-    "desc": "Arlington Heights Fire Station 2"
-  },
-  {
-    "lat": 42.130952,
-    "long": -87.980891,
-    "desc": "Arlington Heights Fire Station 4"
-  },
-  {
-    "lat": 40.339618,
-    "long": -89.312545,
-    "desc": "Armington Community Fire Protection District"
-  },
-  {
-    "lat": 41.075995,
-    "long": -87.806119,
-    "desc": "Aroma Township Fire Protection District Station 1"
-  },
-  {
-    "lat": 41.107378,
-    "long": -87.744458,
-    "desc": "Aroma Township Fire Protection District Station 2"
-  },
-  {
-    "lat": 40.450768,
-    "long": -88.631371,
-    "desc": "Arrowsmith Fire Department"
-  },
-  {
-    "lat": 39.7096,
-    "long": -88.474559,
-    "desc": "Arthur Fire Station"
-  },
-  {
-    "lat": 40.878888,
-    "long": -87.954679,
-    "desc": "Ashkum Fire Station"
-  },
-  {
-    "lat": 39.88923,
-    "long": -90.006999,
-    "desc": "Ashland Volunteer Fire Department"
-  },
-  {
-    "lat": 38.32928,
-    "long": -89.188709,
-    "desc": "Ashley Fire Protection District"
-  },
-  {
-    "lat": 38.224607,
-    "long": -89.216656,
-    "desc": "Ashley Fire Protection District Substation"
-  },
-  {
-    "lat": 39.532859,
-    "long": -88.022638,
-    "desc": "Ashmore Fire Protection District"
-  },
-  {
-    "lat": 41.866367,
-    "long": -89.222908,
-    "desc": "Ashton Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 38 - Lee County </br> EMS: BLS  </br> Dispatched by: Lee & Ogle County Sheriffs Department (Ogle/Lee Co ETSB)"
-  },
-  {
-    "lat": 39.520963,
-    "long": -89.049677,
-    "desc": "Assumption Fire Protection District"
-  },
-  {
-    "lat": 40.228133,
-    "long": -90.358024,
-    "desc": "Astoria Fire Protection District Station 1"
-  },
-  {
-    "lat": 40.26827,
-    "long": -90.277745,
-    "desc": "Astoria Fire Protection District Station 2"
-  },
-  {
-    "lat": 39.960491,
-    "long": -89.718651,
-    "desc": "Athens Fire Station"
-  },
-  {
-    "lat": 41.420635,
-    "long": -90.01828,
-    "desc": "Atkinson Fire Protection District"
-  },
-  {
-    "lat": 40.260808,
-    "long": -89.230354,
-    "desc": "Atlanta Fire Protection District"
-  },
-  {
-    "lat": 39.808553,
-    "long": -88.462853,
-    "desc": "Atwood Fire Protection District"
-  },
-  {
-    "lat": 39.591946,
-    "long": -89.757767,
-    "desc": "Auburn Fire Protection District - Auburn Emergency Squad"
-  },
-  {
-    "lat": 39.593387,
-    "long": -89.746137,
-    "desc": "Auburn Fire Protection District Engine House 1"
-  },
-  {
-    "lat": 39.58896,
-    "long": -89.742323,
-    "desc": "Auburn Fire Protection District Engine House 2"
-  },
-  {
-    "lat": 40.230511,
-    "long": -90.949425,
-    "desc": "Augusta Fire Station"
-  },
-  {
-    "lat": 41.758514,
-    "long": -88.311201,
-    "desc": "Aurora Fire Department - Station 1 (HQ)  </br> Station: 1 of 9 </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: Aurora Central Dispatch (APD)"
-  },
-  {
-    "lat": 41.773273,
-    "long": -88.374977,
-    "desc": "Aurora Fire Department - Station 10  </br> Station: 8 of 9 </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: Aurora Central Dispatch (APD)"
-  },
-  {
-    "lat": 41.715798,
-    "long": -88.255247,
-    "desc": "Aurora Fire Department - Station 12  </br> Station: 9 of 9 </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: Aurora Central Dispatch (APD)"
-  },
-  {
-    "lat": 41.780973,
-    "long": -88.330024,
-    "desc": "Aurora Fire Department - Station 3  </br> Station: 2 of 9 </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: Aurora Central Dispatch (APD)"
-  },
-  {
-    "lat": 41.774406,
-    "long": -88.294274,
-    "desc": "Aurora Fire Department - Station 4  </br> Station: 3 of 9 </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: Aurora Central Dispatch (APD)"
-  },
-  {
-    "lat": 41.741752,
-    "long": -88.287579,
-    "desc": "Aurora Fire Department - Station 5  </br> Station: 4 of 9 </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: Aurora Central Dispatch (APD)"
-  },
-  {
-    "lat": 41.753918,
-    "long": -88.33785,
-    "desc": "Aurora Fire Department - Station 7  </br> Station: 5 of 9 </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: Aurora Central Dispatch (APD)"
-  },
-  {
-    "lat": 41.754878,
-    "long": -88.224638,
-    "desc": "Aurora Fire Department - Station 8  </br> Station: 6 of 9 </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: Aurora Central Dispatch (APD)"
-  },
-  {
-    "lat": 41.794609,
-    "long": -88.258998,
-    "desc": "Aurora Fire Department - Station 9  </br> Station: 7 of 9 </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: Aurora Central Dispatch (APD)"
-  },
-  {
-    "lat": 41.742717,
-    "long": -88.282287,
-    "desc": "Aurora Township Fire Protection District Station 1  </br> Station: 1 of 2 </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: KenCom 911 (Kendall Co ETSB)"
-  },
-  {
-    "lat": 41.73084,
-    "long": -88.305727,
-    "desc": "Aurora Township Fire Protection District Station 2  </br> Station: 2 of 2 </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: KenCom 911 (Kendall Co ETSB)"
-  },
-  {
-    "lat": 37.888104,
-    "long": -89.497609,
-    "desc": "Ava Volunteer Fire Department"
-  },
-  {
-    "lat": 38.608232,
-    "long": -89.610883,
-    "desc": "Aviston Fire Department"
-  },
-  {
-    "lat": 40.663367,
-    "long": -90.434583,
-    "desc": "Avon Fire Protection District"
-  },
-  {
-    "lat": 38.182776,
-    "long": -89.845502,
-    "desc": "Baldwin Community Fire Protection District Main Station"
-  },
-  {
-    "lat": 42.186455,
-    "long": -88.186028,
-    "desc": "Barrington Countryside Fire Protection District Station 1"
-  },
-  {
-    "lat": 42.113917,
-    "long": -88.182891,
-    "desc": "Barrington Countryside Fire Protection District Station 2"
-  },
-  {
-    "lat": 42.157258,
-    "long": -88.129095,
-    "desc": "Barrington Fire Department"
-  },
-  {
-    "lat": 39.693869,
-    "long": -91.039736,
-    "desc": "Barry Fire Protection District"
-  },
-  {
-    "lat": 41.517537,
-    "long": -90.357475,
-    "desc": "Barstow Fire Protection District"
-  },
-  {
-    "lat": 41.493573,
-    "long": -90.390158,
-    "desc": "Barstow Fire Station"
-  },
-  {
-    "lat": 41.993922,
-    "long": -88.227128,
-    "desc": "Bartlett Fire Protection District - Station 3"
-  },
-  {
-    "lat": 41.998163,
-    "long": -88.186133,
-    "desc": "Bartlett Fire Protection District Station 1"
-  },
-  {
-    "lat": 41.96215,
-    "long": -88.185642,
-    "desc": "Bartlett Fire Protection District Station 2"
-  },
-  {
-    "lat": 40.651238,
-    "long": -89.651619,
-    "desc": "Bartonville Volunteer Fire Department Station 1"
-  },
-  {
-    "lat": 40.645519,
-    "long": -89.676651,
-    "desc": "Bartonville Volunteer Fire Department Station 2"
-  },
-  {
-    "lat": 41.851163,
-    "long": -88.292941,
-    "desc": "Batavia Fire Department - Station 1 </br> Station: 1 of 2 </br> MABAS Division: 13 - Kane South </br> EMS: ALS\\Staffed by PSI </br> Dispatched by: TriCom Central Dispatch"
-  },
-  {
-    "lat": 41.846284,
-    "long": -88.332537,
-    "desc": "Batavia Fire Department - Station 2 </br> Station: 1 of 2 </br> MABAS Division: 13 - Kane South </br> EMS: ALS\\Staffed by PSI </br> Dispatched by: TriCom Central Dispatch"
-  },
-  {
-    "lat": 40.190605,
-    "long": -90.142921,
-    "desc": "Bath Fire Protection District"
-  },
-  {
-    "lat": 39.728454,
-    "long": -90.907908,
-    "desc": "Baylis Fire Protection District"
-  },
-  {
-    "lat": 42.411814,
-    "long": -87.85448,
-    "desc": "Beach Park Fire Department"
-  },
-  {
-    "lat": 40.011448,
-    "long": -90.424439,
-    "desc": "Beardstown Fire Department and Ambulance Service Station 1"
-  },
-  {
-    "lat": 40.143282,
-    "long": -89.193827,
-    "desc": "Beason Fire Department"
-  },
-  {
-    "lat": 40.882867,
-    "long": -87.615341,
-    "desc": "Beaver Fire Protection District Fire Station"
-  },
-  {
-    "lat": 40.954866,
-    "long": -87.655511,
-    "desc": "Beaverville Fire Protection District"
-  },
-  {
-    "lat": 38.604547,
-    "long": -89.436248,
-    "desc": "Beckemeyer - Wade Volunteer Fire Protection District"
-  },
-  {
-    "lat": 41.768023,
-    "long": -87.820904,
-    "desc": "Bedford Park Fire Department Station 1"
-  },
-  {
-    "lat": 41.770734,
-    "long": -87.749809,
-    "desc": "Bedford Park Fire Department Station 2"
-  },
-  {
-    "lat": 41.758909,
-    "long": -87.789963,
-    "desc": "Bedford Park Fire Department Station 3"
-  },
-  {
-    "lat": 38.513391,
-    "long": -88.43614,
-    "desc": "Bedford Township Fire Protection District"
-  },
-  {
-    "lat": 41.342916,
-    "long": -87.628066,
-    "desc": "Beecher Fire Protection District"
-  },
-  {
-    "lat": 37.320465,
-    "long": -88.938395,
-    "desc": "Belknap Volunteer Fire Department"
-  },
-  {
-    "lat": 38.234451,
-    "long": -88.744058,
-    "desc": "Belle Rive Fire Department"
-  },
-  {
-    "lat": 38.551923,
-    "long": -90.038042,
-    "desc": "Belleville Fire Department - Station 3"
-  },
-  {
-    "lat": 38.515707,
-    "long": -89.96066,
-    "desc": "Belleville Fire Department Station 1"
-  },
-  {
-    "lat": 38.52065,
-    "long": -90.009525,
-    "desc": "Belleville Fire Department Station 2"
-  },
-  {
-    "lat": 38.50011,
-    "long": -89.9852,
-    "desc": "Belleville Fire Department Station 4"
-  },
-  {
-    "lat": 40.341601,
-    "long": -88.525195,
-    "desc": "Bellflower Fire Department"
-  },
-  {
-    "lat": 38.384219,
-    "long": -87.913359,
-    "desc": "Belmont Fire Protection District"
-  },
-  {
-    "lat": 42.258172,
-    "long": -88.84249,
-    "desc": "Belvidere Fire Department - Station 1   </br> Station: 1 of 2 </br> MABAS Division: 8 - Winnebago/Boone Co </br> EMS: Provided by OSF LifeLine </br> Dispatched by: Boone County Control"
-  },
-  {
-    "lat": 42.247494,
-    "long": -88.835556,
-    "desc": "Belvidere Fire Department - Station 2   </br> Station: 2 of 2 </br> MABAS Division: 8 - Winnebago/Boone Co </br> EMS: Provided by OSF LifeLine </br> Dispatched by: Boone County Control"
-  },
-  {
-    "lat": 39.919486,
-    "long": -88.575205,
-    "desc": "Bement Fire Protection District Station 1"
-  },
-  {
-    "lat": 39.929966,
-    "long": -88.574334,
-    "desc": "Bement Fire Protection District Station 2"
-  },
-  {
-    "lat": 39.092752,
-    "long": -89.807388,
-    "desc": "Benld Volunteer Fire Department"
-  },
-  {
-    "lat": 41.945646,
-    "long": -87.940121,
-    "desc": "Bensenville Fire Department Station #1"
-  },
-  {
-    "lat": 41.971695,
-    "long": -87.948295,
-    "desc": "Bensenville Fire Protection District Station 2"
-  },
-  {
-    "lat": 40.850501,
-    "long": -89.120375,
-    "desc": "Benson Community Fire Protection District"
-  },
-  {
-    "lat": 37.997582,
-    "long": -88.922203,
-    "desc": "Benton Fire Department"
-  },
-  {
-    "lat": 41.88194,
-    "long": -87.914154,
-    "desc": "Berkeley Fire Department"
-  },
-  {
-    "lat": 40.798312,
-    "long": -90.537808,
-    "desc": "Berwick Fire Department"
-  },
-  {
-    "lat": 41.834865,
-    "long": -87.785119,
-    "desc": "Berwyn Fire Department Station #1"
-  },
-  {
-    "lat": 41.858167,
-    "long": -87.789414,
-    "desc": "Berwyn Fire Department Station #2"
-  },
-  {
-    "lat": 41.842962,
-    "long": -87.791448,
-    "desc": "Berwyn Fire Department Station #3"
-  },
-  {
-    "lat": 38.910922,
-    "long": -90.03964,
-    "desc": "Bethalto Fire Department"
-  },
-  {
-    "lat": 39.645638,
-    "long": -88.7332,
-    "desc": "Bethany Fire Protection District and Ambulance Service"
-  },
-  {
-    "lat": 41.76149,
-    "long": -88.543833,
-    "desc": "Big Rock Fire Protection District </br> Station: 1 of 1MABAS Division: 13 - Kane South </br> Type: POC/Voulenteer </br> EMS: ALS </br> Dispatched by: KaneComm (Kane County ETSB)"
-  },
-  {
-    "lat": 40.851784,
-    "long": -90.865559,
-    "desc": "Biggsville Fire Protection District"
-  },
-  {
-    "lat": 41.202206,
-    "long": -90.118492,
-    "desc": "Bishop Hill Community Fire Protection District"
-  },
-  {
-    "lat": 40.192721,
-    "long": -87.638177,
-    "desc": "Bismarck Community Fire Protection District"
-  },
-  {
-    "lat": 40.263146,
-    "long": -87.61535,
-    "desc": "Bismarck Community Fire Protection District"
-  },
-  {
-    "lat": 40.305864,
-    "long": -87.70069,
-    "desc": "Bismarck Community Fire Protection District"
-  },
-  {
-    "lat": 40.309512,
-    "long": -87.605881,
-    "desc": "Bismarck Community Fire Protection District"
-  },
-  {
-    "lat": 41.453075,
-    "long": -90.570736,
-    "desc": "Blackhawk Fire Department"
-  },
-  {
-    "lat": 42.227222,
-    "long": -89.10849,
-    "desc": "Blackhawk Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 8 - Boone & Winnebago Counties </br> Type: POC </br> EMS: BLS </br> Dispatched by: Rockford Fire Alarm Office"
-  },
-  {
-    "lat": 40.554488,
-    "long": -90.865501,
-    "desc": "Blandinsville - Hire Fire Protection District"
-  },
-  {
-    "lat": 41.950703,
-    "long": -88.078574,
-    "desc": "Bloomingdale Fire Department"
-  },
-  {
-    "lat": 41.942267,
-    "long": -88.119715,
-    "desc": "Bloomingdale Fire Protection District - Station 1"
-  },
-  {
-    "lat": 41.950963,
-    "long": -88.078783,
-    "desc": "Bloomingdale Fire Protection District - Station 1 (HQ)"
-  },
-  {
-    "lat": 41.969395,
-    "long": -88.115718,
-    "desc": "Bloomingdale Fire Protection District Station 22"
-  },
-  {
-    "lat": 40.480808,
-    "long": -88.997804,
-    "desc": "Bloomington Fire Department - Station 1"
-  },
-  {
-    "lat": 40.453731,
-    "long": -88.96259,
-    "desc": "Bloomington Fire Department - Station 2"
-  },
-  {
-    "lat": 40.487977,
-    "long": -88.941409,
-    "desc": "Bloomington Fire Department - Station 3"
-  },
-  {
-    "lat": 40.460918,
-    "long": -89.006369,
-    "desc": "Bloomington Fire Department - Station 4"
-  },
-  {
-    "lat": 40.473349,
-    "long": -88.909077,
-    "desc": "Bloomington Fire Department - Station 6 (ARFF)"
-  },
-  {
-    "lat": 40.430224,
-    "long": -88.985782,
-    "desc": "Bloomington Township Fire Protection District"
-  },
-  {
-    "lat": 40.460181,
-    "long": -89.006392,
-    "desc": "Bloomington Township Fire Protection District Station 2"
-  },
-  {
-    "lat": 41.655632,
-    "long": -87.681874,
-    "desc": "Blue Island Fire Department"
-  },
-  {
-    "lat": 41.651925,
-    "long": -87.66981,
-    "desc": "Blue Island Fire Department Station 2"
-  },
-  {
-    "lat": 39.702106,
-    "long": -89.121078,
-    "desc": "Blue Mound Community Rural Fire Protection District"
-  },
-  {
-    "lat": 40.307084,
-    "long": -87.804347,
-    "desc": "Bluegrass Fire Protection District"
-  },
-  {
-    "lat": 41.699493,
-    "long": -88.051117,
-    "desc": "Bolingbrook Fire Department - Station 1"
-  },
-  {
-    "lat": 41.69059,
-    "long": -88.081551,
-    "desc": "Bolingbrook Fire Department - Station 2"
-  },
-  {
-    "lat": 41.7161,
-    "long": -88.055677,
-    "desc": "Bolingbrook Fire Department - Station 3"
-  },
-  {
-    "lat": 41.702942,
-    "long": -88.120787,
-    "desc": "Bolingbrook Fire Department - Station 4"
-  },
-  {
-    "lat": 41.667964,
-    "long": -88.14494,
-    "desc": "Bolingbrook Fire Department - Station 5"
-  },
-  {
-    "lat": 40.112951,
-    "long": -88.370093,
-    "desc": "Bondville Fire Rescue"
-  },
-  {
-    "lat": 38.447339,
-    "long": -87.996142,
-    "desc": "Bone Gap Rural Fire Protection District"
-  },
-  {
-    "lat": 42.398058,
-    "long": -88.741443,
-    "desc": "Boone County Fire Protection District 1 - Station 1   </br> Station: 1 of 1 </br> MABAS Division: 8 - Winnebago/Boone Co </br> EMS: Provided by OSF LifeLine </br> Dispatched by: Boone County Control"
-  },
-  {
-    "lat": 42.275696,
-    "long": -88.862992,
-    "desc": "Boone County Fire Protection District 2 - Station 1   </br> Station: 1 of 2 </br> MABAS Division: 8 - Winnebago/Boone Co </br> EMS: Provided by OSF LifeLine </br> Dispatched by: Boone County Control"
-  },
-  {
-    "lat": 42.253185,
-    "long": -88.75343,
-    "desc": "Boone County Fire Protection District 2 - Station 2   </br> Station: 2 of 2 </br> MABAS Division: 8 - Winnebago/Boone Co </br> EMS: Provided by OSF LifeLine </br> Dispatched by: Boone County Control"
-  },
-  {
-    "lat": 41.162213,
-    "long": -87.865604,
-    "desc": "Bourbonnais Fire Protection District"
-  },
-  {
-    "lat": 40.231895,
-    "long": -91.065331,
-    "desc": "Bowen Fire Station"
-  },
-  {
-    "lat": 41.224591,
-    "long": -88.261382,
-    "desc": "Braceville Fire Protection District"
-  },
-  {
-    "lat": 41.177167,
-    "long": -89.659991,
-    "desc": "Bradford Community Fire Protection District"
-  },
-  {
-    "lat": 41.141479,
-    "long": -87.865396,
-    "desc": "Bradley Fire Department"
-  },
-  {
-    "lat": 41.26417,
-    "long": -88.221513,
-    "desc": "Braidwood Fire Protection District - Station 1"
-  },
-  {
-    "lat": 38.607365,
-    "long": -89.534842,
-    "desc": "Breese Fire Department"
-  },
-  {
-    "lat": 38.70726,
-    "long": -87.761302,
-    "desc": "Bridgeport Fire Protection District Station 1"
-  },
-  {
-    "lat": 41.766875,
-    "long": -87.81853,
-    "desc": "Bridgeview Emergency Management Agency"
-  },
-  {
-    "lat": 41.754998,
-    "long": -87.805309,
-    "desc": "Bridgeview Fire Department Station 1"
-  },
-  {
-    "lat": 41.709575,
-    "long": -87.802103,
-    "desc": "Bridgeview Fire Department Station 2"
-  },
-  {
-    "lat": 39.038113,
-    "long": -90.143639,
-    "desc": "Brighton Betsy Ann Fire Protection District"
-  },
-  {
-    "lat": 40.790822,
-    "long": -89.752824,
-    "desc": "Brimfield Community Fire Protection District Station 2"
-  },
-  {
-    "lat": 40.838648,
-    "long": -89.882609,
-    "desc": "Brimfield Fire Station"
-  },
-  {
-    "lat": 41.631632,
-    "long": -88.44839,
-    "desc": "Bristol - Kendall Fire Department - Station 1 </br> Station: 1 of 3 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: MICU\\Staffed by PSI </br> Dispatched by: KenCom 911"
-  },
-  {
-    "lat": 41.669092,
-    "long": -88.433681,
-    "desc": "Bristol - Kendall Fire Department - Station 2 </br> Station: 2 of 3 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: MICU\\Staffed by PSI </br> Dispatched by: KenCom 912"
-  },
-  {
-    "lat": 41.704133,
-    "long": -88.436075,
-    "desc": "Bristol - Kendall Fire Department - Station 3 </br> Station: 3 of 3 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: MICU\\Staffed by PSI </br> Dispatched by: KenCom 913"
-  },
-  {
-    "lat": 41.860434,
-    "long": -87.863229,
-    "desc": "Broadview Fire Department"
-  },
-  {
-    "lat": 39.715567,
-    "long": -87.93153,
-    "desc": "Brocton Fire Station"
-  },
-  {
-    "lat": 41.812289,
-    "long": -87.846923,
-    "desc": "Brookfield Fire Station #1"
-  },
-  {
-    "lat": 41.826244,
-    "long": -87.853609,
-    "desc": "Brookfield Fire Station Number 2"
-  },
-  {
-    "lat": 41.826862,
-    "long": -87.853662,
-    "desc": "Brookfield Fire Station Number 2"
-  },
-  {
-    "lat": 38.656236,
-    "long": -90.166348,
-    "desc": "Brooklyn Fire Department"
-  },
-  {
-    "lat": 37.123396,
-    "long": -88.62842,
-    "desc": "Brookport Fire Department"
-  },
-  {
-    "lat": 39.988136,
-    "long": -90.776627,
-    "desc": "Brown County Fire Protection District"
-  },
-  {
-    "lat": 40.129326,
-    "long": -90.372084,
-    "desc": "Browning Fire Department"
-  },
-  {
-    "lat": 38.377542,
-    "long": -87.982504,
-    "desc": "Browns Volunteer Fire Department"
-  },
-  {
-    "lat": 38.991879,
-    "long": -88.95073,
-    "desc": "Brownstown Volunteer Fire Department"
-  },
-  {
-    "lat": 38.947566,
-    "long": -90.588929,
-    "desc": "Brussel?"
-  },
-  {
-    "lat": 38.946983,
-    "long": -90.588683,
-    "desc": "Brussel's Fire Station"
-  },
-  {
-    "lat": 40.389743,
-    "long": -90.002159,
-    "desc": "Buckheart County Fire Department"
-  },
-  {
-    "lat": 40.491814,
-    "long": -90.049382,
-    "desc": "Buckheart Township Fire Protection District Station 1"
-  },
-  {
-    "lat": 40.491829,
-    "long": -90.032429,
-    "desc": "Buckheart Township Fire Protection District Station 2"
-  },
-  {
-    "lat": 40.597155,
-    "long": -88.037492,
-    "desc": "Buckley Fire Protection District - Buckley Ambulance Service"
-  },
-  {
-    "lat": 37.981682,
-    "long": -89.015356,
-    "desc": "Buckner Volunteer Fire Department"
-  },
-  {
-    "lat": 41.326584,
-    "long": -89.679726,
-    "desc": "Buda Fire Protection District"
-  },
-  {
-    "lat": 39.851502,
-    "long": -89.408005,
-    "desc": "Buffalo Fire Protection District"
-  },
-  {
-    "lat": 42.19681,
-    "long": -87.961216,
-    "desc": "Buffalo Grove Fire Department"
-  },
-  {
-    "lat": 42.138333,
-    "long": -87.96949,
-    "desc": "Buffalo Grove Fire Department - Station 25"
-  },
-  {
-    "lat": 42.138224,
-    "long": -87.969341,
-    "desc": "Buffalo Grove Fire Department Station 25"
-  },
-  {
-    "lat": 42.171219,
-    "long": -87.955847,
-    "desc": "Buffalo Grove Fire Department Station 26"
-  },
-  {
-    "lat": 41.335898,
-    "long": -90.854935,
-    "desc": "Buffalo Prairie Community Fire Department"
-  },
-  {
-    "lat": 37.471295,
-    "long": -88.976683,
-    "desc": "Buncombe Volunteer Fire Department"
-  },
-  {
-    "lat": 39.043184,
-    "long": -89.952351,
-    "desc": "Bunker Hill Fire Dist. #1"
-  },
-  {
-    "lat": 41.748687,
-    "long": -87.783518,
-    "desc": "Burbank Fire Department"
-  },
-  {
-    "lat": 41.73794,
-    "long": -87.768115,
-    "desc": "Burbank Fire Department Station 2"
-  },
-  {
-    "lat": 41.288841,
-    "long": -89.366936,
-    "desc": "Bureau Fire Protection District"
-  },
-  {
-    "lat": 42.051376,
-    "long": -88.54929,
-    "desc": "Burlington Community Fire Protection District"
-  },
-  {
-    "lat": 41.638806,
-    "long": -87.560257,
-    "desc": "Burnham Fire Department"
-  },
-  {
-    "lat": 37.842576,
-    "long": -89.133706,
-    "desc": "Bush Volunteer Fire Department"
-  },
-  {
-    "lat": 40.552622,
-    "long": -90.511076,
-    "desc": "Bushnell Fire Department"
-  },
-  {
-    "lat": 40.55503,
-    "long": -90.506838,
-    "desc": "Bushnell Fire Protection District Station 2"
-  },
-  {
-    "lat": 42.126242,
-    "long": -89.259626,
-    "desc": "Byron Fire Protection District"
-  },
-  {
-    "lat": 40.995909,
-    "long": -88.206412,
-    "desc": "Cabery Fire Protection District"
-  },
-  {
-    "lat": 38.570332,
-    "long": -90.191594,
-    "desc": "Cahokia Fire Protection District House 1"
-  },
-  {
-    "lat": 38.564087,
-    "long": -90.167073,
-    "desc": "Cahokia Volunteer Fire Department"
-  },
-  {
-    "lat": 37.002735,
-    "long": -89.173158,
-    "desc": "Cairo Fire Department"
-  },
-  {
-    "lat": 41.615887,
-    "long": -87.530159,
-    "desc": "Calumet City Fire Department - Station 1"
-  },
-  {
-    "lat": 41.615851,
-    "long": -87.556369,
-    "desc": "Calumet City Fire Department - Station 2"
-  },
-  {
-    "lat": 41.667029,
-    "long": -87.660481,
-    "desc": "Calumet Park Fire Department"
-  },
-  {
-    "lat": 39.799639,
-    "long": -88.16685,
-    "desc": "Camargo Countryside Fire Protection District Camargo"
-  },
-  {
-    "lat": 39.79923,
-    "long": -88.076867,
-    "desc": "Camargo Countryside Fire Protection District Murdock"
-  },
-  {
-    "lat": 37.783545,
-    "long": -89.118849,
-    "desc": "Cambria Fire Department"
-  },
-  {
-    "lat": 41.298569,
-    "long": -90.184036,
-    "desc": "Cambridge Fire Protection District"
-  },
-  {
-    "lat": 40.888999,
-    "long": -90.514705,
-    "desc": "Cameron Fire Station"
-  },
-  {
-    "lat": 38.550691,
-    "long": -90.119514,
-    "desc": "Camp Jackson Fire Protection District"
-  },
-  {
-    "lat": 40.040841,
-    "long": -91.070169,
-    "desc": "Camp Point Fire Protection District"
-  },
-  {
-    "lat": 37.929214,
-    "long": -89.550178,
-    "desc": "Campbell Hill Rural Fire District 162"
-  },
-  {
-    "lat": 40.559901,
-    "long": -90.033333,
-    "desc": "Canton Fire Department"
-  },
-  {
-    "lat": 37.730064,
-    "long": -89.236763,
-    "desc": "Carbondale Fire Department - Station 2"
-  },
-  {
-    "lat": 37.724136,
-    "long": -89.228189,
-    "desc": "Carbondale Fire Station #1"
-  },
-  {
-    "lat": 37.722484,
-    "long": -89.208352,
-    "desc": "Carbondale Fire Station #2"
-  },
-  {
-    "lat": 37.711167,
-    "long": -89.198146,
-    "desc": "Carbondale Township Fire Department"
-  },
-  {
-    "lat": 37.012829,
-    "long": -89.180962,
-    "desc": "Cario Fire Department"
-  },
-  {
-    "lat": 39.277412,
-    "long": -89.884964,
-    "desc": "Carlinville Fire Department"
-  },
-  {
-    "lat": 40.583893,
-    "long": -89.136913,
-    "desc": "Carlock Fire Protection District"
-  },
-  {
-    "lat": 38.610504,
-    "long": -89.363113,
-    "desc": "Carlyle Fire Protection District"
-  },
-  {
-    "lat": 38.091778,
-    "long": -88.165024,
-    "desc": "Carmi Fire Department"
-  },
-  {
-    "lat": 41.930414,
-    "long": -88.156199,
-    "desc": "Carol Stream Fire Protection District - Station 27"
-  },
-  {
-    "lat": 41.910914,
-    "long": -88.139231,
-    "desc": "Carol Stream Fire Protection District - Station 28"
-  },
-  {
-    "lat": 41.896841,
-    "long": -88.101621,
-    "desc": "Carol Stream Fire Protection District - Station 29"
-  },
-  {
-    "lat": 42.108493,
-    "long": -88.28484,
-    "desc": "Carpentersville Fire Department - Station 91"
-  },
-  {
-    "lat": 42.121126,
-    "long": -88.264058,
-    "desc": "Carpentersville Fire Department - Station 92"
-  },
-  {
-    "lat": 42.13151,
-    "long": -88.32015,
-    "desc": "Carpentersville Fire Department - Station 93"
-  },
-  {
-    "lat": 42.131487,
-    "long": -88.320405,
-    "desc": "Carpentersville Fire Station #3"
-  },
-  {
-    "lat": 37.684069,
-    "long": -88.63498,
-    "desc": "Carrier Mills Fire Department"
-  },
-  {
-    "lat": 40.130937,
-    "long": -88.183598,
-    "desc": "Carroll Fire Protection District"
-  },
-  {
-    "lat": 39.300724,
-    "long": -90.410454,
-    "desc": "Carrollton Fire Protection District"
-  },
-  {
-    "lat": 37.763342,
-    "long": -89.076895,
-    "desc": "Carterville Fire Department"
-  },
-  {
-    "lat": 40.411503,
-    "long": -91.134872,
-    "desc": "Carthage Fire Department"
-  },
-  {
-    "lat": 42.212872,
-    "long": -88.252426,
-    "desc": "Cary Fire Protection District Station 1"
-  },
-  {
-    "lat": 42.234127,
-    "long": -88.237167,
-    "desc": "Cary Fire Protection District Station 2"
-  },
-  {
-    "lat": 39.300196,
-    "long": -87.992123,
-    "desc": "Casey Fire Department"
-  },
-  {
-    "lat": 38.636198,
-    "long": -90.026787,
-    "desc": "Caseyville Fire Protection District"
-  },
-  {
-    "lat": 40.854887,
-    "long": -89.570299,
-    "desc": "Caterpillar - Mossville Fire Station"
-  },
-  {
-    "lat": 40.618183,
-    "long": -89.462061,
-    "desc": "Caterpillar Corporate Security Services Fire Station"
-  },
-  {
-    "lat": 41.489474,
-    "long": -88.134437,
-    "desc": "Caterpillar Fire Department"
-  },
-  {
-    "lat": 40.676612,
-    "long": -89.59535,
-    "desc": "Caterpillar Tractor Company Y 131 Fire Station"
-  },
-  {
-    "lat": 40.064488,
-    "long": -87.702316,
-    "desc": "Catlin Fire Protection District"
-  },
-  {
-    "lat": 37.915258,
-    "long": -88.761864,
-    "desc": "Cave Eastern Fire Protection District Station 1"
-  },
-  {
-    "lat": 37.986463,
-    "long": -88.747414,
-    "desc": "Cave Eastern Fire Protection District Station 2"
-  },
-  {
-    "lat": 37.468122,
-    "long": -88.166473,
-    "desc": "Cave In Rock Fire Department"
-  },
-  {
-    "lat": 41.264,
-    "long": -89.124937,
-    "desc": "Cedar Point Fire Department"
-  },
-  {
-    "lat": 42.377728,
-    "long": -89.636267,
-    "desc": "Cedarville Fire Department"
-  },
-  {
-    "lat": 40.032381,
-    "long": -91.161058,
-    "desc": "Central Adams County Fire Protection District"
-  },
-  {
-    "lat": 41.802059,
-    "long": -87.75849,
-    "desc": "Central Stickney Fire Department"
-  },
-  {
-    "lat": 40.864652,
-    "long": -90.746242,
-    "desc": "Central Warren Fire Protection District"
-  },
-  {
-    "lat": 38.530509,
-    "long": -89.154188,
-    "desc": "Centralia City Fire Department"
-  },
-  {
-    "lat": 38.525589,
-    "long": -89.133698,
-    "desc": "Centralia Fire Department Station 1"
-  },
-  {
-    "lat": 38.518089,
-    "long": -89.135183,
-    "desc": "Centralia Fire Protection District"
-  },
-  {
-    "lat": 39.889997,
-    "long": -88.734609,
-    "desc": "Cerro Gordo Fire Protection District"
-  },
-  {
-    "lat": 42.013802,
-    "long": -89.889815,
-    "desc": "Chadwick Fire Protection District"
-  },
-  {
-    "lat": 40.114253,
-    "long": -88.246142,
-    "desc": "Champaign Fire Department"
-  },
-  {
-    "lat": 40.0925,
-    "long": -88.257973,
-    "desc": "Champaign Fire Department - Station 2"
-  },
-  {
-    "lat": 40.127399,
-    "long": -88.253472,
-    "desc": "Champaign Fire Department - Station 3"
-  },
-  {
-    "lat": 40.109016,
-    "long": -88.285196,
-    "desc": "Champaign Fire Department - Station 4"
-  },
-  {
-    "lat": 40.135414,
-    "long": -88.276514,
-    "desc": "Champaign Fire Department - Station 5"
-  },
-  {
-    "lat": 40.083662,
-    "long": -88.310605,
-    "desc": "Champaign Fire Department - Station 6"
-  },
-  {
-    "lat": 40.049171,
-    "long": -90.150932,
-    "desc": "Chandlerville Volunteer Fire Department"
-  },
-  {
-    "lat": 41.429704,
-    "long": -88.223155,
-    "desc": "Channahon Fire Protection District Station 1"
-  },
-  {
-    "lat": 41.471054,
-    "long": -88.180542,
-    "desc": "Channahon Fire Protection District Station 2"
-  },
-  {
-    "lat": 39.76549,
-    "long": -90.400537,
-    "desc": "Chapin Volunteer Fire Department"
-  },
-  {
-    "lat": 39.496186,
-    "long": -88.172252,
-    "desc": "Charleston Fire Chief"
-  },
-  {
-    "lat": 39.483608,
-    "long": -88.182571,
-    "desc": "Charleston Fire Department Station 2"
-  },
-  {
-    "lat": 39.672817,
-    "long": -89.705172,
-    "desc": "Chatham Fire Department"
-  },
-  {
-    "lat": 40.752032,
-    "long": -88.303776,
-    "desc": "Chatsworth Fire Protection District"
-  },
-  {
-    "lat": 40.936138,
-    "long": -87.938395,
-    "desc": "Chebanse Township Rural Fire Protection District"
-  },
-  {
-    "lat": 40.741173,
-    "long": -88.709986,
-    "desc": "Chenoa Fire Protection District"
-  },
-  {
-    "lat": 41.426382,
-    "long": -89.212587,
-    "desc": "Cherry Fire Department"
-  },
-  {
-    "lat": 42.235672,
-    "long": -88.952866,
-    "desc": "Cherry Valley Fire Protection District Station 1 </br> Station: 1 of 2 </br> Type: Career </br> MABAS Division: 8 - Winnebago/Boone County </br> EMS: ALS </br> Dispatched by: Rockford Fire Alarm"
-  },
-  {
-    "lat": 42.194557,
-    "long": -89.020226,
-    "desc": "Cherry Valley Fire Protection District Station 2 </br> Station: 2 of 2 </br> Type: Career </br> MABAS Division: 8 - Winnebago/Boone County </br> EMS: ALS </br> Dispatched by: Rockford Fire Alarm"
-  },
-  {
-    "lat": 37.914211,
-    "long": -89.82,
-    "desc": "Chester Fire Department"
-  },
-  {
-    "lat": 40.053131,
-    "long": -89.184335,
-    "desc": "Chestnut Volunteer Fire Department Station 2"
+    "lat": 41.790488,
+    "long": -88.940904,
+    "desc": "<strong> <span style='color: #800080;'>Lee Volunteer Fire Protection District</span> </strong> </br> Station: 1 of 1 </br> MABAS Division: 6 - DeKalb County </br> EMS: BLS FR\\\\Provided by Shabbona FD </br> Dispatched by: DeKalb County Sheriff's Department"
   },
   {
     "lat": 41.869606,
@@ -3463,36 +1928,6 @@
     "lat": 41.901808,
     "long": -87.637861,
     "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Air Mask Services </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.963527,
-    "long": -87.907614,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department ARFF Station #1</span> </strong>   </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.991321,
-    "long": -87.898641,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department ARFF Station #2</span> </strong>   </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.980699,
-    "long": -87.898338,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department ARFF Station #3 </span> </strong>   </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 42.000835,
-    "long": -87.918373,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department ARFF Station #4 </span> </strong>   </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.988041,
-    "long": -87.915928,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department District 3 Station 6 O'Hare Field Rescue Station 1 </span> </strong>   </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.864083,
-    "long": -87.641407,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department EMS & Paramedic Office </span> </strong>   </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.876309,
@@ -3960,9 +2395,1594 @@
     "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 99 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
+    "lat": 41.963527,
+    "long": -87.907614,
+    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department ARFF Station #1</span> </strong>   </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.991321,
+    "long": -87.898641,
+    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department ARFF Station #2</span> </strong>   </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.980699,
+    "long": -87.898338,
+    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department ARFF Station #3 </span> </strong>   </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 42.000835,
+    "long": -87.918373,
+    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department ARFF Station #4 </span> </strong>   </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.988041,
+    "long": -87.915928,
+    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department District 3 Station 6 O'Hare Field Rescue Station 1 </span> </strong>   </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.864083,
+    "long": -87.641407,
+    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department EMS & Paramedic Office </span> </strong>   </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
     "lat": 41.829834,
     "long": -87.624185,
     "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department Headquarters </span> </strong>   </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.672243,
+    "long": -88.328684,
+    "desc": "<strong> <span style='color: #CE2029;'>Oswego Fire Protection District - Station 1</span> </strong>  </br> Station: 1 of 4 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: ALS </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
+  },
+  {
+    "lat": 41.716083,
+    "long": -88.3126,
+    "desc": "<strong> <span style='color: #CE2029;'>Oswego Fire Protection District - Station 2</span> </strong>  </br> Station: 2 of 4 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: ALS </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
+  },
+  {
+    "lat": 41.71241,
+    "long": -88.375179,
+    "desc": "<strong> <span style='color: #CE2029;'>Oswego Fire Protection District - Station 3</span> </strong>  </br> Station: 3 of 4 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: ALS </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
+  },
+  {
+    "lat": 41.650816,
+    "long": -88.278455,
+    "desc": "<strong> <span style='color: #CE2029;'>Oswego Fire Protection District - Station 4</span> </strong>  </br> Station: 4 of 4 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: ALS </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
+  },
+  {
+    "lat": 42.290271,
+    "long": -87.893571,
+    "desc": "Abbott Laboratories Fire Department Station 1"
+  },
+  {
+    "lat": 42.333626,
+    "long": -87.838364,
+    "desc": "Abbott Laboratories Fire Department Station 2"
+  },
+  {
+    "lat": 40.802128,
+    "long": -90.397511,
+    "desc": "Abingdon Fire Protection District Station 1"
+  },
+  {
+    "lat": 40.798599,
+    "long": -90.538768,
+    "desc": "Abingdon Fire Protection District Station 2"
+  },
+  {
+    "lat": 38.391655,
+    "long": -89.486765,
+    "desc": "Addieville Community Fire Protection District"
+  },
+  {
+    "lat": 41.926974,
+    "long": -87.989233,
+    "desc": "Addison Fire Station Number 1"
+  },
+  {
+    "lat": 41.914752,
+    "long": -88.002289,
+    "desc": "Addison Fire Station Number 2"
+  },
+  {
+    "lat": 41.928224,
+    "long": -88.033158,
+    "desc": "Addison Fire Station Number 3"
+  },
+  {
+    "lat": 41.786633,
+    "long": -90.223509,
+    "desc": "Albany Fire Protection District"
+  },
+  {
+    "lat": 38.378262,
+    "long": -88.059242,
+    "desc": "Albion Fire Department Rural Fire Protection District"
+  },
+  {
+    "lat": 41.200398,
+    "long": -90.747625,
+    "desc": "Aledo Fire Department"
+  },
+  {
+    "lat": 39.724519,
+    "long": -90.039624,
+    "desc": "Alexander Fire Department"
+  },
+  {
+    "lat": 41.061417,
+    "long": -90.554749,
+    "desc": "Alexis Fire Protection District"
+  },
+  {
+    "lat": 42.175816,
+    "long": -88.304885,
+    "desc": "Algonquin - Lake in the Hills Fire Protection District"
+  },
+  {
+    "lat": 42.162779,
+    "long": -88.333536,
+    "desc": "Algonquin Fire Department"
+  },
+  {
+    "lat": 42.174335,
+    "long": -88.372231,
+    "desc": "Algonquin Fire Department"
+  },
+  {
+    "lat": 42.159978,
+    "long": -88.269984,
+    "desc": "Algonquin Lake in the Hills Fire Department Station 3"
+  },
+  {
+    "lat": 38.888164,
+    "long": -89.728024,
+    "desc": "Alhambra Fire Department"
+  },
+  {
+    "lat": 41.156557,
+    "long": -88.653225,
+    "desc": "Allen Township Volunteer Fire Protection District"
+  },
+  {
+    "lat": 38.525947,
+    "long": -87.708262,
+    "desc": "Allendale Rural Fire Protection District"
+  },
+  {
+    "lat": 39.909456,
+    "long": -87.937175,
+    "desc": "Allerton Fire Protection District"
+  },
+  {
+    "lat": 40.434462,
+    "long": -89.218726,
+    "desc": "Allin Township Fire Protection District"
+  },
+  {
+    "lat": 38.581215,
+    "long": -90.119018,
+    "desc": "Alorton Fire Department"
+  },
+  {
+    "lat": 41.663282,
+    "long": -87.719709,
+    "desc": "Alsip Fire Department Station # 1"
+  },
+  {
+    "lat": 41.674756,
+    "long": -87.749218,
+    "desc": "Alsip Fire Department Station #2"
+  },
+  {
+    "lat": 39.06187,
+    "long": -88.750083,
+    "desc": "Altamont Fire Protection District"
+  },
+  {
+    "lat": 37.570732,
+    "long": -89.317474,
+    "desc": "Alto Pass Fire Department"
+  },
+  {
+    "lat": 38.906564,
+    "long": -90.179041,
+    "desc": "Alton Fire Department"
+  },
+  {
+    "lat": 38.904531,
+    "long": -90.138264,
+    "desc": "Alton Fire Department - Station 2"
+  },
+  {
+    "lat": 41.113848,
+    "long": -90.162114,
+    "desc": "Altona Fire Protection District"
+  },
+  {
+    "lat": 41.715801,
+    "long": -89.333748,
+    "desc": "Amboy Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 38 - Lee County </br> EMS: ALS/Dependent on staffing  </br> Dispatched by: Lee County Sheriff's Department (Lee Co ETSB)"
+  },
+  {
+    "lat": 40.568001,
+    "long": -88.536926,
+    "desc": "Anchor Fire Department"
+  },
+  {
+    "lat": 41.442417,
+    "long": -90.720284,
+    "desc": "Andalusia Fire Protection District Station 1"
+  },
+  {
+    "lat": 37.459152,
+    "long": -89.240997,
+    "desc": "Anna Fire and Rescue Department"
+  },
+  {
+    "lat": 41.396988,
+    "long": -89.907448,
+    "desc": "Annawan - Alba Fire Protection District"
+  },
+  {
+    "lat": 42.479493,
+    "long": -88.099297,
+    "desc": "Antioch Fire Department Station #1"
+  },
+  {
+    "lat": 42.44747,
+    "long": -88.115156,
+    "desc": "Antioch Fire Station #3"
+  },
+  {
+    "lat": 42.484466,
+    "long": -88.062801,
+    "desc": "Antioch Fire Station 2"
+  },
+  {
+    "lat": 42.500259,
+    "long": -90.089653,
+    "desc": "Apple River Fire Department"
+  },
+  {
+    "lat": 40.945012,
+    "long": -90.180125,
+    "desc": "Appleton Fire Station"
+  },
+  {
+    "lat": 39.684192,
+    "long": -88.310069,
+    "desc": "Arcola Fire Protection District"
+  },
+  {
+    "lat": 39.68482,
+    "long": -88.306278,
+    "desc": "Arcola Fire Protection District Town Hall Station"
+  },
+  {
+    "lat": 39.876726,
+    "long": -90.372629,
+    "desc": "Arenzville Volunteer Fire Department"
+  },
+  {
+    "lat": 39.937121,
+    "long": -88.865337,
+    "desc": "Argenta - Oreana Fire Protection District Station 1"
+  },
+  {
+    "lat": 39.978314,
+    "long": -88.822965,
+    "desc": "Argenta - Oreana Fire Protection District Station 2"
+  },
+  {
+    "lat": 41.714316,
+    "long": -87.964226,
+    "desc": "Argonne Fire Department"
+  },
+  {
+    "lat": 41.474326,
+    "long": -89.247431,
+    "desc": "Arlington Fire Protection District"
+  },
+  {
+    "lat": 42.049701,
+    "long": -87.982681,
+    "desc": "Arlington Heights Fire Department"
+  },
+  {
+    "lat": 42.049883,
+    "long": -87.982555,
+    "desc": "Arlington Heights Fire Department - Station 3"
+  },
+  {
+    "lat": 42.08128,
+    "long": -87.97825,
+    "desc": "Arlington Heights Fire Station 1"
+  },
+  {
+    "lat": 42.096992,
+    "long": -87.980992,
+    "desc": "Arlington Heights Fire Station 2"
+  },
+  {
+    "lat": 42.130952,
+    "long": -87.980891,
+    "desc": "Arlington Heights Fire Station 4"
+  },
+  {
+    "lat": 40.339618,
+    "long": -89.312545,
+    "desc": "Armington Community Fire Protection District"
+  },
+  {
+    "lat": 41.075995,
+    "long": -87.806119,
+    "desc": "Aroma Township Fire Protection District Station 1"
+  },
+  {
+    "lat": 41.107378,
+    "long": -87.744458,
+    "desc": "Aroma Township Fire Protection District Station 2"
+  },
+  {
+    "lat": 40.450768,
+    "long": -88.631371,
+    "desc": "Arrowsmith Fire Department"
+  },
+  {
+    "lat": 39.7096,
+    "long": -88.474559,
+    "desc": "Arthur Fire Station"
+  },
+  {
+    "lat": 40.878888,
+    "long": -87.954679,
+    "desc": "Ashkum Fire Station"
+  },
+  {
+    "lat": 39.88923,
+    "long": -90.006999,
+    "desc": "Ashland Volunteer Fire Department"
+  },
+  {
+    "lat": 38.32928,
+    "long": -89.188709,
+    "desc": "Ashley Fire Protection District"
+  },
+  {
+    "lat": 38.224607,
+    "long": -89.216656,
+    "desc": "Ashley Fire Protection District Substation"
+  },
+  {
+    "lat": 39.532859,
+    "long": -88.022638,
+    "desc": "Ashmore Fire Protection District"
+  },
+  {
+    "lat": 41.866367,
+    "long": -89.222908,
+    "desc": "Ashton Fire Protection District </br> Station: 1 of 1 </br> Type: POC </br> MABAS Division: 38 - Lee County </br> EMS: BLS </br> Dispatched by: Lee County Sheriff's Department"
+  },
+  {
+    "lat": 39.520963,
+    "long": -89.049677,
+    "desc": "Assumption Fire Protection District"
+  },
+  {
+    "lat": 40.228133,
+    "long": -90.358024,
+    "desc": "Astoria Fire Protection District Station 1"
+  },
+  {
+    "lat": 40.26827,
+    "long": -90.277745,
+    "desc": "Astoria Fire Protection District Station 2"
+  },
+  {
+    "lat": 39.960491,
+    "long": -89.718651,
+    "desc": "Athens Fire Station"
+  },
+  {
+    "lat": 41.420635,
+    "long": -90.01828,
+    "desc": "Atkinson Fire Protection District"
+  },
+  {
+    "lat": 40.260808,
+    "long": -89.230354,
+    "desc": "Atlanta Fire Protection District"
+  },
+  {
+    "lat": 39.808553,
+    "long": -88.462853,
+    "desc": "Atwood Fire Protection District"
+  },
+  {
+    "lat": 39.591946,
+    "long": -89.757767,
+    "desc": "Auburn Fire Protection District - Auburn Emergency Squad"
+  },
+  {
+    "lat": 39.593387,
+    "long": -89.746137,
+    "desc": "Auburn Fire Protection District Engine House 1"
+  },
+  {
+    "lat": 39.58896,
+    "long": -89.742323,
+    "desc": "Auburn Fire Protection District Engine House 2"
+  },
+  {
+    "lat": 40.230511,
+    "long": -90.949425,
+    "desc": "Augusta Fire Station"
+  },
+  {
+    "lat": 41.758514,
+    "long": -88.311201,
+    "desc": "Aurora Fire Department - Station 1 (HQ)  </br> Station: 1 of 9 </br> Type: Career </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: Aurora Central Dispatch (APD)"
+  },
+  {
+    "lat": 41.773273,
+    "long": -88.374977,
+    "desc": "Aurora Fire Department - Station 10  </br> Station: 8 of 9 </br> Type: Career </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: Aurora Central Dispatch (APD)"
+  },
+  {
+    "lat": 41.715798,
+    "long": -88.255247,
+    "desc": "Aurora Fire Department - Station 12  </br> Station: 9 of 9 </br> Type: Career </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: Aurora Central Dispatch (APD)"
+  },
+  {
+    "lat": 41.780973,
+    "long": -88.330024,
+    "desc": "Aurora Fire Department - Station 3  </br> Station: 2 of 9 </br> Type: Career </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: Aurora Central Dispatch (APD)"
+  },
+  {
+    "lat": 41.774406,
+    "long": -88.294274,
+    "desc": "Aurora Fire Department - Station 4  </br> Station: 3 of 9 </br> Type: Career </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: Aurora Central Dispatch (APD)"
+  },
+  {
+    "lat": 41.741752,
+    "long": -88.287579,
+    "desc": "Aurora Fire Department - Station 5  </br> Station: 4 of 9 </br> Type: Career </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: Aurora Central Dispatch (APD)"
+  },
+  {
+    "lat": 41.753918,
+    "long": -88.33785,
+    "desc": "Aurora Fire Department - Station 7  </br> Station: 5 of 9 </br> Type: Career </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: Aurora Central Dispatch (APD)"
+  },
+  {
+    "lat": 41.754878,
+    "long": -88.224638,
+    "desc": "Aurora Fire Department - Station 8  </br> Station: 6 of 9 </br> Type: Career </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: Aurora Central Dispatch (APD)"
+  },
+  {
+    "lat": 41.794609,
+    "long": -88.258998,
+    "desc": "Aurora Fire Department - Station 9  </br> Station: 7 of 9 </br> Type: Career </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: Aurora Central Dispatch (APD)"
+  },
+  {
+    "lat": 41.742717,
+    "long": -88.282287,
+    "desc": "Aurora Township Fire Protection District Station 1  </br> Station: 1 of 2 </br> Type: Career </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: KenCom 911 (Kendall Co ETSB)"
+  },
+  {
+    "lat": 41.73084,
+    "long": -88.305727,
+    "desc": "Aurora Township Fire Protection District Station 2  </br> Station: 2 of 2 </br> Type: Career </br> MABAS Division: 13 - Kane South </br> EMS: ALS  </br> Dispatched by: KenCom 911 (Kendall Co ETSB)"
+  },
+  {
+    "lat": 37.888104,
+    "long": -89.497609,
+    "desc": "Ava Volunteer Fire Department"
+  },
+  {
+    "lat": 38.608232,
+    "long": -89.610883,
+    "desc": "Aviston Fire Department"
+  },
+  {
+    "lat": 40.663367,
+    "long": -90.434583,
+    "desc": "Avon Fire Protection District"
+  },
+  {
+    "lat": 38.182776,
+    "long": -89.845502,
+    "desc": "Baldwin Community Fire Protection District Main Station"
+  },
+  {
+    "lat": 42.186455,
+    "long": -88.186028,
+    "desc": "Barrington Countryside Fire Protection District Station 1"
+  },
+  {
+    "lat": 42.113917,
+    "long": -88.182891,
+    "desc": "Barrington Countryside Fire Protection District Station 2"
+  },
+  {
+    "lat": 42.157258,
+    "long": -88.129095,
+    "desc": "Barrington Fire Department"
+  },
+  {
+    "lat": 39.693869,
+    "long": -91.039736,
+    "desc": "Barry Fire Protection District"
+  },
+  {
+    "lat": 41.517537,
+    "long": -90.357475,
+    "desc": "Barstow Fire Protection District"
+  },
+  {
+    "lat": 41.493573,
+    "long": -90.390158,
+    "desc": "Barstow Fire Station"
+  },
+  {
+    "lat": 41.993922,
+    "long": -88.227128,
+    "desc": "Bartlett Fire Protection District - Station 3"
+  },
+  {
+    "lat": 41.998163,
+    "long": -88.186133,
+    "desc": "Bartlett Fire Protection District Station 1"
+  },
+  {
+    "lat": 41.96215,
+    "long": -88.185642,
+    "desc": "Bartlett Fire Protection District Station 2"
+  },
+  {
+    "lat": 40.651238,
+    "long": -89.651619,
+    "desc": "Bartonville Volunteer Fire Department Station 1"
+  },
+  {
+    "lat": 40.645519,
+    "long": -89.676651,
+    "desc": "Bartonville Volunteer Fire Department Station 2"
+  },
+  {
+    "lat": 41.851163,
+    "long": -88.292941,
+    "desc": "Batavia Fire Department - Station 1 </br> Station: 1 of 2 </br> MABAS Division: 13 - Kane South </br> EMS: ALS\\Staffed by PSI </br> Dispatched by: TriCom Central Dispatch"
+  },
+  {
+    "lat": 41.846284,
+    "long": -88.332537,
+    "desc": "Batavia Fire Department - Station 2 </br> Station: 1 of 2 </br> MABAS Division: 13 - Kane South </br> EMS: ALS\\Staffed by PSI </br> Dispatched by: TriCom Central Dispatch"
+  },
+  {
+    "lat": 40.190605,
+    "long": -90.142921,
+    "desc": "Bath Fire Protection District"
+  },
+  {
+    "lat": 39.728454,
+    "long": -90.907908,
+    "desc": "Baylis Fire Protection District"
+  },
+  {
+    "lat": 42.411814,
+    "long": -87.85448,
+    "desc": "Beach Park Fire Department"
+  },
+  {
+    "lat": 40.011448,
+    "long": -90.424439,
+    "desc": "Beardstown Fire Department and Ambulance Service Station 1"
+  },
+  {
+    "lat": 40.143282,
+    "long": -89.193827,
+    "desc": "Beason Fire Department"
+  },
+  {
+    "lat": 40.882867,
+    "long": -87.615341,
+    "desc": "Beaver Fire Protection District Fire Station"
+  },
+  {
+    "lat": 40.954866,
+    "long": -87.655511,
+    "desc": "Beaverville Fire Protection District"
+  },
+  {
+    "lat": 38.604547,
+    "long": -89.436248,
+    "desc": "Beckemeyer - Wade Volunteer Fire Protection District"
+  },
+  {
+    "lat": 41.768023,
+    "long": -87.820904,
+    "desc": "Bedford Park Fire Department Station 1"
+  },
+  {
+    "lat": 41.770734,
+    "long": -87.749809,
+    "desc": "Bedford Park Fire Department Station 2"
+  },
+  {
+    "lat": 41.758909,
+    "long": -87.789963,
+    "desc": "Bedford Park Fire Department Station 3"
+  },
+  {
+    "lat": 38.513391,
+    "long": -88.43614,
+    "desc": "Bedford Township Fire Protection District"
+  },
+  {
+    "lat": 41.342916,
+    "long": -87.628066,
+    "desc": "Beecher Fire Protection District"
+  },
+  {
+    "lat": 37.320465,
+    "long": -88.938395,
+    "desc": "Belknap Volunteer Fire Department"
+  },
+  {
+    "lat": 38.234451,
+    "long": -88.744058,
+    "desc": "Belle Rive Fire Department"
+  },
+  {
+    "lat": 38.551923,
+    "long": -90.038042,
+    "desc": "Belleville Fire Department - Station 3"
+  },
+  {
+    "lat": 38.515707,
+    "long": -89.96066,
+    "desc": "Belleville Fire Department Station 1"
+  },
+  {
+    "lat": 38.52065,
+    "long": -90.009525,
+    "desc": "Belleville Fire Department Station 2"
+  },
+  {
+    "lat": 38.50011,
+    "long": -89.9852,
+    "desc": "Belleville Fire Department Station 4"
+  },
+  {
+    "lat": 40.341601,
+    "long": -88.525195,
+    "desc": "Bellflower Fire Department"
+  },
+  {
+    "lat": 38.384219,
+    "long": -87.913359,
+    "desc": "Belmont Fire Protection District"
+  },
+  {
+    "lat": 42.258172,
+    "long": -88.84249,
+    "desc": "Belvidere Fire Department - Station 1   </br> Station: 1 of 2 </br> MABAS Division: 8 - Winnebago/Boone Co </br> EMS: Provided by OSF LifeLine </br> Dispatched by: Boone County Control"
+  },
+  {
+    "lat": 42.247494,
+    "long": -88.835556,
+    "desc": "Belvidere Fire Department - Station 2   </br> Station: 2 of 2 </br> MABAS Division: 8 - Winnebago/Boone Co </br> EMS: Provided by OSF LifeLine </br> Dispatched by: Boone County Control"
+  },
+  {
+    "lat": 39.919486,
+    "long": -88.575205,
+    "desc": "Bement Fire Protection District Station 1"
+  },
+  {
+    "lat": 39.929966,
+    "long": -88.574334,
+    "desc": "Bement Fire Protection District Station 2"
+  },
+  {
+    "lat": 39.092752,
+    "long": -89.807388,
+    "desc": "Benld Volunteer Fire Department"
+  },
+  {
+    "lat": 41.945646,
+    "long": -87.940121,
+    "desc": "Bensenville Fire Department Station #1"
+  },
+  {
+    "lat": 41.971695,
+    "long": -87.948295,
+    "desc": "Bensenville Fire Protection District Station 2"
+  },
+  {
+    "lat": 40.850501,
+    "long": -89.120375,
+    "desc": "Benson Community Fire Protection District"
+  },
+  {
+    "lat": 37.997582,
+    "long": -88.922203,
+    "desc": "Benton Fire Department"
+  },
+  {
+    "lat": 41.88194,
+    "long": -87.914154,
+    "desc": "Berkeley Fire Department"
+  },
+  {
+    "lat": 40.798312,
+    "long": -90.537808,
+    "desc": "Berwick Fire Department"
+  },
+  {
+    "lat": 41.834865,
+    "long": -87.785119,
+    "desc": "Berwyn Fire Department Station #1"
+  },
+  {
+    "lat": 41.858167,
+    "long": -87.789414,
+    "desc": "Berwyn Fire Department Station #2"
+  },
+  {
+    "lat": 41.842962,
+    "long": -87.791448,
+    "desc": "Berwyn Fire Department Station #3"
+  },
+  {
+    "lat": 38.910922,
+    "long": -90.03964,
+    "desc": "Bethalto Fire Department"
+  },
+  {
+    "lat": 39.645638,
+    "long": -88.7332,
+    "desc": "Bethany Fire Protection District and Ambulance Service"
+  },
+  {
+    "lat": 41.76149,
+    "long": -88.543833,
+    "desc": "Big Rock Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 13 - Kane South </br> Type: POC/Volunteer </br> EMS: ALS </br> Dispatched by: KaneComm (Kane County ETSB)"
+  },
+  {
+    "lat": 40.851784,
+    "long": -90.865559,
+    "desc": "Biggsville Fire Protection District"
+  },
+  {
+    "lat": 41.202206,
+    "long": -90.118492,
+    "desc": "Bishop Hill Community Fire Protection District"
+  },
+  {
+    "lat": 40.192721,
+    "long": -87.638177,
+    "desc": "Bismarck Community Fire Protection District"
+  },
+  {
+    "lat": 40.263146,
+    "long": -87.61535,
+    "desc": "Bismarck Community Fire Protection District"
+  },
+  {
+    "lat": 40.305864,
+    "long": -87.70069,
+    "desc": "Bismarck Community Fire Protection District"
+  },
+  {
+    "lat": 40.309512,
+    "long": -87.605881,
+    "desc": "Bismarck Community Fire Protection District"
+  },
+  {
+    "lat": 41.453075,
+    "long": -90.570736,
+    "desc": "Blackhawk Fire Department"
+  },
+  {
+    "lat": 42.227222,
+    "long": -89.10849,
+    "desc": "Blackhawk Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 8 - Boone & Winnebago Counties </br> Type: POC </br> EMS: BLS </br> Dispatched by: Rockford Fire Alarm Office"
+  },
+  {
+    "lat": 40.554488,
+    "long": -90.865501,
+    "desc": "Blandinsville - Hire Fire Protection District"
+  },
+  {
+    "lat": 41.950703,
+    "long": -88.078574,
+    "desc": "Bloomingdale Fire Department"
+  },
+  {
+    "lat": 41.942267,
+    "long": -88.119715,
+    "desc": "Bloomingdale Fire Protection District - Station 1"
+  },
+  {
+    "lat": 41.950963,
+    "long": -88.078783,
+    "desc": "Bloomingdale Fire Protection District - Station 1 (HQ)"
+  },
+  {
+    "lat": 41.969395,
+    "long": -88.115718,
+    "desc": "Bloomingdale Fire Protection District Station 22"
+  },
+  {
+    "lat": 40.480808,
+    "long": -88.997804,
+    "desc": "Bloomington Fire Department - Station 1"
+  },
+  {
+    "lat": 40.453731,
+    "long": -88.96259,
+    "desc": "Bloomington Fire Department - Station 2"
+  },
+  {
+    "lat": 40.487977,
+    "long": -88.941409,
+    "desc": "Bloomington Fire Department - Station 3"
+  },
+  {
+    "lat": 40.460918,
+    "long": -89.006369,
+    "desc": "Bloomington Fire Department - Station 4"
+  },
+  {
+    "lat": 40.473349,
+    "long": -88.909077,
+    "desc": "Bloomington Fire Department - Station 6 (ARFF)"
+  },
+  {
+    "lat": 40.430224,
+    "long": -88.985782,
+    "desc": "Bloomington Township Fire Protection District"
+  },
+  {
+    "lat": 40.460181,
+    "long": -89.006392,
+    "desc": "Bloomington Township Fire Protection District Station 2"
+  },
+  {
+    "lat": 41.655632,
+    "long": -87.681874,
+    "desc": "Blue Island Fire Department"
+  },
+  {
+    "lat": 41.651925,
+    "long": -87.66981,
+    "desc": "Blue Island Fire Department Station 2"
+  },
+  {
+    "lat": 39.702106,
+    "long": -89.121078,
+    "desc": "Blue Mound Community Rural Fire Protection District"
+  },
+  {
+    "lat": 40.307084,
+    "long": -87.804347,
+    "desc": "Bluegrass Fire Protection District"
+  },
+  {
+    "lat": 41.699493,
+    "long": -88.051117,
+    "desc": "Bolingbrook Fire Department - Station 1"
+  },
+  {
+    "lat": 41.69059,
+    "long": -88.081551,
+    "desc": "Bolingbrook Fire Department - Station 2"
+  },
+  {
+    "lat": 41.7161,
+    "long": -88.055677,
+    "desc": "Bolingbrook Fire Department - Station 3"
+  },
+  {
+    "lat": 41.702942,
+    "long": -88.120787,
+    "desc": "Bolingbrook Fire Department - Station 4"
+  },
+  {
+    "lat": 41.667964,
+    "long": -88.14494,
+    "desc": "Bolingbrook Fire Department - Station 5"
+  },
+  {
+    "lat": 40.112951,
+    "long": -88.370093,
+    "desc": "Bondville Fire Rescue"
+  },
+  {
+    "lat": 38.447339,
+    "long": -87.996142,
+    "desc": "Bone Gap Rural Fire Protection District"
+  },
+  {
+    "lat": 42.398058,
+    "long": -88.741443,
+    "desc": "Boone County Fire Protection District 1 - Station 1   </br> Station: 1 of 1 </br> MABAS Division: 8 - Winnebago/Boone Co </br> EMS: Provided by OSF LifeLine </br> Dispatched by: Boone County Control"
+  },
+  {
+    "lat": 42.275696,
+    "long": -88.862992,
+    "desc": "Boone County Fire Protection District 2 - Station 1   </br> Station: 1 of 2 </br> MABAS Division: 8 - Winnebago/Boone Co </br> EMS: Provided by OSF LifeLine </br> Dispatched by: Boone County Control"
+  },
+  {
+    "lat": 42.253185,
+    "long": -88.75343,
+    "desc": "Boone County Fire Protection District 2 - Station 2   </br> Station: 2 of 2 </br> MABAS Division: 8 - Winnebago/Boone Co </br> EMS: Provided by OSF LifeLine </br> Dispatched by: Boone County Control"
+  },
+  {
+    "lat": 41.162213,
+    "long": -87.865604,
+    "desc": "Bourbonnais Fire Protection District"
+  },
+  {
+    "lat": 40.231895,
+    "long": -91.065331,
+    "desc": "Bowen Fire Station"
+  },
+  {
+    "lat": 41.224591,
+    "long": -88.261382,
+    "desc": "Braceville Fire Protection District"
+  },
+  {
+    "lat": 41.177167,
+    "long": -89.659991,
+    "desc": "Bradford Community Fire Protection District"
+  },
+  {
+    "lat": 41.141479,
+    "long": -87.865396,
+    "desc": "Bradley Fire Department"
+  },
+  {
+    "lat": 41.26417,
+    "long": -88.221513,
+    "desc": "Braidwood Fire Protection District - Station 1"
+  },
+  {
+    "lat": 38.607365,
+    "long": -89.534842,
+    "desc": "Breese Fire Department"
+  },
+  {
+    "lat": 38.70726,
+    "long": -87.761302,
+    "desc": "Bridgeport Fire Protection District Station 1"
+  },
+  {
+    "lat": 41.766875,
+    "long": -87.81853,
+    "desc": "Bridgeview Emergency Management Agency"
+  },
+  {
+    "lat": 41.754998,
+    "long": -87.805309,
+    "desc": "Bridgeview Fire Department Station 1"
+  },
+  {
+    "lat": 41.709575,
+    "long": -87.802103,
+    "desc": "Bridgeview Fire Department Station 2"
+  },
+  {
+    "lat": 39.038113,
+    "long": -90.143639,
+    "desc": "Brighton Betsy Ann Fire Protection District"
+  },
+  {
+    "lat": 40.790822,
+    "long": -89.752824,
+    "desc": "Brimfield Community Fire Protection District Station 2"
+  },
+  {
+    "lat": 40.838648,
+    "long": -89.882609,
+    "desc": "Brimfield Fire Station"
+  },
+  {
+    "lat": 41.631632,
+    "long": -88.44839,
+    "desc": "Bristol - Kendall Fire Department - Station 1 </br> Station: 1 of 3 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: MICU\\Staffed by PSI </br> Dispatched by: KenCom 911"
+  },
+  {
+    "lat": 41.669092,
+    "long": -88.433681,
+    "desc": "Bristol - Kendall Fire Department - Station 2 </br> Station: 2 of 3 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: MICU\\Staffed by PSI </br> Dispatched by: KenCom 912"
+  },
+  {
+    "lat": 41.704133,
+    "long": -88.436075,
+    "desc": "Bristol - Kendall Fire Department - Station 3 </br> Station: 3 of 3 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: MICU\\Staffed by PSI </br> Dispatched by: KenCom 913"
+  },
+  {
+    "lat": 41.860434,
+    "long": -87.863229,
+    "desc": "Broadview Fire Department"
+  },
+  {
+    "lat": 39.715567,
+    "long": -87.93153,
+    "desc": "Brocton Fire Station"
+  },
+  {
+    "lat": 41.812289,
+    "long": -87.846923,
+    "desc": "Brookfield Fire Station #1"
+  },
+  {
+    "lat": 41.826244,
+    "long": -87.853609,
+    "desc": "Brookfield Fire Station Number 2"
+  },
+  {
+    "lat": 41.826862,
+    "long": -87.853662,
+    "desc": "Brookfield Fire Station Number 2"
+  },
+  {
+    "lat": 38.656236,
+    "long": -90.166348,
+    "desc": "Brooklyn Fire Department"
+  },
+  {
+    "lat": 37.123396,
+    "long": -88.62842,
+    "desc": "Brookport Fire Department"
+  },
+  {
+    "lat": 39.988136,
+    "long": -90.776627,
+    "desc": "Brown County Fire Protection District"
+  },
+  {
+    "lat": 40.129326,
+    "long": -90.372084,
+    "desc": "Browning Fire Department"
+  },
+  {
+    "lat": 38.377542,
+    "long": -87.982504,
+    "desc": "Browns Volunteer Fire Department"
+  },
+  {
+    "lat": 38.991879,
+    "long": -88.95073,
+    "desc": "Brownstown Volunteer Fire Department"
+  },
+  {
+    "lat": 38.947566,
+    "long": -90.588929,
+    "desc": "Brussel?"
+  },
+  {
+    "lat": 38.946983,
+    "long": -90.588683,
+    "desc": "Brussel's Fire Station"
+  },
+  {
+    "lat": 40.389743,
+    "long": -90.002159,
+    "desc": "Buckheart County Fire Department"
+  },
+  {
+    "lat": 40.491814,
+    "long": -90.049382,
+    "desc": "Buckheart Township Fire Protection District Station 1"
+  },
+  {
+    "lat": 40.491829,
+    "long": -90.032429,
+    "desc": "Buckheart Township Fire Protection District Station 2"
+  },
+  {
+    "lat": 40.597155,
+    "long": -88.037492,
+    "desc": "Buckley Fire Protection District - Buckley Ambulance Service"
+  },
+  {
+    "lat": 37.981682,
+    "long": -89.015356,
+    "desc": "Buckner Volunteer Fire Department"
+  },
+  {
+    "lat": 41.326584,
+    "long": -89.679726,
+    "desc": "Buda Fire Protection District"
+  },
+  {
+    "lat": 39.851502,
+    "long": -89.408005,
+    "desc": "Buffalo Fire Protection District"
+  },
+  {
+    "lat": 42.19681,
+    "long": -87.961216,
+    "desc": "Buffalo Grove Fire Department"
+  },
+  {
+    "lat": 42.138333,
+    "long": -87.96949,
+    "desc": "Buffalo Grove Fire Department - Station 25"
+  },
+  {
+    "lat": 42.138224,
+    "long": -87.969341,
+    "desc": "Buffalo Grove Fire Department Station 25"
+  },
+  {
+    "lat": 42.171219,
+    "long": -87.955847,
+    "desc": "Buffalo Grove Fire Department Station 26"
+  },
+  {
+    "lat": 41.335898,
+    "long": -90.854935,
+    "desc": "Buffalo Prairie Community Fire Department"
+  },
+  {
+    "lat": 37.471295,
+    "long": -88.976683,
+    "desc": "Buncombe Volunteer Fire Department"
+  },
+  {
+    "lat": 39.043184,
+    "long": -89.952351,
+    "desc": "Bunker Hill Fire Dist. #1"
+  },
+  {
+    "lat": 41.748687,
+    "long": -87.783518,
+    "desc": "Burbank Fire Department"
+  },
+  {
+    "lat": 41.73794,
+    "long": -87.768115,
+    "desc": "Burbank Fire Department Station 2"
+  },
+  {
+    "lat": 41.288841,
+    "long": -89.366936,
+    "desc": "Bureau Fire Protection District"
+  },
+  {
+    "lat": 42.051376,
+    "long": -88.54929,
+    "desc": "Burlington Community Fire Protection District </br> Station: 1 of 1 </br> Type: POC </br> MABAS Division: 13 - Kane South </br> EMS: Dependent on Staffing </br> Dispatched by: KaneComm"
+  },
+  {
+    "lat": 41.638806,
+    "long": -87.560257,
+    "desc": "Burnham Fire Department"
+  },
+  {
+    "lat": 37.842576,
+    "long": -89.133706,
+    "desc": "Bush Volunteer Fire Department"
+  },
+  {
+    "lat": 40.552622,
+    "long": -90.511076,
+    "desc": "Bushnell Fire Department"
+  },
+  {
+    "lat": 40.55503,
+    "long": -90.506838,
+    "desc": "Bushnell Fire Protection District Station 2"
+  },
+  {
+    "lat": 42.126242,
+    "long": -89.259626,
+    "desc": "Byron Fire Protection District </br> Station: 1 of 1</br> Type: Career </br> MABAS Division: 18 - Ogle County </br> EMS: ALS </br> Dispatched by: Ogle County Sheriff's Department"
+  },
+  {
+    "lat": 40.995909,
+    "long": -88.206412,
+    "desc": "Cabery Fire Protection District"
+  },
+  {
+    "lat": 38.570332,
+    "long": -90.191594,
+    "desc": "Cahokia Fire Protection District House 1"
+  },
+  {
+    "lat": 38.564087,
+    "long": -90.167073,
+    "desc": "Cahokia Volunteer Fire Department"
+  },
+  {
+    "lat": 37.002735,
+    "long": -89.173158,
+    "desc": "Cairo Fire Department"
+  },
+  {
+    "lat": 37.012829,
+    "long": -89.180962,
+    "desc": "Cairo Fire Department"
+  },
+  {
+    "lat": 41.615887,
+    "long": -87.530159,
+    "desc": "Calumet City Fire Department - Station 1"
+  },
+  {
+    "lat": 41.615851,
+    "long": -87.556369,
+    "desc": "Calumet City Fire Department - Station 2"
+  },
+  {
+    "lat": 41.667029,
+    "long": -87.660481,
+    "desc": "Calumet Park Fire Department"
+  },
+  {
+    "lat": 39.799639,
+    "long": -88.16685,
+    "desc": "Camargo Countryside Fire Protection District Camargo"
+  },
+  {
+    "lat": 39.79923,
+    "long": -88.076867,
+    "desc": "Camargo Countryside Fire Protection District Murdock"
+  },
+  {
+    "lat": 37.783545,
+    "long": -89.118849,
+    "desc": "Cambria Fire Department"
+  },
+  {
+    "lat": 41.298569,
+    "long": -90.184036,
+    "desc": "Cambridge Fire Protection District"
+  },
+  {
+    "lat": 40.888999,
+    "long": -90.514705,
+    "desc": "Cameron Fire Station"
+  },
+  {
+    "lat": 38.550691,
+    "long": -90.119514,
+    "desc": "Camp Jackson Fire Protection District"
+  },
+  {
+    "lat": 40.040841,
+    "long": -91.070169,
+    "desc": "Camp Point Fire Protection District"
+  },
+  {
+    "lat": 37.929214,
+    "long": -89.550178,
+    "desc": "Campbell Hill Rural Fire District 162"
+  },
+  {
+    "lat": 40.559901,
+    "long": -90.033333,
+    "desc": "Canton Fire Department"
+  },
+  {
+    "lat": 37.730064,
+    "long": -89.236763,
+    "desc": "Carbondale Fire Department - Station 2"
+  },
+  {
+    "lat": 37.724136,
+    "long": -89.228189,
+    "desc": "Carbondale Fire Station #1"
+  },
+  {
+    "lat": 37.722484,
+    "long": -89.208352,
+    "desc": "Carbondale Fire Station #2"
+  },
+  {
+    "lat": 37.711167,
+    "long": -89.198146,
+    "desc": "Carbondale Township Fire Department"
+  },
+  {
+    "lat": 39.277412,
+    "long": -89.884964,
+    "desc": "Carlinville Fire Department"
+  },
+  {
+    "lat": 40.583893,
+    "long": -89.136913,
+    "desc": "Carlock Fire Protection District"
+  },
+  {
+    "lat": 38.610504,
+    "long": -89.363113,
+    "desc": "Carlyle Fire Protection District"
+  },
+  {
+    "lat": 38.091778,
+    "long": -88.165024,
+    "desc": "Carmi Fire Department"
+  },
+  {
+    "lat": 41.930414,
+    "long": -88.156199,
+    "desc": "Carol Stream Fire Protection District - Station 27"
+  },
+  {
+    "lat": 41.910914,
+    "long": -88.139231,
+    "desc": "Carol Stream Fire Protection District - Station 28"
+  },
+  {
+    "lat": 41.896841,
+    "long": -88.101621,
+    "desc": "Carol Stream Fire Protection District - Station 29"
+  },
+  {
+    "lat": 42.108493,
+    "long": -88.28484,
+    "desc": "Carpentersville Fire Department - Station 91"
+  },
+  {
+    "lat": 42.121126,
+    "long": -88.264058,
+    "desc": "Carpentersville Fire Department - Station 92"
+  },
+  {
+    "lat": 42.13151,
+    "long": -88.32015,
+    "desc": "Carpentersville Fire Department - Station 93"
+  },
+  {
+    "lat": 42.131487,
+    "long": -88.320405,
+    "desc": "Carpentersville Fire Station #3"
+  },
+  {
+    "lat": 37.684069,
+    "long": -88.63498,
+    "desc": "Carrier Mills Fire Department"
+  },
+  {
+    "lat": 40.130937,
+    "long": -88.183598,
+    "desc": "Carroll Fire Protection District"
+  },
+  {
+    "lat": 39.300724,
+    "long": -90.410454,
+    "desc": "Carrollton Fire Protection District"
+  },
+  {
+    "lat": 37.763342,
+    "long": -89.076895,
+    "desc": "Carterville Fire Department"
+  },
+  {
+    "lat": 40.411503,
+    "long": -91.134872,
+    "desc": "Carthage Fire Department"
+  },
+  {
+    "lat": 42.212872,
+    "long": -88.252426,
+    "desc": "Cary Fire Protection District Station 1"
+  },
+  {
+    "lat": 42.234127,
+    "long": -88.237167,
+    "desc": "Cary Fire Protection District Station 2"
+  },
+  {
+    "lat": 39.300196,
+    "long": -87.992123,
+    "desc": "Casey Fire Department"
+  },
+  {
+    "lat": 38.636198,
+    "long": -90.026787,
+    "desc": "Caseyville Fire Protection District"
+  },
+  {
+    "lat": 40.854887,
+    "long": -89.570299,
+    "desc": "Caterpillar - Mossville Fire Station"
+  },
+  {
+    "lat": 40.618183,
+    "long": -89.462061,
+    "desc": "Caterpillar Corporate Security Services Fire Station"
+  },
+  {
+    "lat": 41.489474,
+    "long": -88.134437,
+    "desc": "Caterpillar Fire Department"
+  },
+  {
+    "lat": 40.676612,
+    "long": -89.59535,
+    "desc": "Caterpillar Tractor Company Y 131 Fire Station"
+  },
+  {
+    "lat": 40.064488,
+    "long": -87.702316,
+    "desc": "Catlin Fire Protection District"
+  },
+  {
+    "lat": 37.915258,
+    "long": -88.761864,
+    "desc": "Cave Eastern Fire Protection District Station 1"
+  },
+  {
+    "lat": 37.986463,
+    "long": -88.747414,
+    "desc": "Cave Eastern Fire Protection District Station 2"
+  },
+  {
+    "lat": 37.468122,
+    "long": -88.166473,
+    "desc": "Cave In Rock Fire Department"
+  },
+  {
+    "lat": 41.264,
+    "long": -89.124937,
+    "desc": "Cedar Point Fire Department"
+  },
+  {
+    "lat": 42.377728,
+    "long": -89.636267,
+    "desc": "Cedarville Fire Department"
+  },
+  {
+    "lat": 40.032381,
+    "long": -91.161058,
+    "desc": "Central Adams County Fire Protection District"
+  },
+  {
+    "lat": 41.802059,
+    "long": -87.75849,
+    "desc": "Central Stickney Fire Department"
+  },
+  {
+    "lat": 40.864652,
+    "long": -90.746242,
+    "desc": "Central Warren Fire Protection District"
+  },
+  {
+    "lat": 38.530509,
+    "long": -89.154188,
+    "desc": "Centralia City Fire Department"
+  },
+  {
+    "lat": 38.525589,
+    "long": -89.133698,
+    "desc": "Centralia Fire Department Station 1"
+  },
+  {
+    "lat": 38.518089,
+    "long": -89.135183,
+    "desc": "Centralia Fire Protection District"
+  },
+  {
+    "lat": 39.889997,
+    "long": -88.734609,
+    "desc": "Cerro Gordo Fire Protection District"
+  },
+  {
+    "lat": 42.013802,
+    "long": -89.889815,
+    "desc": "Chadwick Fire Protection District"
+  },
+  {
+    "lat": 40.114253,
+    "long": -88.246142,
+    "desc": "Champaign Fire Department"
+  },
+  {
+    "lat": 40.0925,
+    "long": -88.257973,
+    "desc": "Champaign Fire Department - Station 2"
+  },
+  {
+    "lat": 40.127399,
+    "long": -88.253472,
+    "desc": "Champaign Fire Department - Station 3"
+  },
+  {
+    "lat": 40.109016,
+    "long": -88.285196,
+    "desc": "Champaign Fire Department - Station 4"
+  },
+  {
+    "lat": 40.135414,
+    "long": -88.276514,
+    "desc": "Champaign Fire Department - Station 5"
+  },
+  {
+    "lat": 40.083662,
+    "long": -88.310605,
+    "desc": "Champaign Fire Department - Station 6"
+  },
+  {
+    "lat": 40.049171,
+    "long": -90.150932,
+    "desc": "Chandlerville Volunteer Fire Department"
+  },
+  {
+    "lat": 41.429704,
+    "long": -88.223155,
+    "desc": "Channahon Fire Protection District Station 1"
+  },
+  {
+    "lat": 41.471054,
+    "long": -88.180542,
+    "desc": "Channahon Fire Protection District Station 2"
+  },
+  {
+    "lat": 39.76549,
+    "long": -90.400537,
+    "desc": "Chapin Volunteer Fire Department"
+  },
+  {
+    "lat": 39.496186,
+    "long": -88.172252,
+    "desc": "Charleston Fire Chief"
+  },
+  {
+    "lat": 39.483608,
+    "long": -88.182571,
+    "desc": "Charleston Fire Department Station 2"
+  },
+  {
+    "lat": 39.672817,
+    "long": -89.705172,
+    "desc": "Chatham Fire Department"
+  },
+  {
+    "lat": 40.752032,
+    "long": -88.303776,
+    "desc": "Chatsworth Fire Protection District"
+  },
+  {
+    "lat": 40.936138,
+    "long": -87.938395,
+    "desc": "Chebanse Township Rural Fire Protection District"
+  },
+  {
+    "lat": 40.741173,
+    "long": -88.709986,
+    "desc": "Chenoa Fire Protection District"
+  },
+  {
+    "lat": 41.426382,
+    "long": -89.212587,
+    "desc": "Cherry Fire Department"
+  },
+  {
+    "lat": 42.235672,
+    "long": -88.952866,
+    "desc": "Cherry Valley Fire Protection District Station 1 </br> Station: 1 of 2 </br> Type: Career </br> MABAS Division: 8 - Winnebago/Boone County </br> EMS: ALS </br> Dispatched by: Rockford Fire Alarm"
+  },
+  {
+    "lat": 42.194557,
+    "long": -89.020226,
+    "desc": "Cherry Valley Fire Protection District Station 2 </br> Station: 2 of 2 </br> Type: Career </br> MABAS Division: 8 - Winnebago/Boone County </br> EMS: ALS </br> Dispatched by: Rockford Fire Alarm"
+  },
+  {
+    "lat": 37.914211,
+    "long": -89.82,
+    "desc": "Chester Fire Department"
+  },
+  {
+    "lat": 40.053131,
+    "long": -89.184335,
+    "desc": "Chestnut Volunteer Fire Department Station 2"
   },
   {
     "lat": 41.498667,
@@ -4192,7 +4212,7 @@
   {
     "lat": 41.69347,
     "long": -89.086614,
-    "desc": "Compton Fire Department"
+    "desc": "Compton Fire Protection District </br> Station: 1 of 1 </br> Type: POC </br> MABAS Division: 38 - Lee County </br> EMS: Provided by Paw Paw FPD </br> Dispatched by: Lee County Sheriff's Department"
   },
   {
     "lat": 40.826747,
@@ -4242,7 +4262,7 @@
   {
     "lat": 41.921992,
     "long": -88.690061,
-    "desc": "Cortland Fire Department"
+    "desc": "Cortland Fire Department </br> Station: 1 of 1 </br> Type: POC\\EMS: Career </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS </br> Dispatched by: DeKalb County Sheriff's Department"
   },
   {
     "lat": 38.902356,
@@ -4637,22 +4657,22 @@
   {
     "lat": 41.84166,
     "long": -89.483046,
-    "desc": "Dixon City Fire Department  </br> Station: 1 of 3 </br> Type: Career </br> MABAS Division: 38 - Lee County </br> EMS: ALS </br> Dispatched by: Lee County Sheriffs Department"
+    "desc": "Dixon City Fire Department  </br> Station: 1 of 3 </br> Type: Career </br> MABAS Division: 38 - Lee County </br> EMS: ALS </br> Dispatched by: Lee County Sheriff's Department"
   },
   {
     "lat": 41.847427,
     "long": -89.499085,
-    "desc": "Dixon Rural Fire Protection District - Station 1 (Dixon) </br> Station: 1 of 3 </br> Type: POC</br> MABAS Division: 38 - Lee County </br> EMS: ALS </br> Dispatched by: Lee County Sheriffs Department"
+    "desc": "Dixon Rural Fire Protection District - Station 1 (Dixon) </br> Station: 1 of 3 </br> Type: POC</br> MABAS Division: 38 - Lee County </br> EMS: ALS </br> Dispatched by: Lee County Sheriff's Department"
   },
   {
     "lat": 41.832588,
     "long": -89.388356,
-    "desc": "Dixon Rural Fire Protection District - Station 2 (Nachusa) </br> Station: 1 of 3 </br> Type: POC </br> MABAS Division: 38 - Lee County </br> EMS: ALS </br> Dispatched by: Lee County Sheriffs Department"
+    "desc": "Dixon Rural Fire Protection District - Station 2 (Nachusa) </br> Station: 1 of 3 </br> Type: POC </br> MABAS Division: 38 - Lee County </br> EMS: ALS </br> Dispatched by: Lee County Sheriff's Department"
   },
   {
     "lat": 41.8992,
     "long": -89.414436,
-    "desc": "Dixon Rural Fire Protection District - Station 3 (Grand Detour) </br> Station: 1 of 3 </br> Type: POC </br> MABAS Division: 38 - Lee County </br> EMS: ALS </br> Dispatched by: Lee County Sheriffs Department"
+    "desc": "Dixon Rural Fire Protection District - Station 3 (Grand Detour) </br> Station: 1 of 3 </br> Type: POC </br> MABAS Division: 38 - Lee County </br> EMS: ALS </br> Dispatched by: Lee County Sheriff's Department"
   },
   {
     "lat": 41.623399,
@@ -5372,7 +5392,7 @@
   {
     "lat": 42.126437,
     "long": -89.577205,
-    "desc": "Forreston Fire Department"
+    "desc": "Forreston Fire Department </br> Station: 1 of 1 </br> Type: POC </br> MABAS Division: 18 - Ogle County </br> EMS: ALS </br> Dispatched by: Ogle County Sheriff's Dispatch"
   },
   {
     "lat": 42.209464,
@@ -5482,7 +5502,7 @@
   {
     "lat": 41.841228,
     "long": -89.298643,
-    "desc": "Franklin Grove Fire Department </br> Station: 1 of 1 </br> Type: POC </br> MABAS Division: 38 - Lee County </br> EMS: BLS </br> Dispatched by: KaneComm"
+    "desc": "Franklin Grove Fire Department </br> Station: 1 of 1 </br> Type: POC </br> MABAS Division: 38 - Lee County </br> EMS: BLS </br> Dispatched by: Lee County Sheriff's Department"
   },
   {
     "lat": 41.94361,
@@ -5605,29 +5625,24 @@
     "desc": "Geneseo Fire Department"
   },
   {
-    "lat": 41.87547,
-    "long": -88.343831,
-    "desc": "Geneva Fire Department"
-  },
-  {
     "lat": 41.888074,
     "long": -88.290003,
-    "desc": "Geneva Fire Department"
+    "desc": "Geneva Fire Department </br> Station: 1 of 2 </br> Type: Career </br> MABAS Division: 13 - Kane South </br> EMS: ALS </br> Dispatched by: Tri-Com Central Dispatch"
+  },
+  {
+    "lat": 41.87547,
+    "long": -88.343831,
+    "desc": "Geneva Fire Department </br> Station: 2 of 2 </br> Type: Career </br> MABAS Division: 13 - Kane South </br> EMS: ALS </br> Dispatched by: Tri-Com Central Dispatch"
   },
   {
     "lat": 42.098926,
     "long": -88.688162,
-    "desc": "Genoa - Kingston Fire Protection Dist. Station 1"
+    "desc": "Genoa - Kingston Fire Protection District - Station 1 </br> Station: 1 of 2 </br> Type: POC </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS </br> Dispatched by: DeKalb County Sheriff's Department"
   },
   {
     "lat": 42.099848,
     "long": -88.758369,
-    "desc": "Genoa - Kingston Fire Protection Dist. Station 2"
-  },
-  {
-    "lat": 42.09823,
-    "long": -88.691737,
-    "desc": "Genoa - Kingston Fire Protection District Station 2"
+    "desc": "Genoa - Kingston Fire Protection District - Station 2 </br> Station: 2 of 2 </br> Type: POC </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS </br> Dispatched by: DeKalb County Sheriff's Department"
   },
   {
     "lat": 39.973858,
@@ -6027,7 +6042,7 @@
   {
     "lat": 41.722733,
     "long": -89.553439,
-    "desc": "Harmon Fire Department"
+    "desc": "Harmon Fire Department </br> Station: 1 of 1 </br> Type: Volunteer </br> MABAS Division: 38 - Lee County </br> EMS: Provided by nearest agency </br> Dispatched by: Lee County Sheriff's Department"
   },
   {
     "lat": 37.736669,
@@ -6202,7 +6217,7 @@
   {
     "lat": 41.779081,
     "long": -88.641779,
-    "desc": "Hinckley Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS </br> Dispatched by: DeKalb County Sheriffs Department"
+    "desc": "Hinckley Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS </br> Dispatched by: DeKalb County Sheriff's Department"
   },
   {
     "lat": 39.683874,
@@ -6722,7 +6737,7 @@
   {
     "lat": 42.088213,
     "long": -88.870745,
-    "desc": "Kirkland Fire Department </br> Station: 1 of 1 </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS\\Staffing Dependent </br> Dispatched by: DeKalb County Sheriffs Department"
+    "desc": "Kirkland Fire Department </br> Station: 1 of 1 </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS\\Staffing Dependent </br> Dispatched by: DeKalb County Sheriff's Department"
   },
   {
     "lat": 42.280596,
@@ -6922,7 +6937,7 @@
   {
     "lat": 42.125127,
     "long": -89.406294,
-    "desc": "Leaf River Fire Protection District"
+    "desc": "Leaf River Fire Protection District </br> Station: 1 of 1 </br> Type: Volunteer </br> MABAS Division: 18 - Ogle County </br> EMS: BLS </br> Dispatched by: Ogle County Sheriff's Department"
   },
   {
     "lat": 38.612947,
@@ -6930,14 +6945,9 @@
     "desc": "Lebanon - Emerald Mound Volunteer Fire Department"
   },
   {
-    "lat": 41.790488,
-    "long": -88.940904,
-    "desc": "<strong> <span style='color: #800080;'>Lee Volunteer Fire Protection District</span> </strong> </br> Station: 1 of 1 </br> MABAS Division: 6 - DeKalb County </br> EMS: BLS FR\\\\Provided by Shabbona FD </br> Dispatched by: DeKalb County Sheriffs Department"
-  },
-  {
     "lat": 41.61445,
     "long": -88.797116,
-    "desc": "Leland Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 25 - LaSalle County </br> EMS: BLS </br> Dispatched by: DeKalb County Sheriffs Department"
+    "desc": "Leland Fire Protection District </br> Station: 1 of 1 </br> Type: POC </br> MABAS Division: ? </br> EMS: BLS </br> Dispatched by: DeKalb County Sheriff's Department"
   },
   {
     "lat": 41.672096,
@@ -7102,12 +7112,12 @@
   {
     "lat": 41.479953,
     "long": -88.482419,
-    "desc": "Lisbon - Seward Fire Protection District - Company 1 (Lisbon) </br> Station: 1 of 2 </br> MABAS Division: 14 - Kendall County </br> Type: Voulenteer </br> EMS: BLS\\Provided by nearest ambulance to scene </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
+    "desc": "Lisbon - Seward Fire Protection District - Company 1 (Lisbon) </br> Station: 1 of 2 </br> MABAS Division: 14 - Kendall County </br> Type: Volunteer </br> EMS: BLS\\Provided by nearest ambulance to scene </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
   },
   {
     "lat": 41.53374,
     "long": -88.374311,
-    "desc": "Lisbon - Seward Fire Protection District - Company 2 (Plattville) </br> Station: 2 of 2 </br> MABAS Division: 14 - Kendall County </br> Type: Voulenteer </br> EMS: BLS\\Provided by nearest ambulance to scene </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
+    "desc": "Lisbon - Seward Fire Protection District - Company 2 (Plattville) </br> Station: 2 of 2 </br> MABAS Division: 14 - Kendall County </br> Type: Volunteer </br> EMS: BLS\\Provided by nearest ambulance to scene </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
   },
   {
     "lat": 41.799538,
@@ -7317,12 +7327,12 @@
   {
     "lat": 42.100765,
     "long": -89.096053,
-    "desc": "Lynn Scott Rock Fire Protection District - Davis Junction Station"
+    "desc": "Lynn Scott Rock Fire Protection District - Davis Junction Station </br> Station: 2 of 2</br> Type: Volunteer </br> MABAS Division: 18 - Ogle County </br> EMS: BLS </br> Dispatched by: Ogle County Sheriff's Department"
   },
   {
     "lat": 42.058481,
     "long": -89.037236,
-    "desc": "Lynn Scott Rock Fire Protection District - Lindenwood Station"
+    "desc": "Lynn Scott Rock Fire Protection District - Lindenwood Station </br> Station: 1 of 2</br> Type: Volunteer </br> MABAS Division: 18 - Ogle County </br> EMS: BLS </br> Dispatched by: Ogle County Sheriff's Department"
   },
   {
     "lat": 41.5152,
@@ -7332,7 +7342,7 @@
   {
     "lat": 41.414149,
     "long": -88.329027,
-    "desc": "Lyondell - Basell Fire Department"
+    "desc": "Lyondellbasell Fire Department"
   },
   {
     "lat": 41.81754,
@@ -7387,7 +7397,7 @@
   {
     "lat": 41.931219,
     "long": -88.860814,
-    "desc": "Malta Fire Protection District"
+    "desc": "Malta Fire Protection District </br> Station: 1 of 1 </br> Type: Volunteer/EMS: POC </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS </br> Dispatched by: DeKalb County Sheriff's Department"
   },
   {
     "lat": 39.541065,
@@ -7422,7 +7432,7 @@
   {
     "lat": 41.906006,
     "long": -88.60214,
-    "desc": "Maple Park and Countryside Fire Protection District"
+    "desc": "Maple Park and Countryside Fire Protection District </br> Station: 1 of 1 </br> Type: POC </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS </br> Dispatched by: KaneComm"
   },
   {
     "lat": 40.79762,
@@ -7662,12 +7672,17 @@
   {
     "lat": 41.466618,
     "long": -89.080322,
-    "desc": "Mendota - Troy Grove Rural Fire Protection District"
+    "desc": "Mendota - Troy Grove Rural Fire Protection District </br> Station: 1 of 1 </br> Type: Volunteer</br> MABAS Division: 25 - La Salle County </br> EMS: Provided by Mendota FD</br> Dispatched by: ValCom911"
   },
   {
     "lat": 41.547119,
     "long": -89.118866,
-    "desc": "Mendota Fire Department Station 1"
+    "desc": "Mendota Fire Department Station 1 </br> Station: 1 of 2 </br> Type: Career </br> MABAS Division: 25 - La Salle County </br> EMS: ALS </br> Dispatched by: ValCom 911"
+  },
+  {
+    "lat": 41.554125,
+    "long": -89.112735,
+    "desc": "Mendota Fire Department Station 1 </br> Station: 2 of 2 </br> Type: Career </br> MABAS Division: 25 - La Salle County </br> EMS: ALS </br> Dispatched by: ValCom 911"
   },
   {
     "lat": 42.488853,
@@ -7860,14 +7875,14 @@
     "desc": "Monmouth Fire Department Station 2"
   },
   {
+    "lat": 42.100367,
+    "long": -89.002882,
+    "desc": "Monroe Center Fire Protection District </br> Station: 1 of 1</br> Type: Volunteer </br> MABAS Division: 18 - Ogle County </br> EMS: BLS </br> Dispatched by: Ogle County Sheriff's Department"
+  },
+  {
     "lat": 38.3356,
     "long": -90.1474,
     "desc": "Monroe County Fire Department"
-  },
-  {
-    "lat": 42.100367,
-    "long": -89.002882,
-    "desc": "Monroe Township Fire Protection District"
   },
   {
     "lat": 41.729023,
@@ -7960,6 +7975,11 @@
     "desc": "Mount Hope - Funks Grove Fire Protection District"
   },
   {
+    "lat": 42.046617,
+    "long": -89.432165,
+    "desc": "Mount Morris Fire Protection District </br> Station: 1 of 1</br> Type: POC </br> MABAS Division: 18 - Ogle County </br> EMS: ALS </br> Dispatched by: Ogle County Sheriff's Department"
+  },
+  {
     "lat": 39.072686,
     "long": -89.737988,
     "desc": "Mount Olive Fire Protection District"
@@ -8025,11 +8045,6 @@
     "desc": "Moweaqua Community Fire Protection District"
   },
   {
-    "lat": 42.046617,
-    "long": -89.432165,
-    "desc": "Mt. Morris Fire Protection District"
-  },
-  {
     "lat": 40.011388,
     "long": -89.278138,
     "desc": "Mt. Pulaski Fire Department"
@@ -8082,52 +8097,52 @@
   {
     "lat": 41.772751,
     "long": -88.134023,
-    "desc": "Naperville Fire Department Station #1"
+    "desc": "Naperville Fire Department - Station 1 </br> Station: 1 of 10 </br> Type: Career </br> MABAS Division: 16 - DuPage South </br> EMS: ALS </br> Dispatched by: Naperville Central Dispatch (NPD)"
   },
   {
     "lat": 41.71015,
     "long": -88.210273,
-    "desc": "Naperville Fire Department Station #10"
+    "desc": "Naperville Fire Department - Station 10 </br> Station: 10 of 10 </br> Type: Career </br> MABAS Division: 16 - DuPage South </br> EMS: ALS </br> Dispatched by: Naperville Central Dispatch (NPD)"
   },
   {
     "lat": 41.740338,
     "long": -88.117878,
-    "desc": "Naperville Fire Department Station #2"
+    "desc": "Naperville Fire Department - Station 2 </br> Station: 2 of 10 </br> Type: Career </br> MABAS Division: 16 - DuPage South </br> EMS: ALS </br> Dispatched by: Naperville Central Dispatch (NPD)"
   },
   {
     "lat": 41.802709,
     "long": -88.142777,
-    "desc": "Naperville Fire Department Station #3"
+    "desc": "Naperville Fire Department - Station 3 </br> Station: 3 of 10 </br> Type: Career </br> MABAS Division: 16 - DuPage South </br> EMS: ALS </br> Dispatched by: Naperville Central Dispatch (NPD)"
   },
   {
     "lat": 41.793153,
     "long": -88.204183,
-    "desc": "Naperville Fire Department Station #4 & Training Facility"
+    "desc": "Naperville Fire Department - Station 4 </br> Station: 4 of 10 </br> Type: Career </br> MABAS Division: 16 - DuPage South </br> EMS: ALS </br> Dispatched by: Naperville Central Dispatch (NPD)"
   },
   {
     "lat": 41.726692,
     "long": -88.167674,
-    "desc": "Naperville Fire Department Station #5"
+    "desc": "Naperville Fire Department - Station 5 </br> Station: 5 of 10 </br> Type: Career </br> MABAS Division: 16 - DuPage South </br> EMS: ALS </br> Dispatched by: Naperville Central Dispatch (NPD)"
   },
   {
     "lat": 41.695238,
     "long": -88.200624,
-    "desc": "Naperville Fire Department Station #6"
+    "desc": "Naperville Fire Department - Station 6 </br> Station: 6 of 10 </br> Type: Career </br> MABAS Division: 16 - DuPage South </br> EMS: ALS </br> Dispatched by: Naperville Central Dispatch (NPD)"
   },
   {
     "lat": 41.764348,
     "long": -88.178284,
-    "desc": "Naperville Fire Department Station #7"
+    "desc": "Naperville Fire Department - Station 7 </br> Station: 7 of 10 </br> Type: Career </br> MABAS Division: 16 - DuPage South </br> EMS: ALS </br> Dispatched by: Naperville Central Dispatch (NPD)"
   },
   {
     "lat": 41.747355,
     "long": -88.147636,
-    "desc": "Naperville Fire Department Station #8"
+    "desc": "Naperville Fire Department - Station 8 </br> Station: 8 of 10 </br> Type: Career </br> MABAS Division: 16 - DuPage South </br> EMS: ALS </br> Dispatched by: Naperville Central Dispatch (NPD)"
   },
   {
     "lat": 41.78225,
     "long": -88.171892,
-    "desc": "Naperville Fire Department Station #9"
+    "desc": "Naperville Fire Department - Station 9 </br> Station: 9 of 10 </br> Type: Career </br> MABAS Division: 16 - DuPage South </br> EMS: ALS </br> Dispatched by: Naperville Central Dispatch (NPD)"
   },
   {
     "lat": 41.334241,
@@ -8227,7 +8242,7 @@
   {
     "lat": 42.183037,
     "long": -89.073586,
-    "desc": "New Milford Fire Station"
+    "desc": "New Milford Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 8 - Boone & Winnebago Counties </br> Type: POC </br> EMS: BLS </br> Dispatched by: Rockford Fire Alarm Office"
   },
   {
     "lat": 40.420156,
@@ -8242,7 +8257,7 @@
   {
     "lat": 41.537476,
     "long": -88.582014,
-    "desc": "Newark Fire Department </br> Station: 1 of 1 </br> MABAS Division: 14 - Kendall County </br> Type: Voulenteer POC </br> EMS: Staffing Dependent\\BLS Upgradeable </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
+    "desc": "Newark Fire Department </br> Station: 1 of 1 </br> MABAS Division: 14 - Kendall County </br> Type: POC </br> EMS: Staffing Dependent\\BLS Upgradeable </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
   },
   {
     "lat": 39.797719,
@@ -8322,12 +8337,12 @@
   {
     "lat": 41.806822,
     "long": -88.325836,
-    "desc": "North Aurora Fire Department - Station 1"
+    "desc": "North Aurora Fire Department - Station 1 </br> Station: 1 of 2 </br> MABAS Division: 13 - Kane South </br> Type: Career </br> EMS: ALS </br> Dispatched by: Tri-Com Central Dispatch"
   },
   {
     "lat": 41.810224,
     "long": -88.377359,
-    "desc": "North Aurora Fire Department - Station 2"
+    "desc": "North Aurora Fire Department - Station 2 </br> Station: 2 of 2 </br> MABAS Division: 13 - Kane South </br> Type: Career </br> EMS: ALS </br> Dispatched by: Tri-Com Central Dispatch"
   },
   {
     "lat": 42.369463,
@@ -8470,14 +8485,14 @@
     "desc": "Northwest Fire Department"
   },
   {
-    "lat": 42.354117,
-    "long": -89.077141,
-    "desc": "Northwest Fire Protection District"
-  },
-  {
     "lat": 42.309052,
     "long": -89.116509,
-    "desc": "Northwest Fire Station"
+    "desc": "Northwest Fire Protection District - Station 1 </br> Station: 1 of 2 </br> MABAS Division: 8 - Winnebago/Boone County </br> Type: POC </br> EMS: NW Rescue (ALS) </br> Dispatched by: Roockford Fire Alarm Office"
+  },
+  {
+    "lat": 42.354117,
+    "long": -89.077141,
+    "desc": "Northwest Fire Protection District - Station 2 </br> Station: 2 of 2 </br> MABAS Division: 8 - Winnebago/Boone County </br> Type: POC </br> EMS: NW Rescue (ALS) </br> Dispatched by: Roockford Fire Alarm Office"
   },
   {
     "lat": 41.629377,
@@ -8637,22 +8652,22 @@
   {
     "lat": 41.931255,
     "long": -88.9645,
-    "desc": "Ogle - Lee Fire Protection District - Creston Station"
+    "desc": "Ogle - Lee Fire Protection District - Creston Station </br> Station: 1 of 4 </br> Type: POC </br> MABAS Division: 18 - Ogle County </br> EMS: Provided by Rochelle FD </br> Dispatched by: Rochelle PD & Ogle County Sheriff's Department"
   },
   {
     "lat": 41.941496,
     "long": -89.122819,
-    "desc": "Ogle - Lee Fire Protection District - Flagg Center"
+    "desc": "Ogle - Lee Fire Protection District - Flagg Center Station </br> Station: 3 of 4 </br> Type: POC </br> MABAS Division: 18 - Ogle County </br> EMS: Provided by Rochelle FD </br> Dispatched by: Rochelle PD & Ogle County Sheriff's Department"
   },
   {
     "lat": 41.953291,
     "long": -89.065396,
-    "desc": "Ogle - Lee Fire Protection District - Hillcrest Station"
+    "desc": "Ogle - Lee Fire Protection District - Hillcrest Station </br> Station: 4 of 4 </br> Type: POC </br> MABAS Division: 18 - Ogle County </br> EMS: Provided by Rochelle FD </br> Dispatched by: Rochelle PD & Ogle County Sheriff's Department"
   },
   {
     "lat": 41.847744,
     "long": -89.019581,
-    "desc": "Ogle - Lee Fire Protection District - Steward Station"
+    "desc": "Ogle - Lee Fire Protection District - Steward Station </br> Station: 2 of 4 </br> Type: POC </br> MABAS Division: 18 - Ogle County </br> EMS: Provided by Rochelle FD </br> Dispatched by: Rochelle PD & Ogle County Sheriff's Department"
   },
   {
     "lat": 41.290922,
@@ -8747,7 +8762,7 @@
   {
     "lat": 42.014972,
     "long": -89.329334,
-    "desc": "Oregon Fire Department"
+    "desc": "Oregon Fire Department </br> Station: 1 of 2 </br> Type: Career/POC </br> MABAS Division: 18 - Ogle County </br> EMS: ALS </br> Dispatched by: Ogle County Sheriff's Department"
   },
   {
     "lat": 41.353965,
@@ -8798,26 +8813,6 @@
     "lat": 41.347076,
     "long": -90.282005,
     "desc": "Osco Community Fire Protection District"
-  },
-  {
-    "lat": 41.672243,
-    "long": -88.328684,
-    "desc": "<strong> <span style='color: #CE2029;'>Oswego Fire Protection District - Station 1</span> </strong>  </br> Station: 1 of 4 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: ALS </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
-  },
-  {
-    "lat": 41.716083,
-    "long": -88.3126,
-    "desc": "<strong> <span style='color: #CE2029;'>Oswego Fire Protection District - Station 2</span> </strong>  </br> Station: 2 of 4 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: ALS </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
-  },
-  {
-    "lat": 41.71241,
-    "long": -88.375179,
-    "desc": "<strong> <span style='color: #CE2029;'>Oswego Fire Protection District - Station 3</span> </strong>  </br> Station: 3 of 4 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: ALS </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
-  },
-  {
-    "lat": 41.650816,
-    "long": -88.278455,
-    "desc": "<strong> <span style='color: #CE2029;'>Oswego Fire Protection District - Station 4</span> </strong>  </br> Station: 4 of 4 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: ALS </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
   },
   {
     "lat": 41.349567,
@@ -8942,7 +8937,7 @@
   {
     "lat": 41.687748,
     "long": -88.979796,
-    "desc": "Paw Paw Community Fire Protection District"
+    "desc": "Paw Paw Community Fire Protection District </br> Station: 1 of 1 </br> Type: POC </br> MABAS Division: 38 - Lee County </br> EMS: BLS </br> Dispatched by: Lee County Sheriff's Department & DeKalb County Sheriff's Department"
   },
   {
     "lat": 39.592086,
@@ -9177,27 +9172,27 @@
   {
     "lat": 41.62168,
     "long": -88.212975,
-    "desc": "Plainfield Fire Protection District - Station 1"
+    "desc": "Plainfield Fire Protection District - Station 1 (19Sta1) </br> Station: 1 of 4 </br> Type: Career </br> MABAS Division: 15 - Will & Grundy </br> EMS: ALS </br> Dispatched by: Western Will County Communications Center"
   },
   {
     "lat": 41.637673,
     "long": -88.198156,
-    "desc": "Plainfield Fire Protection District - Station 2"
+    "desc": "Plainfield Fire Protection District - Station 2 (19Sta2) </br> Station: 2 of 4 </br> Type: Career </br> MABAS Division: 15 - Will & Grundy </br> EMS: ALS </br> Dispatched by: Western Will County Communications Center"
   },
   {
     "lat": 41.6653,
     "long": -88.22912,
-    "desc": "Plainfield Fire Protection District - Station 3"
+    "desc": "Plainfield Fire Protection District - Station 3 (19Sta3) </br> Station: 3 of 4 </br> Type: Career </br> MABAS Division: 15 - Will & Grundy </br> EMS: ALS </br> Dispatched by: Western Will County Communications Center"
   },
   {
     "lat": 41.592133,
     "long": -88.198847,
-    "desc": "Plainfield Fire Protection District - Station 4"
+    "desc": "Plainfield Fire Protection District - Station 4 (19Sta4) </br> Station: 4 of 4 </br> Type: Career </br> MABAS Division: 15 - Will & Grundy </br> EMS: ALS </br> Dispatched by: Western Will County Communications Center"
   },
   {
     "lat": 41.637988,
     "long": -88.197384,
-    "desc": "Plainfield Fire Protection District Headquarters"
+    "desc": "Plainfield Fire Protection District Headquarters (19HQ) </br> Station: HQ of 4 </br> Type: Career </br> MABAS Division: 15 - Will & Grundy </br> EMS: ALS </br> Dispatched by: Western Will County Communications Center"
   },
   {
     "lat": 39.444704,
@@ -9237,7 +9232,7 @@
   {
     "lat": 41.9848,
     "long": -89.577242,
-    "desc": "Polo Fire Protection District"
+    "desc": "Polo Fire Protection District </br> Station: 1 of 1</br> Type: POC </br> MABAS Division: 18 - Ogle County </br> EMS: ALS </br> Dispatched by: Ogle County Sheriff's Department"
   },
   {
     "lat": 40.881329,
@@ -9547,7 +9542,7 @@
   {
     "lat": 41.924047,
     "long": -89.06556,
-    "desc": "Rochelle Fire Department"
+    "desc": "Rochelle Fire Department </br> Station: 1 of 1 </br> Type: Career </br> MABAS Division: 18 - Ogle County </br> EMS: ALS </br> Dispatched by: Rochelle PD & Ogle County Sheriff's Department"
   },
   {
     "lat": 39.749751,
@@ -9797,7 +9792,17 @@
   {
     "lat": 41.914954,
     "long": -88.312695,
-    "desc": "Saint Charles Fire Department Station #1"
+    "desc": "Saint Charles Fire Department - Station 1 </br> Station: 1 of 3 </br> Type: Career </br> MABAS Division: 13 - Kane South </br> EMS: ALS </br> Dispatched by: TriCom Central Dispatch"
+  },
+  {
+    "lat": 41.917152,
+    "long": -88.278872,
+    "desc": "Saint Charles Fire Department - Station 2 </br> Station: 2 of 3 </br> Type: Career </br> MABAS Division: 13 - Kane South </br> EMS: ALS </br> Dispatched by: TriCom Central Dispatch"
+  },
+  {
+    "lat": 41.912604,
+    "long": -88.351614,
+    "desc": "Saint Charles Fire Department - Station 3 </br> Station: 3 of 3 </br> Type: Career </br> MABAS Division: 13 - Kane South </br> EMS: ALS </br> Dispatched by: TriCom Central Dispatch"
   },
   {
     "lat": 38.588032,
@@ -9867,7 +9872,7 @@
   {
     "lat": 41.645186,
     "long": -88.617606,
-    "desc": "Sandwich Community Fire Protection District"
+    "desc": "Sandwich Community Fire Protection District </br> Station: 1 of 1 </br> Type: FF: POC\\EMS: Career </br> MABAS Division: ? </br> EMS: ALS </br> Dispatched by: KenCom 911"
   },
   {
     "lat": 40.316903,
@@ -10017,22 +10022,22 @@
   {
     "lat": 41.514424,
     "long": -88.849249,
-    "desc": "Serena Fire Protection District - Harding Station </br> Station: 4 of 4 </br> MABAS Division: 25 - La Salle County </br> EMS: Provided by Sheridan </br> Dispatched by: La Salle County Sheriffs Department"
+    "desc": "Serena Fire Protection District - Harding Station </br> Station: 4 of 4 </br> MABAS Division: 25 - La Salle County </br> EMS: Provided by Sheridan </br> Dispatched by: La Salle County Sheriff's Department"
   },
   {
     "lat": 41.468753,
     "long": -88.670077,
-    "desc": "Serena Fire Protection District - Norway Station </br> Station: 2 of 4 </br> MABAS Division: 25 - La Salle County </br> EMS: Provided by Sheridan </br> Dispatched by: La Salle County Sheriffs Department"
+    "desc": "Serena Fire Protection District - Norway Station </br> Station: 2 of 4 </br> MABAS Division: 25 - La Salle County </br> EMS: Provided by Sheridan </br> Dispatched by: La Salle County Sheriff's Department"
   },
   {
     "lat": 41.484791,
     "long": -88.731154,
-    "desc": "Serena Fire Protection District - Serena Station (HQ) </br> Station: 1 of 4 </br> MABAS Division: 25 - La Salle County </br> EMS: Provided by Sheridan </br> Dispatched by: La Salle County Sheriffs Department"
+    "desc": "Serena Fire Protection District - Serena Station (HQ) </br> Station: 1 of 4 </br> MABAS Division: 25 - La Salle County </br> EMS: Provided by Sheridan </br> Dispatched by: La Salle County Sheriff's Department"
   },
   {
     "lat": 41.436399,
     "long": -88.773643,
-    "desc": "Serena Fire Protection District - Wedron Station </br> Station: 3 of 4 </br> MABAS Division: 25 - La Salle County </br> EMS: Provided by Sheridan </br> Dispatched by: La Salle County Sheriffs Department"
+    "desc": "Serena Fire Protection District - Wedron Station </br> Station: 3 of 4 </br> MABAS Division: 25 - La Salle County </br> EMS: Provided by Sheridan </br> Dispatched by: La Salle County Sheriff's Department"
   },
   {
     "lat": 38.082003,
@@ -10057,7 +10062,7 @@
   {
     "lat": 41.768677,
     "long": -88.871807,
-    "desc": "Shabbona Fire Department </br> Station: 1 of 1 </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS </br> Dispatched by: DeKalb County Sheriffs Department"
+    "desc": "Shabbona Fire Department </br> Station: 1 of 1 </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS </br> Dispatched by: DeKalb County Sheriff's Department"
   },
   {
     "lat": 42.154156,
@@ -10187,12 +10192,12 @@
   {
     "lat": 41.635221,
     "long": -88.681772,
-    "desc": "Somonauk Fire Department - Engine Company 311 </br> Station: 2 of 2 </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS\\Staffed by PSI </br> Dispatched by: DeKalb County Sheriffs Department"
+    "desc": "Somonauk Fire Department - Engine Company 311 </br> Station: 2 of 2 </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS\\Staffed by PSI </br> Dispatched by: DeKalb County Sheriff's Department"
   },
   {
     "lat": 41.632661,
     "long": -88.683978,
-    "desc": "Somonauk Fire Department - Station 1 </br> Station: 1 of 2 </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS\\Staffed by PSI </br> Dispatched by: DeKalb County Sheriffs Department"
+    "desc": "Somonauk Fire Department - Station 1 </br> Station: 1 of 2 </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS\\Staffed by PSI </br> Dispatched by: DeKalb County Sheriff's Department"
   },
   {
     "lat": 42.492878,
@@ -10380,16 +10385,6 @@
     "desc": "St Anne Fire Department"
   },
   {
-    "lat": 41.917152,
-    "long": -88.278872,
-    "desc": "St Charles Fire Department - Station 2"
-  },
-  {
-    "lat": 41.912604,
-    "long": -88.351614,
-    "desc": "St. Charles Fire Department - Station 3 </br> Station: 3 of 3 </br> MABAS Division: 13 - Kane South </br> EMS: ALS </br> Dispatched by: TriCom Central Dispatch"
-  },
-  {
     "lat": 41.258235,
     "long": -89.183546,
     "desc": "Standard Fire Protection District"
@@ -10457,7 +10452,7 @@
   {
     "lat": 42.10601,
     "long": -89.184807,
-    "desc": "Stillman Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 18 - Ogle County </br> EMS: ALS </br> Dispatched by: Ogle County Sheriffs Department"
+    "desc": "Stillman Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 18 - Ogle County </br> EMS: ALS </br> Dispatched by: Ogle County Sheriff's Department"
   },
   {
     "lat": 40.614095,
@@ -10512,7 +10507,7 @@
   {
     "lat": 41.644344,
     "long": -89.231472,
-    "desc": "Sublette Fire Department </br> Station: 1 of 1 </br> MABAS Division: 38 - Lee County </br> EMS: BLS </br> Dispatched by: Lee County Sheriffs Department"
+    "desc": "Sublette Fire Department </br> Station: 1 of 1 </br> Type: POC </br> MABAS Division: 38 - Lee County </br> EMS: BLS </br> Dispatched by: Lee County Sheriff's Department"
   },
   {
     "lat": 38.605567,
@@ -10552,12 +10547,12 @@
   {
     "lat": 41.987074,
     "long": -88.691935,
-    "desc": "Sycamore Fire Department - Station 1 </br> Station: 1 of 2 </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS </br> Dispatched by: DeKalb County Sheriffs Department"
+    "desc": "Sycamore Fire Department - Station 1 </br> Station: 1 of 2 </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS </br> Dispatched by: DeKalb County Sheriff's Department"
   },
   {
     "lat": 42.016417,
     "long": -88.689185,
-    "desc": "Sycamore Fire Department - Station 2 </br> Station: 2 of 2 </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS </br> Dispatched by: DeKalb County Sheriffs Department"
+    "desc": "Sycamore Fire Department - Station 2 </br> Station: 2 of 2 </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS </br> Dispatched by: DeKalb County Sheriff's Department"
   },
   {
     "lat": 40.361866,
@@ -10775,14 +10770,14 @@
     "desc": "Tri - Township Fire Protection District"
   },
   {
-    "lat": 41.728518,
-    "long": -87.935073,
-    "desc": "Tri State Fire Protection Disctrict Station 3"
-  },
-  {
     "lat": 41.738726,
     "long": -87.947349,
     "desc": "Tri State Fire Protection District Station 1"
+  },
+  {
+    "lat": 41.728518,
+    "long": -87.935073,
+    "desc": "Tri State Fire Protection District Station 3"
   },
   {
     "lat": 38.73001,
@@ -11082,7 +11077,7 @@
   {
     "lat": 41.769799,
     "long": -88.774983,
-    "desc": "Waterman Community Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS\\Staffed by PSI </br> Dispatched by: DeKalb County Sheriffs Department"
+    "desc": "Waterman Community Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS\\Staffed by PSI </br> Dispatched by: DeKalb County Sheriff's Department"
   },
   {
     "lat": 40.777257,
@@ -11177,7 +11172,7 @@
   {
     "lat": 41.693945,
     "long": -89.14849,
-    "desc": "West Brooklyn Fire Department"
+    "desc": "West Brooklyn Volunteer Fire Department </br> Station: 1 of 1 </br> Type: Volunteer </br> MABAS Division: 38 - Lee County </br> EMS: Provided by nearest agency </br> Dispatched by: Lee County Sheriff's Department"
   },
   {
     "lat": 41.886218,
@@ -11232,7 +11227,7 @@
   {
     "lat": 42.277223,
     "long": -89.142786,
-    "desc": "West Suburban Fire Protection District"
+    "desc": "West Suburban Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 8 - Boone & Winnebago Counties </br> Type: Voulenteer POC </br> EMS: None </br> Dispatched by: Rockford Fire Alarm Office"
   },
   {
     "lat": 39.216189,
@@ -11575,6 +11570,11 @@
     "desc": "Advance Fire Department"
   },
   {
+    "lat": 38.553778,
+    "long": -90.318033,
+    "desc": "Affton Fire Protection District - Station 1 (HQ)"
+  },
+  {
     "lat": 38.56452,
     "long": -90.3335,
     "desc": "Affton Fire Protection District Station 2"
@@ -11583,11 +11583,6 @@
     "lat": 38.55902,
     "long": -90.3009,
     "desc": "Affton Fire Protection District Station 3"
-  },
-  {
-    "lat": 38.553778,
-    "long": -90.318033,
-    "desc": "Afton Fire Protection District - Station 1 (HQ)"
   },
   {
     "lat": 39.122051,
@@ -13602,7 +13597,7 @@
   {
     "lat": 38.6012,
     "long": -90.4434,
-    "desc": "Des Peres Public Saftey"
+    "desc": "Des Peres Public Safety"
   },
   {
     "lat": 38.133879,
@@ -14302,7 +14297,7 @@
   {
     "lat": 39.206067,
     "long": -94.577012,
-    "desc": "Gladstone Public Saftey Station 1"
+    "desc": "Gladstone Public Safety Station 1"
   },
   {
     "lat": 39.22682,
@@ -14547,7 +14542,7 @@
   {
     "lat": 37.193542,
     "long": -93.628306,
-    "desc": "Halltown Voulenteer Fire Rescue"
+    "desc": "Halltown Volunteer Fire Rescue"
   },
   {
     "lat": 39.74094,
@@ -15892,7 +15887,7 @@
   {
     "lat": 37.102902,
     "long": -93.0653,
-    "desc": "Logan Rogersville Firestation"
+    "desc": "Logan Rogersville Fire Station"
   },
   {
     "lat": 37.071843,
@@ -16422,7 +16417,7 @@
   {
     "lat": 38.68312,
     "long": -90.4808,
-    "desc": "Monarach Fire Protection District - Station 3"
+    "desc": "Monarch Fire Protection District - Station 3"
   },
   {
     "lat": 38.640459,
@@ -16935,11 +16930,6 @@
     "desc": "O'Fallon Fire Department"
   },
   {
-    "lat": 38.780694,
-    "long": -90.697925,
-    "desc": "O'Fallon Fire Distric Station 3"
-  },
-  {
     "lat": 38.825865,
     "long": -90.699135,
     "desc": "O'Fallon Fire District Station 1"
@@ -16948,6 +16938,11 @@
     "lat": 38.86183,
     "long": -90.7417,
     "desc": "O'Fallon Fire District Station 2"
+  },
+  {
+    "lat": 38.780694,
+    "long": -90.697925,
+    "desc": "O'Fallon Fire District Station 3"
   },
   {
     "lat": 38.792257,
@@ -17665,14 +17660,14 @@
     "desc": "Riverview Fire Department"
   },
   {
+    "lat": 38.72108,
+    "long": -90.2666,
+    "desc": "Riverview Fire Protection District"
+  },
+  {
     "lat": 38.73068,
     "long": -90.2284,
     "desc": "Riverview Fire Protection District Station 2"
-  },
-  {
-    "lat": 38.72108,
-    "long": -90.2666,
-    "desc": "Riverview Fire Protecton District"
   },
   {
     "lat": 38.772198,
@@ -17828,6 +17823,11 @@
     "lat": 38.02292,
     "long": -93.6965,
     "desc": "Sac - Osage Fire Protection District"
+  },
+  {
+    "lat": 38.825946,
+    "long": -90.484542,
+    "desc": "Saint Charles City Fire Station"
   },
   {
     "lat": 38.78191,
@@ -18508,11 +18508,6 @@
     "lat": 36.85016,
     "long": -92.6271,
     "desc": "Squires Volunteer Fire Dept."
-  },
-  {
-    "lat": 38.825946,
-    "long": -90.484542,
-    "desc": "St. Charles City Fire Station"
   },
   {
     "lat": 40.21325,
@@ -19493,5 +19488,10 @@
     "lat": 37.95159,
     "long": -90.1425,
     "desc": "Zell Volunteer Fire Department"
+  },
+  {
+    "lat": 41.982383,
+    "long": -89.225328,
+    "desc": "Oregon Fire Department - Chana Station </br> Station: 2 of 2 </br> Type: Career/POC </br> MABAS Division: 18 - Ogle County </br> EMS: ALS </br> Dispatched by: Ogle County Sheriff's Department"
   }
 ]
