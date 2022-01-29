@@ -1915,541 +1915,6 @@
     "desc": "Yakutat Fire Department"
   },
   {
-    "lat": 41.790488,
-    "long": -88.940904,
-    "desc": "<strong> <span style='color: #800080;'>Lee Volunteer Fire Protection District</span> </strong> </br> Station: 1 of 1 </br> MABAS Division: 6 - DeKalb County </br> EMS: BLS FR\\\\Provided by Shabbona FD </br> Dispatched by: DeKalb County Sheriff's Department"
-  },
-  {
-    "lat": 41.869606,
-    "long": -87.642034,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Academy </span> </strong>   </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.901808,
-    "long": -87.637861,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Air Mask Services </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.876309,
-    "long": -87.633528,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 1 </span> </strong> </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.768623,
-    "long": -87.680107,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 101 </span> </strong> </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 42.014725,
-    "long": -87.675377,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 102 </span> </strong> </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.880687,
-    "long": -87.664274,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 103 </span> </strong> </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.683086,
-    "long": -87.539619,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 104 </span> </strong> </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.942898,
-    "long": -87.703204,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 106 </span> </strong> </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.868109,
-    "long": -87.695602,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 107 </span> </strong> </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.96449,
-    "long": -87.757599,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 108 </span> </strong> </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.848264,
-    "long": -87.704576,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 109 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.97686,
-    "long": -87.836386,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 11 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.976044,
-    "long": -87.687803,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 110 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.950862,
-    "long": -87.678482,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 112 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.873075,
-    "long": -87.755522,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 113 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.678878,
-    "long": -87.647463,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 115 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.785062,
-    "long": -87.664156,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 116 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.895146,
-    "long": -87.748976,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 117 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.990625,
-    "long": -87.798603,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 119 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.692896,
-    "long": -87.668695,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 120 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.721486,
-    "long": -87.665674,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 121 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.750821,
-    "long": -87.620979,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 122 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.800757,
-    "long": -87.680294,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 123 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.96198,
-    "long": -87.708768,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 124 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.922539,
-    "long": -87.787665,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 125 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.762181,
-    "long": -87.5637,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 126 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.778611,
-    "long": -87.752541,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 127 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.745946,
-    "long": -87.663885,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 129 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.886755,
-    "long": -87.620397,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 13 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.895855,
-    "long": -87.656296,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 14 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.747155,
-    "long": -87.702682,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 15 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.823338,
-    "long": -87.624243,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 16 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.864729,
-    "long": -87.655786,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 18 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.832299,
-    "long": -87.61782,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 19 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.91774,
-    "long": -87.644114,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 22 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.855082,
-    "long": -87.675777,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 23 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.704672,
-    "long": -87.657117,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 24 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.881393,
-    "long": -87.682042,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 26 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.845226,
-    "long": -87.656397,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 28 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.830465,
-    "long": -87.642288,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 29 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.902312,
-    "long": -87.667192,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 30 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.790628,
-    "long": -87.781574,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 32 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.808002,
-    "long": -87.72531,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 34 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.916104,
-    "long": -87.677394,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 35 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.858998,
-    "long": -87.747719,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 38 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.833344,
-    "long": -87.666398,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 39 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.903867,
-    "long": -87.643073,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 4 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.890413,
-    "long": -87.629781,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 42 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.920825,
-    "long": -87.696445,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 43 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.888594,
-    "long": -87.706789,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 44 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.811212,
-    "long": -87.60692,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 45 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.726077,
-    "long": -87.549975,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 46 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.773242,
-    "long": -87.613874,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 47 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.813629,
-    "long": -87.66487,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 49 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.877103,
-    "long": -87.644476,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 5 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.80326,
-    "long": -87.643272,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 50 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.76515,
-    "long": -87.637969,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 54 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.93196,
-    "long": -87.649472,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 55 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.9379,
-    "long": -87.683859,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 56 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.904437,
-    "long": -87.687577,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 57 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.795428,
-    "long": -87.597692,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 60 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.687271,
-    "long": -87.621687,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 62 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.773518,
-    "long": -87.589828,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 63 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.75288,
-    "long": -87.72175,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 64 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.817545,
-    "long": -87.699697,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 65 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.917456,
-    "long": -87.758006,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 68 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.954095,
-    "long": -87.73378,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 69 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.938508,
-    "long": -87.749933,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 7 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.991906,
-    "long": -87.670586,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 70 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.995103,
-    "long": -87.699385,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 71 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.749464,
-    "long": -87.583567,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 72 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.736844,
-    "long": -87.642717,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 73 </span> </strong>   </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.702174,
-    "long": -87.535135,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 74 </span> </strong>   </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.676336,
-    "long": -87.622961,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 75 </span> </strong>   </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.913103,
-    "long": -87.726276,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 76 </span> </strong>   </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.949153,
-    "long": -87.656583,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 78 </span> </strong>   </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.997994,
-    "long": -87.766593,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 79 </span> </strong>   </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.853112,
-    "long": -87.63237,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 8 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.663409,
-    "long": -87.590786,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 80 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.704684,
-    "long": -87.561286,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 81 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.729021,
-    "long": -87.603847,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 82 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.9655,
-    "long": -87.660027,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 83 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.787062,
-    "long": -87.626788,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 84 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.951336,
-    "long": -87.807721,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 86 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.785788,
-    "long": -87.714949,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 88 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.989735,
-    "long": -87.728097,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 89 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.932318,
-    "long": -87.726606,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 91 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.691818,
-    "long": -87.699001,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 92 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.705444,
-    "long": -87.631977,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 93 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.949666,
-    "long": -87.771604,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 94 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.882902,
-    "long": -87.726233,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 95 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.88834,
-    "long": -87.767555,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 96 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.651942,
-    "long": -87.544616,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 97 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.897195,
-    "long": -87.622555,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 98 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.83732,
-    "long": -87.728312,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department - Engine Co. 99 </span> </strong>  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.963527,
-    "long": -87.907614,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department ARFF Station #1</span> </strong>   </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.991321,
-    "long": -87.898641,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department ARFF Station #2</span> </strong>   </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.980699,
-    "long": -87.898338,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department ARFF Station #3 </span> </strong>   </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 42.000835,
-    "long": -87.918373,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department ARFF Station #4 </span> </strong>   </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.988041,
-    "long": -87.915928,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department District 3 Station 6 O'Hare Field Rescue Station 1 </span> </strong>   </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.864083,
-    "long": -87.641407,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department EMS & Paramedic Office </span> </strong>   </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.829834,
-    "long": -87.624185,
-    "desc": "<strong> <span style='color: #CE2029;'>Chicago Fire Department Headquarters </span> </strong>   </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
-  },
-  {
-    "lat": 41.672243,
-    "long": -88.328684,
-    "desc": "<strong> <span style='color: #CE2029;'>Oswego Fire Protection District - Station 1</span> </strong>  </br> Station: 1 of 4 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: ALS </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
-  },
-  {
-    "lat": 41.716083,
-    "long": -88.3126,
-    "desc": "<strong> <span style='color: #CE2029;'>Oswego Fire Protection District - Station 2</span> </strong>  </br> Station: 2 of 4 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: ALS </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
-  },
-  {
-    "lat": 41.71241,
-    "long": -88.375179,
-    "desc": "<strong> <span style='color: #CE2029;'>Oswego Fire Protection District - Station 3</span> </strong>  </br> Station: 3 of 4 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: ALS </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
-  },
-  {
-    "lat": 41.650816,
-    "long": -88.278455,
-    "desc": "<strong> <span style='color: #CE2029;'>Oswego Fire Protection District - Station 4</span> </strong>  </br> Station: 4 of 4 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: ALS </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
-  },
-  {
     "lat": 42.290271,
     "long": -87.893571,
     "desc": "Abbott Laboratories Fire Department Station 1"
@@ -2477,17 +1942,17 @@
   {
     "lat": 41.926974,
     "long": -87.989233,
-    "desc": "Addison Fire Station Number 1"
+    "desc": "Addison Fire Protection District - Station 71 (HQ) </br> Station: 1 of 3 </br> Type: Career </br> MABAS Division: Unknown </br> EMS: ALS (Staffed by PSI) </br> Dispatched by: DuPage Public Saftey Communications"
   },
   {
     "lat": 41.914752,
     "long": -88.002289,
-    "desc": "Addison Fire Station Number 2"
+    "desc": "Addison Fire Protection District - Station 72 </br> Station: 2 of 3 </br> Type: Career </br> MABAS Division: Unknown </br> EMS: ALS (Staffed by PSI) </br> Dispatched by: DuPage Public Saftey Communications"
   },
   {
     "lat": 41.928224,
     "long": -88.033158,
-    "desc": "Addison Fire Station Number 3"
+    "desc": "Addison Fire Protection District - Station 73 </br> Station: 3 of 3 </br> Type: Career </br> MABAS Division: Unknown </br> EMS: ALS (Staffed by PSI) </br> Dispatched by: DuPage Public Saftey Communications"
   },
   {
     "lat": 41.786633,
@@ -2517,22 +1982,17 @@
   {
     "lat": 42.175816,
     "long": -88.304885,
-    "desc": "Algonquin - Lake in the Hills Fire Protection District"
+    "desc": "Algonquin - Lake in the Hills Fire Protection District - Station 1 </br> Station: 1 of 3 </br> MABAS Division: 2 - Kane N/McHenry SE/Cook NW </br> EMS: ALS </br> Dispatched by: Southeast Emergency Communications Center (SeeCom)"
   },
   {
     "lat": 42.162779,
     "long": -88.333536,
-    "desc": "Algonquin Fire Department"
-  },
-  {
-    "lat": 42.174335,
-    "long": -88.372231,
-    "desc": "Algonquin Fire Department"
+    "desc": "Algonquin - Lake in the Hills Fire Protection District - Station 2 </br> Station: 2 of 3 </br> MABAS Division: 2 - Kane N/McHenry SE/Cook NW </br> EMS: ALS </br> Dispatched by: Southeast Emergency Communications Center (SeeCom)"
   },
   {
     "lat": 42.159978,
     "long": -88.269984,
-    "desc": "Algonquin Lake in the Hills Fire Department Station 3"
+    "desc": "Algonquin - Lake in the Hills Fire Protection District - Station 3 </br> Station: 3 of 3 </br> MABAS Division: 2 - Kane N/McHenry SE/Cook NW </br> EMS: ALS </br> Dispatched by: Southeast Emergency Communications Center (SeeCom)"
   },
   {
     "lat": 38.888164,
@@ -2685,29 +2145,24 @@
     "desc": "Arlington Fire Protection District"
   },
   {
-    "lat": 42.049701,
-    "long": -87.982681,
-    "desc": "Arlington Heights Fire Department"
-  },
-  {
-    "lat": 42.049883,
-    "long": -87.982555,
-    "desc": "Arlington Heights Fire Department - Station 3"
-  },
-  {
     "lat": 42.08128,
     "long": -87.97825,
-    "desc": "Arlington Heights Fire Station 1"
+    "desc": "Arlington Heights Fire Department - Station 1 </br> Station: 1 of 4 </br> Type: Career </br> MABAS Division: 1 - NW Cook (NWCD) </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
   },
   {
     "lat": 42.096992,
     "long": -87.980992,
-    "desc": "Arlington Heights Fire Station 2"
+    "desc": "Arlington Heights Fire Department - Station 2 </br> Station: 2 of 4 </br> Type: Career </br> MABAS Division: 1 - NW Cook (NWCD) </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
+  },
+  {
+    "lat": 42.049883,
+    "long": -87.982555,
+    "desc": "Arlington Heights Fire Department - Station 3 </br> Station: 3 of 4 </br> Type: Career </br> MABAS Division: 1 - NW Cook (NWCD) </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
   },
   {
     "lat": 42.130952,
     "long": -87.980891,
-    "desc": "Arlington Heights Fire Station 4"
+    "desc": "Arlington Heights Fire Department - Station 4 </br> Station: 4 of 4 </br> Type: Career </br> MABAS Division: 1 - NW Cook (NWCD) </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
   },
   {
     "lat": 40.339618,
@@ -3197,47 +2652,42 @@
   {
     "lat": 41.950703,
     "long": -88.078574,
-    "desc": "Bloomingdale Fire Department"
-  },
-  {
-    "lat": 41.942267,
-    "long": -88.119715,
-    "desc": "Bloomingdale Fire Protection District - Station 1"
-  },
-  {
-    "lat": 41.950963,
-    "long": -88.078783,
-    "desc": "Bloomingdale Fire Protection District - Station 1 (HQ)"
+    "desc": "Bloomingdale Fire Protection District - Station 21 (HQ) </br> Station: 1 of 3 </br> Type: Career </br> MABAS Division: Unknown </br> EMS: MICU </br> Dispatched by: DuPage Public Saftey Communications"
   },
   {
     "lat": 41.969395,
     "long": -88.115718,
-    "desc": "Bloomingdale Fire Protection District Station 22"
+    "desc": "Bloomingdale Fire Protection District - Station 22 </br> Station: 2 of 3 </br> Type: Career </br> MABAS Division: Unknown </br> EMS: MICU </br> Dispatched by: DuPage Public Saftey Communications"
+  },
+  {
+    "lat": 41.942267,
+    "long": -88.119715,
+    "desc": "Bloomingdale Fire Protection District - Station 23 </br> Station: 3 of 3 </br> Type: Career </br> MABAS Division: Unknown </br> EMS: MICU </br> Dispatched by: DuPage Public Saftey Communications"
   },
   {
     "lat": 40.480808,
     "long": -88.997804,
-    "desc": "Bloomington Fire Department - Station 1"
+    "desc": "Bloomington Fire Department - Station 1 </br> Station: 1 of 5 </br> Type: Career </br> MABAS Division: 41 - McLean County </br> EMS: ALS </br> Dispatched by: Bloomington PD"
   },
   {
     "lat": 40.453731,
     "long": -88.96259,
-    "desc": "Bloomington Fire Department - Station 2"
+    "desc": "Bloomington Fire Department - Station 2 </br> Station: 2 of 5 </br> Type: Career </br> MABAS Division: 41 - McLean County </br> EMS: ALS </br> Dispatched by: Bloomington PD"
   },
   {
     "lat": 40.487977,
     "long": -88.941409,
-    "desc": "Bloomington Fire Department - Station 3"
+    "desc": "Bloomington Fire Department - Station 3 </br> Station: 3 of 5 </br> Type: Career </br> MABAS Division: 41 - McLean County </br> EMS: ALS </br> Dispatched by: Bloomington PD"
   },
   {
     "lat": 40.460918,
     "long": -89.006369,
-    "desc": "Bloomington Fire Department - Station 4"
+    "desc": "Bloomington Fire Department - Station 4 </br> Station: 4 of 5 </br> Type: Career </br> MABAS Division: 41 - McLean County </br> EMS: ALS </br> Dispatched by: Bloomington PD"
   },
   {
     "lat": 40.473349,
     "long": -88.909077,
-    "desc": "Bloomington Fire Department - Station 6 (ARFF)"
+    "desc": "Bloomington Fire Department - Station 6 (ARFF) </br> Station: 5 of 5 </br> Type: Career </br> MABAS Division: 41 - McLean County </br> EMS: ALS </br> Dispatched by: Bloomington PD"
   },
   {
     "lat": 40.430224,
@@ -3515,11 +2965,6 @@
     "desc": "Buffalo Grove Fire Department - Station 25"
   },
   {
-    "lat": 42.138224,
-    "long": -87.969341,
-    "desc": "Buffalo Grove Fire Department Station 25"
-  },
-  {
     "lat": 42.171219,
     "long": -87.955847,
     "desc": "Buffalo Grove Fire Department Station 26"
@@ -3712,17 +3157,17 @@
   {
     "lat": 41.930414,
     "long": -88.156199,
-    "desc": "Carol Stream Fire Protection District - Station 27"
+    "desc": "Carol Stream Fire Protection District - Station 27 </br> Station: 1 of 3 </br> Type: Career </br> MABAS Division: Unknown </br> EMS: ALS </br> Dispatched by: DuPage Public Saftey Communications"
   },
   {
     "lat": 41.910914,
     "long": -88.139231,
-    "desc": "Carol Stream Fire Protection District - Station 28"
+    "desc": "Carol Stream Fire Protection District - Station 28 </br> Station: 2 of 3 </br> Type: Career </br> MABAS Division: Unknown </br> EMS: ALS</br> Dispatched by: DuPage Public Saftey Communications"
   },
   {
     "lat": 41.896841,
     "long": -88.101621,
-    "desc": "Carol Stream Fire Protection District - Station 29"
+    "desc": "Carol Stream Fire Protection District - Station 29 </br> Station: 3 of 3 </br> Type: Career </br> MABAS Division: Unknown </br> EMS: MICU </br> Dispatched by: DuPage Public Saftey Communications"
   },
   {
     "lat": 42.108493,
@@ -3983,6 +3428,516 @@
     "lat": 40.053131,
     "long": -89.184335,
     "desc": "Chestnut Volunteer Fire Department Station 2"
+  },
+  {
+    "lat": 41.869606,
+    "long": -87.642034,
+    "desc": "Chicago Fire Academy </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.901808,
+    "long": -87.637861,
+    "desc": "Chicago Fire Department - Air Mask Services </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.876309,
+    "long": -87.633528,
+    "desc": "Chicago Fire Department - Engine Co. 1</br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.768623,
+    "long": -87.680107,
+    "desc": "Chicago Fire Department - Engine Co. 101</br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 42.014725,
+    "long": -87.675377,
+    "desc": "Chicago Fire Department - Engine Co. 102</br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.880687,
+    "long": -87.664274,
+    "desc": "Chicago Fire Department - Engine Co. 103</br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.683086,
+    "long": -87.539619,
+    "desc": "Chicago Fire Department - Engine Co. 104</br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.942898,
+    "long": -87.703204,
+    "desc": "Chicago Fire Department - Engine Co. 106</br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.868109,
+    "long": -87.695602,
+    "desc": "Chicago Fire Department - Engine Co. 107</br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.96449,
+    "long": -87.757599,
+    "desc": "Chicago Fire Department - Engine Co. 108</br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.848264,
+    "long": -87.704576,
+    "desc": "Chicago Fire Department - Engine Co. 109 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.97686,
+    "long": -87.836386,
+    "desc": "Chicago Fire Department - Engine Co. 11 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.976044,
+    "long": -87.687803,
+    "desc": "Chicago Fire Department - Engine Co. 110 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.950862,
+    "long": -87.678482,
+    "desc": "Chicago Fire Department - Engine Co. 112 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.873075,
+    "long": -87.755522,
+    "desc": "Chicago Fire Department - Engine Co. 113 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.678878,
+    "long": -87.647463,
+    "desc": "Chicago Fire Department - Engine Co. 115 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.785062,
+    "long": -87.664156,
+    "desc": "Chicago Fire Department - Engine Co. 116 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.895146,
+    "long": -87.748976,
+    "desc": "Chicago Fire Department - Engine Co. 117 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.990625,
+    "long": -87.798603,
+    "desc": "Chicago Fire Department - Engine Co. 119 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.692896,
+    "long": -87.668695,
+    "desc": "Chicago Fire Department - Engine Co. 120 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.721486,
+    "long": -87.665674,
+    "desc": "Chicago Fire Department - Engine Co. 121 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.750821,
+    "long": -87.620979,
+    "desc": "Chicago Fire Department - Engine Co. 122 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.800757,
+    "long": -87.680294,
+    "desc": "Chicago Fire Department - Engine Co. 123 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.96198,
+    "long": -87.708768,
+    "desc": "Chicago Fire Department - Engine Co. 124 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.922539,
+    "long": -87.787665,
+    "desc": "Chicago Fire Department - Engine Co. 125 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.762181,
+    "long": -87.5637,
+    "desc": "Chicago Fire Department - Engine Co. 126 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.778611,
+    "long": -87.752541,
+    "desc": "Chicago Fire Department - Engine Co. 127 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.745946,
+    "long": -87.663885,
+    "desc": "Chicago Fire Department - Engine Co. 129 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.886755,
+    "long": -87.620397,
+    "desc": "Chicago Fire Department - Engine Co. 13 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.895855,
+    "long": -87.656296,
+    "desc": "Chicago Fire Department - Engine Co. 14 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.747155,
+    "long": -87.702682,
+    "desc": "Chicago Fire Department - Engine Co. 15 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.823338,
+    "long": -87.624243,
+    "desc": "Chicago Fire Department - Engine Co. 16 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.864729,
+    "long": -87.655786,
+    "desc": "Chicago Fire Department - Engine Co. 18 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.832299,
+    "long": -87.61782,
+    "desc": "Chicago Fire Department - Engine Co. 19 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.91774,
+    "long": -87.644114,
+    "desc": "Chicago Fire Department - Engine Co. 22 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.855082,
+    "long": -87.675777,
+    "desc": "Chicago Fire Department - Engine Co. 23 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.704672,
+    "long": -87.657117,
+    "desc": "Chicago Fire Department - Engine Co. 24 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.881393,
+    "long": -87.682042,
+    "desc": "Chicago Fire Department - Engine Co. 26 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.845226,
+    "long": -87.656397,
+    "desc": "Chicago Fire Department - Engine Co. 28 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.830465,
+    "long": -87.642288,
+    "desc": "Chicago Fire Department - Engine Co. 29 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.902312,
+    "long": -87.667192,
+    "desc": "Chicago Fire Department - Engine Co. 30 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.790628,
+    "long": -87.781574,
+    "desc": "Chicago Fire Department - Engine Co. 32 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.808002,
+    "long": -87.72531,
+    "desc": "Chicago Fire Department - Engine Co. 34 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.916104,
+    "long": -87.677394,
+    "desc": "Chicago Fire Department - Engine Co. 35 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.858998,
+    "long": -87.747719,
+    "desc": "Chicago Fire Department - Engine Co. 38 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.833344,
+    "long": -87.666398,
+    "desc": "Chicago Fire Department - Engine Co. 39 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.903867,
+    "long": -87.643073,
+    "desc": "Chicago Fire Department - Engine Co. 4 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.890413,
+    "long": -87.629781,
+    "desc": "Chicago Fire Department - Engine Co. 42 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.920825,
+    "long": -87.696445,
+    "desc": "Chicago Fire Department - Engine Co. 43 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.888594,
+    "long": -87.706789,
+    "desc": "Chicago Fire Department - Engine Co. 44 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.811212,
+    "long": -87.60692,
+    "desc": "Chicago Fire Department - Engine Co. 45 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.726077,
+    "long": -87.549975,
+    "desc": "Chicago Fire Department - Engine Co. 46 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.773242,
+    "long": -87.613874,
+    "desc": "Chicago Fire Department - Engine Co. 47 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.813629,
+    "long": -87.66487,
+    "desc": "Chicago Fire Department - Engine Co. 49 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.877103,
+    "long": -87.644476,
+    "desc": "Chicago Fire Department - Engine Co. 5 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.80326,
+    "long": -87.643272,
+    "desc": "Chicago Fire Department - Engine Co. 50 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.76515,
+    "long": -87.637969,
+    "desc": "Chicago Fire Department - Engine Co. 54 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.93196,
+    "long": -87.649472,
+    "desc": "Chicago Fire Department - Engine Co. 55 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.9379,
+    "long": -87.683859,
+    "desc": "Chicago Fire Department - Engine Co. 56 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.904437,
+    "long": -87.687577,
+    "desc": "Chicago Fire Department - Engine Co. 57 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.795428,
+    "long": -87.597692,
+    "desc": "Chicago Fire Department - Engine Co. 60 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.687271,
+    "long": -87.621687,
+    "desc": "Chicago Fire Department - Engine Co. 62 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.773518,
+    "long": -87.589828,
+    "desc": "Chicago Fire Department - Engine Co. 63 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.75288,
+    "long": -87.72175,
+    "desc": "Chicago Fire Department - Engine Co. 64  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.817545,
+    "long": -87.699697,
+    "desc": "Chicago Fire Department - Engine Co. 65 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.917456,
+    "long": -87.758006,
+    "desc": "Chicago Fire Department - Engine Co. 68 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.954095,
+    "long": -87.73378,
+    "desc": "Chicago Fire Department - Engine Co. 69 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.938508,
+    "long": -87.749933,
+    "desc": "Chicago Fire Department - Engine Co. 7 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.991906,
+    "long": -87.670586,
+    "desc": "Chicago Fire Department - Engine Co. 70 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.995103,
+    "long": -87.699385,
+    "desc": "Chicago Fire Department - Engine Co. 71 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.749464,
+    "long": -87.583567,
+    "desc": "Chicago Fire Department - Engine Co. 72 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.736844,
+    "long": -87.642717,
+    "desc": "Chicago Fire Department - Engine Co. 73  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.702174,
+    "long": -87.535135,
+    "desc": "Chicago Fire Department - Engine Co. 74  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.676336,
+    "long": -87.622961,
+    "desc": "Chicago Fire Department - Engine Co. 75  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.913103,
+    "long": -87.726276,
+    "desc": "Chicago Fire Department - Engine Co. 76  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.949153,
+    "long": -87.656583,
+    "desc": "Chicago Fire Department - Engine Co. 78  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.997994,
+    "long": -87.766593,
+    "desc": "Chicago Fire Department - Engine Co. 79  </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.853112,
+    "long": -87.63237,
+    "desc": "Chicago Fire Department - Engine Co. 8 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.663409,
+    "long": -87.590786,
+    "desc": "Chicago Fire Department - Engine Co. 80 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.704684,
+    "long": -87.561286,
+    "desc": "Chicago Fire Department - Engine Co. 81 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.729021,
+    "long": -87.603847,
+    "desc": "Chicago Fire Department - Engine Co. 82 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.9655,
+    "long": -87.660027,
+    "desc": "Chicago Fire Department - Engine Co. 83 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.787062,
+    "long": -87.626788,
+    "desc": "Chicago Fire Department - Engine Co. 84 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.951336,
+    "long": -87.807721,
+    "desc": "Chicago Fire Department - Engine Co. 86 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.785788,
+    "long": -87.714949,
+    "desc": "Chicago Fire Department - Engine Co. 88 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.989735,
+    "long": -87.728097,
+    "desc": "Chicago Fire Department - Engine Co. 89 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.932318,
+    "long": -87.726606,
+    "desc": "Chicago Fire Department - Engine Co. 91 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.691818,
+    "long": -87.699001,
+    "desc": "Chicago Fire Department - Engine Co. 92 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.705444,
+    "long": -87.631977,
+    "desc": "Chicago Fire Department - Engine Co. 93 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.949666,
+    "long": -87.771604,
+    "desc": "Chicago Fire Department - Engine Co. 94 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.882902,
+    "long": -87.726233,
+    "desc": "Chicago Fire Department - Engine Co. 95 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.88834,
+    "long": -87.767555,
+    "desc": "Chicago Fire Department - Engine Co. 96 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.651942,
+    "long": -87.544616,
+    "desc": "Chicago Fire Department - Engine Co. 97 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.897195,
+    "long": -87.622555,
+    "desc": "Chicago Fire Department - Engine Co. 98 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.83732,
+    "long": -87.728312,
+    "desc": "Chicago Fire Department - Engine Co. 99 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.963527,
+    "long": -87.907614,
+    "desc": "Chicago Fire Department ARFF Station #1 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.991321,
+    "long": -87.898641,
+    "desc": "Chicago Fire Department ARFF Station #2 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.980699,
+    "long": -87.898338,
+    "desc": "Chicago Fire Department ARFF Station #3 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 42.000835,
+    "long": -87.918373,
+    "desc": "Chicago Fire Department ARFF Station #4 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.988041,
+    "long": -87.915928,
+    "desc": "Chicago Fire Department District 3 Station 6 O'Hare Field Rescue Station 1 </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.864083,
+    "long": -87.641407,
+    "desc": "Chicago Fire Department EMS & Paramedic Office </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
+  },
+  {
+    "lat": 41.829834,
+    "long": -87.624185,
+    "desc": "Chicago Fire Department Headquarters </br> Type: Career </br> MABAS Division: 9 - City of Chicago Fire Department </br> EMS: ALS </br> Dispatched by: Chicago OEMC"
   },
   {
     "lat": 41.498667,
@@ -4627,17 +4582,17 @@
   {
     "lat": 42.046054,
     "long": -87.88494,
-    "desc": "Des Plaines Fire Department Station #1"
+    "desc": "Des Plaines Fire Department - Station 1 </br> Station: 1 of 3 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Regional Emergency Dispatch Center (RED Center)"
   },
   {
     "lat": 42.023729,
     "long": -87.891658,
-    "desc": "Des Plaines Fire Station #2"
+    "desc": "Des Plaines Fire Department - Station 2 </br> Station: 1 of 3 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Regional Emergency Dispatch Center (RED Center)"
   },
   {
     "lat": 42.037977,
     "long": -87.917807,
-    "desc": "Des Plaines Fire Station 3"
+    "desc": "Des Plaines Fire Department - Station 3 </br> Station: 1 of 3 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Regional Emergency Dispatch Center (RED Center)"
   },
   {
     "lat": 39.064598,
@@ -4712,22 +4667,22 @@
   {
     "lat": 41.789959,
     "long": -88.047222,
-    "desc": "Downers Grove Fire Station Number 1"
+    "desc": "Downers Grove Fire Station Number 101 </br> Station: 1 of 4 </br> MABAS Division: 16 - DuPage Southwest </br> Type: Career </br> EMS: ALS </br> Dispatched by: DuPage Public Safety Communications"
   },
   {
     "lat": 41.788241,
     "long": -88.009432,
-    "desc": "Downers Grove Fire Station Number 2"
+    "desc": "Downers Grove Fire Station Number 102 </br> Station: 2 of 2 </br> MABAS Division: 16 - DuPage Southwest </br> Type: Career </br> EMS: ALS </br> Dispatched by: DuPage Public Safety Communications"
   },
   {
     "lat": 41.815988,
     "long": -88.011092,
-    "desc": "Downers Grove Fire Station Number 3"
+    "desc": "Downers Grove Fire Station Number 103 </br> Station: 3 of 4 </br> MABAS Division: 16 - DuPage Southwest </br> Type: Career </br> EMS: ALS </br> Dispatched by: DuPage Public Safety Communications"
   },
   {
     "lat": 41.76588,
     "long": -88.00683,
-    "desc": "Downers Grove Fire Station Number 5"
+    "desc": "Downers Grove Fire Station Number 105 </br> Station: 4 of 4 </br> MABAS Division: 16 - DuPage Southwest </br> Type: Career </br> EMS: ALS </br> Dispatched by: DuPage Public Safety Communications"
   },
   {
     "lat": 40.39571,
@@ -5042,27 +4997,27 @@
   {
     "lat": 42.030046,
     "long": -87.949999,
-    "desc": "Elk Grove Township Fire Department"
-  },
-  {
-    "lat": 42.003014,
-    "long": -88.007044,
-    "desc": "Elk Grove Village Fire Department"
-  },
-  {
-    "lat": 42.00364,
-    "long": -87.960901,
-    "desc": "Elk Grove Village Fire Department Station #9"
-  },
-  {
-    "lat": 42.022823,
-    "long": -87.970557,
-    "desc": "Elk Grove Village Fire Department Station 8"
+    "desc": "Elk Grove Township Fire Department </br> Station: 4 of 4 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch or NorCom (Unknown which)"
   },
   {
     "lat": 42.005306,
     "long": -88.04646,
-    "desc": "Elk Grove Village Fire Station #10"
+    "desc": "Elk Grove Village Fire Department - Station 10 </br> Station: 3 of 4 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
+  },
+  {
+    "lat": 42.003014,
+    "long": -88.007044,
+    "desc": "Elk Grove Village Fire Department - Station 11 </br> Station: 4 of 4 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
+  },
+  {
+    "lat": 42.022823,
+    "long": -87.970557,
+    "desc": "Elk Grove Village Fire Department - Station 8 </br> Station: 1 of 4 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
+  },
+  {
+    "lat": 42.00364,
+    "long": -87.960901,
+    "desc": "Elk Grove Village Fire Department - Station 9 </br> Station: 2 of 4 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
   },
   {
     "lat": 40.021979,
@@ -6217,7 +6172,7 @@
   {
     "lat": 41.779081,
     "long": -88.641779,
-    "desc": "Hinckley Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS </br> Dispatched by: DeKalb County Sheriff's Department"
+    "desc": "Hinckley Fire Protection District </br> Station: 1 of 1 </br> Type: POC </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS </br> Dispatched by: DeKalb County Sheriff's Department"
   },
   {
     "lat": 39.683874,
@@ -6230,29 +6185,24 @@
     "desc": "Hinsdale Fire Department"
   },
   {
-    "lat": 42.071957,
-    "long": -88.211167,
-    "desc": "Hoffman Estates Fire Department"
+    "lat": 42.040583,
+    "long": -88.085073,
+    "desc": "Hoffman Estates Fire Department - Station 21 </br> Station: 1 of 4 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
   },
   {
     "lat": 42.055259,
     "long": -88.136575,
-    "desc": "Hoffman Estates Fire Department Station 22"
+    "desc": "Hoffman Estates Fire Department - Station 22 </br> Station: 2 of 4 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
   },
   {
     "lat": 42.103869,
     "long": -88.111609,
-    "desc": "Hoffman Estates Fire Department Station 23"
+    "desc": "Hoffman Estates Fire Department - Station 23 </br> Station: 3 of 4 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
   },
   {
     "lat": 42.062415,
     "long": -88.226749,
-    "desc": "Hoffman Estates Fire Department Station 24"
-  },
-  {
-    "lat": 42.040583,
-    "long": -88.085073,
-    "desc": "Hoffman Estates Fire Station Number 21"
+    "desc": "Hoffman Estates Fire Department - Station 24 </br> Station: 4 of 4 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
   },
   {
     "lat": 38.540634,
@@ -6387,22 +6337,27 @@
   {
     "lat": 42.168919,
     "long": -88.427055,
-    "desc": "Huntley Fire Department - Station 1"
+    "desc": "Huntley Fire Protection District - Station 1 </br> Station: 1 of 4 </br> MABAS Division: 2 - Kane N/McHenry SE/Cook NW </br> EMS: ALS </br> Dispatched by: Southeast Emergency Communications Center (SeeCom)"
   },
   {
     "lat": 42.18312,
     "long": -88.402797,
-    "desc": "Huntley Fire Department - Station 2"
+    "desc": "Huntley Fire Protection District - Station 2 </br> Station: 2 of 4 </br> MABAS Division: 2 - Kane N/McHenry SE/Cook NW </br> EMS: ALS </br> Dispatched by: Southeast Emergency Communications Center (SeeCom)"
   },
   {
     "lat": 42.148968,
     "long": -88.438797,
-    "desc": "Huntley Fire Department - Station 3"
+    "desc": "Huntley Fire Protection District - Station 3 </br> Station: 3 of 4 </br> MABAS Division: 2 - Kane N/McHenry SE/Cook NW </br> EMS: ALS </br> Dispatched by: Southeast Emergency Communications Center (SeeCom)"
+  },
+  {
+    "lat": 42.174335,
+    "long": -88.372231,
+    "desc": "Huntley Fire Protection District - Station 4 </br> Station: 4 of 4 </br> MABAS Division: 2 - Kane N/McHenry SE/Cook NW </br> EMS: ALS </br> Dispatched by: Southeast Emergency Communications Center (SeeCom)"
   },
   {
     "lat": 42.168903,
     "long": -88.413925,
-    "desc": "Huntley Fire Protection District Annex Building"
+    "desc": "Huntley Fire Protection District Annex Building </br> Station: HQ of 4 </br> MABAS Division: 2 - Kane N/McHenry SE/Cook NW </br> EMS: ALS </br> Dispatched by: Southeast Emergency Communications Center (SeeCom)"
   },
   {
     "lat": 37.831964,
@@ -6945,6 +6900,11 @@
     "desc": "Lebanon - Emerald Mound Volunteer Fire Department"
   },
   {
+    "lat": 41.790488,
+    "long": -88.940904,
+    "desc": "Lee Volunteer Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 6 - DeKalb County </br> EMS: BLS FR\\\\Provided by Shabbona FD </br> Dispatched by: DeKalb County Sheriff's Department"
+  },
+  {
     "lat": 41.61445,
     "long": -88.797116,
     "desc": "Leland Fire Protection District </br> Station: 1 of 1 </br> Type: POC </br> MABAS Division: ? </br> EMS: BLS </br> Dispatched by: DeKalb County Sheriff's Department"
@@ -7122,27 +7082,27 @@
   {
     "lat": 41.799538,
     "long": -88.073199,
-    "desc": "Lisle-Woodridge Fire Station 1"
+    "desc": "Lisle - Woodridge Fire Department - Station 51 </br> Station: 1 of 5 </br> MABAS Division: 16 - DuPage Southwest </br> Type: Career </br> EMS: ALS </br> Dispatched by: DuPage Public Safety Communications"
   },
   {
     "lat": 41.752078,
     "long": -88.051215,
-    "desc": "Lisle-Woodridge Fire Station 2"
+    "desc": "Lisle - Woodridge Fire Department - Station 52 </br> Station: 2 of 5 </br> MABAS Division: 16 - DuPage Southwest </br> Type: Career </br> EMS: ALS </br> Dispatched by: DuPage Public Safety Communications"
   },
   {
     "lat": 41.765603,
     "long": -88.059547,
-    "desc": "Lisle-Woodridge Fire Station 3"
+    "desc": "Lisle - Woodridge Fire Department - Station 53 </br> Station: 3 of 5 </br> MABAS Division: 16 - DuPage Southwest </br> Type: Career </br> EMS: ALS </br> Dispatched by: DuPage Public Safety Communications"
   },
   {
     "lat": 41.766265,
     "long": -88.099773,
-    "desc": "Lisle-Woodridge Fire Station 4"
+    "desc": "Lisle - Woodridge Fire Department - Station 54 </br> Station: 4 of 5 </br> MABAS Division: 16 - DuPage Southwest </br> Type: Career </br> EMS: ALS </br> Dispatched by: DuPage Public Safety Communications"
   },
   {
     "lat": 41.807939,
     "long": -88.092523,
-    "desc": "Lisle-Woodridge Fire Station 5"
+    "desc": "Lisle - Woodridge Fire Department - Station 55 </br> Station: 5 of 5 </br> MABAS Division: 16 - DuPage Southwest </br> Type: Career </br> EMS: ALS </br> Dispatched by: DuPage Public Safety Communications"
   },
   {
     "lat": 39.160371,
@@ -7987,17 +7947,17 @@
   {
     "lat": 42.047552,
     "long": -87.959422,
-    "desc": "Mount Prospect Fire Department Station 12"
+    "desc": "Mount Prospect Fire Department - Station 12 </br> Station: 1 of 3 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
   },
   {
     "lat": 42.063004,
     "long": -87.934423,
-    "desc": "Mount Prospect Fire Station 13"
+    "desc": "Mount Prospect Fire Department - Station 13 </br> Station: 2 of 3 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
   },
   {
     "lat": 42.080912,
     "long": -87.895189,
-    "desc": "Mount Prospect Fire Station 14"
+    "desc": "Mount Prospect Fire Department - Station 14 </br> Station: 3 of 3 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
   },
   {
     "lat": 39.988136,
@@ -8815,6 +8775,26 @@
     "desc": "Osco Community Fire Protection District"
   },
   {
+    "lat": 41.672243,
+    "long": -88.328684,
+    "desc": "Oswego Fire Protection District - Station 1 </br> Station: 1 of 4 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: ALS </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
+  },
+  {
+    "lat": 41.716083,
+    "long": -88.3126,
+    "desc": "Oswego Fire Protection District - Station 2 </br> Station: 2 of 4 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: ALS </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
+  },
+  {
+    "lat": 41.71241,
+    "long": -88.375179,
+    "desc": "Oswego Fire Protection District - Station 3 </br> Station: 3 of 4 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: ALS </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
+  },
+  {
+    "lat": 41.650816,
+    "long": -88.278455,
+    "desc": "Oswego Fire Protection District - Station 4 </br> Station: 4 of 4 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: ALS </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
+  },
+  {
     "lat": 41.349567,
     "long": -88.844414,
     "desc": "Ottawa Fire Department"
@@ -8845,29 +8825,34 @@
     "desc": "Oxford Township Fire Professional Ophiem Station"
   },
   {
-    "lat": 42.109944,
-    "long": -88.016968,
-    "desc": "Palatine Fire Department"
-  },
-  {
     "lat": 42.132603,
     "long": -88.062222,
-    "desc": "Palatine Fire Department Station 81"
-  },
-  {
-    "lat": 42.096183,
-    "long": -88.049257,
-    "desc": "Palatine Fire Department Station 84"
-  },
-  {
-    "lat": 42.114706,
-    "long": -88.042138,
-    "desc": "Palatine Fire Department Station 85"
+    "desc": "Palatine Fire Department - Station 81 </br> Station: 1 of 5 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
   },
   {
     "lat": 42.136852,
     "long": -88.033601,
-    "desc": "Palatine Fire Station"
+    "desc": "Palatine Fire Department - Station 82 </br> Station: 2 of 5 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
+  },
+  {
+    "lat": 42.109811,
+    "long": -88.019624,
+    "desc": "Palatine Fire Department - Station 83 </br> Station: 3 of 5 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
+  },
+  {
+    "lat": 42.096183,
+    "long": -88.049257,
+    "desc": "Palatine Fire Department - Station 84 </br> Station: 4 of 5 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
+  },
+  {
+    "lat": 42.114706,
+    "long": -88.042138,
+    "desc": "Palatine Fire Department - Station 85 </br> Station: 5 of 5 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
+  },
+  {
+    "lat": 42.111283,
+    "long": -88.09381,
+    "desc": "Palatine Rural Fire Department - Station 36 </br> Station: 1 of 1 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
   },
   {
     "lat": 39.43407,
@@ -9652,17 +9637,12 @@
   {
     "lat": 42.060332,
     "long": -88.019674,
-    "desc": "Rolling Meadows Fire Department"
-  },
-  {
-    "lat": 42.077362,
-    "long": -88.017339,
-    "desc": "Rolling Meadows Fire Department"
+    "desc": "Rolling Meadows Fire Department - Station 15 </br> Station: 1 of 2 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
   },
   {
     "lat": 42.084234,
     "long": -88.044356,
-    "desc": "Rolling Meadows Fire Department Station 16"
+    "desc": "Rolling Meadows Fire Department - Station 16 </br> Station: 2 of 2 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
   },
   {
     "lat": 41.644448,
@@ -9942,27 +9922,27 @@
   {
     "lat": 42.026828,
     "long": -88.103412,
-    "desc": "Schaumburg Fire Department - Station 51"
+    "desc": "Schaumburg Fire Department - Station 51 </br> Station: 1 of 5 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
   },
   {
     "lat": 42.048283,
     "long": -88.045788,
-    "desc": "Schaumburg Fire Department - Station 52"
+    "desc": "Schaumburg Fire Department - Station 52 </br> Station: 2 of 5 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
   },
   {
     "lat": 42.001624,
     "long": -88.101288,
-    "desc": "Schaumburg Fire Department - Station 53"
+    "desc": "Schaumburg Fire Department - Station 53 </br> Station: 3 of 5 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
   },
   {
     "lat": 42.056684,
     "long": -88.079192,
-    "desc": "Schaumburg Fire Department - Station 54"
+    "desc": "Schaumburg Fire Department - Station 54 </br> Station: 4 of 5 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
   },
   {
     "lat": 42.014057,
     "long": -88.061203,
-    "desc": "Schaumburg Fire Department - Station 55"
+    "desc": "Schaumburg Fire Department - Station 55 </br> Station: 5 of 5 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
   },
   {
     "lat": 41.95492,
@@ -10485,19 +10465,19 @@
     "desc": "Strasburg Fire Protection District"
   },
   {
+    "lat": 42.010307,
+    "long": -88.177326,
+    "desc": "Streamwood Fire Department - Station 31 </br> Station: 1 of 3 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
+  },
+  {
     "lat": 42.019221,
     "long": -88.198617,
-    "desc": "Streamwood Fire Department"
+    "desc": "Streamwood Fire Department - Station 32 </br> Station: 2 of 3 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
   },
   {
     "lat": 42.029887,
     "long": -88.154955,
-    "desc": "Streamwood Fire Department - Station 3"
-  },
-  {
-    "lat": 42.010307,
-    "long": -88.177326,
-    "desc": "Streamwood Fire Department Station 1"
+    "desc": "Streamwood Fire Department - Station 33 </br> Station: 3 of 3 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
   },
   {
     "lat": 41.121647,
@@ -11295,19 +11275,19 @@
     "desc": "Wheaton Fire Station"
   },
   {
-    "lat": 42.132487,
-    "long": -87.90139,
-    "desc": "Wheeling Fire Department"
-  },
-  {
     "lat": 42.125092,
     "long": -87.92742,
-    "desc": "Wheeling Fire Department - Station 23"
+    "desc": "Wheeling Fire Department - Station 23 </br> Station: 1 of 3 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
+  },
+  {
+    "lat": 42.132487,
+    "long": -87.90139,
+    "desc": "Wheeling Fire Department - Station 24 </br> Station: 2 of 3 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
   },
   {
     "lat": 42.13892,
     "long": -87.92065,
-    "desc": "Wheeling Fire Department - Station 42"
+    "desc": "Wheeling Fire Department - Station 42 </br> Station: 3 of 3 </br> Type: Career </br> MABAS Division: 1 - Northern Cook </br> EMS: ALS </br> Dispatched by: Northwest Central Dispatch"
   },
   {
     "lat": 39.443677,
