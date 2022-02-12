@@ -1,5 +1,5 @@
 # FDM-fireagencymap
-Map of current fire stations withtin USA. Currently I only have Illinois on here. Still working out some errors in the .json
+Map of current fire stations withtin USA. Currently I only have Alaska, Illinois, and Missouri on here. Still working out some errors in the .json
 
 Please note: A majority (95%+) of the data in the data.json file was exported from OSM (OpenStreetMap) using Operpass Turbo API.
 
