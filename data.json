@@ -7127,17 +7127,17 @@
   {
     "lat": 41.663894,
     "long": -88.537002,
-    "desc": "Little Rock - Fox Fire Protection District - Station 1 (HQ) </br> Station: 1 of 3 </br> MABAS Division: 14 - Kendall County </br> Type: EMS - Career/FF - POC </br> EMS: ALS </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
+    "desc": "Little Rock - Fox Fire Protection District - Station 1 (HQ) </br> Station: 1 of 3 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: ALS </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
   },
   {
     "lat": 41.599341,
     "long": -88.553729,
-    "desc": "Little Rock - Fox Fire Protection District - Station 2 (Millbrook) </br> Station: 2 of 3 </br> MABAS Division: 14 - Kendall County </br> Type: EMS - Career/FF - POC </br> EMS: ALS </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
+    "desc": "Little Rock - Fox Fire Protection District - Station 2 (Millbrook) </br> Station: 2 of 3 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: ALS </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
   },
   {
     "lat": 41.659798,
     "long": -88.502977,
-    "desc": "Little Rock - Fox Fire Protection District - Station 3 (Lakewood) </br> Station: 2 of 3 </br> MABAS Division: 14 - Kendall County </br> Type: EMS - Career/FF - POC </br> EMS: ALS </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
+    "desc": "Little Rock - Fox Fire Protection District - Station 3 (Lakewood) </br> Station: 2 of 3 </br> MABAS Division: 14 - Kendall County </br> Type: Career </br> EMS: ALS </br> Dispatched by: KenCom 911 (Kendall County ETSB)"
   },
   {
     "lat": 38.257972,
@@ -11057,7 +11057,7 @@
   {
     "lat": 41.769799,
     "long": -88.774983,
-    "desc": "Waterman Community Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 6 - DeKalb County </br> EMS: ALS\\Staffed by PSI </br> Dispatched by: DeKalb County Sheriff's Department"
+    "desc": "Waterman Community Fire Protection District </br> Station: 1 of 1 </br> MABAS Division: 6 - DeKalb County </br> EMS: BLS </br> Dispatched by: DeKalb County Sheriff's Department"
   },
   {
     "lat": 40.777257,
