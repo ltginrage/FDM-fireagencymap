@@ -3277,7 +3277,7 @@
   {
     "lat": 41.264,
     "long": -89.124937,
-    "desc": "Cedar Point Fire Department"
+    "desc": "Cedar Point Fire Department </br> Station: 1 of 1 </br> Type: POC </br> MABAS Division: 25 - La Salle County </br> EMS: ? </br> Dispatched by: La Salle County Sheriff's Dispatch"
   },
   {
     "lat": 42.377728,
@@ -5572,7 +5572,7 @@
   {
     "lat": 41.335971,
     "long": -88.753056,
-    "desc": "General Electric Plastics Ottawa Site Fire Station"
+    "desc": "General Electric Plastics Fire Brigade  </br> Station: 1 of 1 </br> Type: POC </br> MABAS Division: 25 - La Salle County </br> EMS: ? </br> Dispatched by: ?"
   },
   {
     "lat": 41.451756,
@@ -5782,7 +5782,7 @@
   {
     "lat": 41.237063,
     "long": -88.831085,
-    "desc": "Grand Ridge Volunteer Fire Department"
+    "desc": "Grand Ridge Volunteer Fire Department </br> Station: 1 of 1 </br> Type: Volunteer </br> MABAS Division: 25 - La Salle County </br> EMS: ALS </br> Dispatched by: La Salle County Sheriff's Dispatch"
   },
   {
     "lat": 39.541979,
@@ -6742,7 +6742,7 @@
   {
     "lat": 41.333426,
     "long": -89.088432,
-    "desc": "La Salle Fire Department"
+    "desc": "La Salle Fire Department </br> Station: 1 of 1 </br> Type: Career </br> MABAS Division: 25 - La Salle County </br> EMS: ALS </br> Dispatched by: ValComm 911"
   },
   {
     "lat": 41.024039,
@@ -6942,7 +6942,7 @@
   {
     "lat": 41.189643,
     "long": -88.981766,
-    "desc": "Leonore Volunteer Fire Department"
+    "desc": "Leonore Volunteer Fire Department </br> Station: 1 of 1 </br> Type: POC </br> MABAS Division: 25 - La Salle County </br> EMS: ? </br> Dispatched by: La Salle County Sheriff's Dispatch"
   },
   {
     "lat": 40.39495,
@@ -7247,7 +7247,7 @@
   {
     "lat": 41.143991,
     "long": -89.059393,
-    "desc": "Lostant Community Fire Protection District"
+    "desc": "Lostant Community Fire Protection District </br> Station: 1 of 1 </br> Type: POC </br> MABAS Division: 25 - La Salle County </br> EMS: ? </br> Dispatched by: La Salle County Sheriff's Dispatch"
   },
   {
     "lat": 42.3125,
@@ -7462,7 +7462,7 @@
   {
     "lat": 41.327987,
     "long": -88.708007,
-    "desc": "Marseilles Fire Protection District"
+    "desc": "Marseilles Fire Protection District </br> Station: 1 of 1 </br> Type: POC </br> MABAS Division: 25 - La Salle County </br> EMS: ALS/Provided by Marseilles Area Ambulance Service </br> Dispatched by: Ottawa Central Dispatch"
   },
   {
     "lat": 39.391559,
@@ -8107,7 +8107,7 @@
   {
     "lat": 41.334241,
     "long": -88.877886,
-    "desc": "Naplate Fire Department"
+    "desc": "Naplate Fire Department </br> Station: 1 of 1 </br> Type: Volunteer </br> MABAS Division: 25 - La Salle County </br> EMS: ? </br> Dispatched by: La Salle County Sheriff's Dispatch"
   },
   {
     "lat": 38.343565,
@@ -8632,7 +8632,7 @@
   {
     "lat": 41.290922,
     "long": -89.066751,
-    "desc": "Oglesby Fire Station"
+    "desc": "Oglesby Fire Station </br> Station: 1 of 1 </br> Type: POC </br> MABAS Division: 25 - La Salle County </br> EMS: ALS </br> Dispatched by: ValComm 911"
   },
   {
     "lat": 41.558037,
@@ -8797,12 +8797,12 @@
   {
     "lat": 41.349567,
     "long": -88.844414,
-    "desc": "Ottawa Fire Department"
+    "desc": "Ottawa Fire Department - Station 1 (Downtown) </br> Station: 1 of 2 </br> Type: Career </br> MABAS Division: 25 - La Salle County </br> EMS: ALS </br> Dispatched by: Ottawa Central Dispatch"
   },
   {
     "lat": 41.325122,
     "long": -88.840048,
-    "desc": "Ottawa Fire Department Station 2"
+    "desc": "Ottawa Fire Department - Station 2 (Southside) </br> Station: 2 of 2 </br> Type: Career </br> MABAS Division: 25 - La Salle County </br> EMS: ALS </br> Dispatched by: Ottawa Central Dispatch"
   },
   {
     "lat": 41.002571,
@@ -9077,7 +9077,7 @@
   {
     "lat": 41.328266,
     "long": -89.125458,
-    "desc": "Peru Fire Department"
+    "desc": "Peru Fire Department </br> Station: 1 of 1 </br> Type: Career </br> MABAS Division: 25 - La Salle County </br> EMS: ALS </br> Dispatched by: ValComm 911"
   },
   {
     "lat": 39.914351,
@@ -9997,7 +9997,7 @@
   {
     "lat": 41.316353,
     "long": -88.610779,
-    "desc": "Seneca Fire Protection and Ambulance District"
+    "desc": "Seneca Fire Protection and Ambulance District </br> Station: 1 of 2 </br> Type: POC </br> MABAS Division: 15 - Grundy County </br> EMS: ALS </br> Dispatched by: Grundy County Sheriff's Dispatch"
   },
   {
     "lat": 41.514424,
@@ -10482,7 +10482,7 @@
   {
     "lat": 41.121647,
     "long": -88.829181,
-    "desc": "Streator Fire Department"
+    "desc": "Streator Fire Department </br> Station: 1 of 1 </br> Type: Career </br> MABAS Division: 25 - La Salle County </br> EMS: Proivided by AMT </br> Dispatched by: VComm (Livingston Co ETSB)"
   },
   {
     "lat": 41.644344,
@@ -10702,7 +10702,7 @@
   {
     "lat": 41.223747,
     "long": -89.06868,
-    "desc": "Tonica Volunteer Fire Department"
+    "desc": "Tonica Volunteer Fire Department </br> Station: 1 of 1 </br> Type: POC </br> MABAS Division: 25 - La Salle County </br> EMS: ? </br> Dispatched by: La Salle County Sheriff's Dispatch"
   },
   {
     "lat": 41.09721,
@@ -10852,7 +10852,7 @@
   {
     "lat": 41.359709,
     "long": -89.010643,
-    "desc": "Utica Community Fire Protection District"
+    "desc": "Utica Community Fire Protection District </br> Station: 1 of 1 </br> Type: Career </br> MABAS Division: 25 - La Salle County </br> EMS: ALS </br> Dispatched by: ValComm 911"
   },
   {
     "lat": 38.01392,
@@ -10977,7 +10977,7 @@
   {
     "lat": 41.353104,
     "long": -88.868507,
-    "desc": "Wallace Fire Protection District"
+    "desc": "Wallace Fire Protection District </br> Station: 1 of 1 </br> Type: POC </br> MABAS Division: 25 - La Salle County </br> EMS: Provided by Ottawa Fire Department </br> Dispatched by: Ottawa Central Dispatch"
   },
   {
     "lat": 41.556408,
