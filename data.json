@@ -2102,7 +2102,7 @@
   {
     "lat": 42.500259,
     "long": -90.089653,
-    "desc": "Apple River Fire Department"
+    "desc": "Apple River Fire Department </br> Station: 1 of 1 </br> Type: POC </br> MABAS Division: 49 - Jo Daviess County </br> EMS: ? </br> Dispatched by: Jo Daviess County Sheriff's Dispatch"
   },
   {
     "lat": 40.945012,
@@ -4742,12 +4742,12 @@
   {
     "lat": 42.493065,
     "long": -90.643814,
-    "desc": "East Dubuque Fire Department Station 1"
+    "desc": "East Dubuque Fire Department Station 1 </br> Station: 1 of 2 </br> Type: POC </br> MABAS Division: 49 - Jo Daviess County </br> EMS: ? </br> Dispatched by: Jo Daviess County Sheriff's Dispatch"
   },
   {
     "lat": 42.488618,
     "long": -90.641501,
-    "desc": "East Dubuque Fire Department Station 2"
+    "desc": "East Dubuque Fire Department Station 2 </br> Station: 2 of 2 </br> Type: POC </br> MABAS Division: 49 - Jo Daviess County </br> EMS: ? </br> Dispatched by: Jo Daviess County Sheriff's Dispatch"
   },
   {
     "lat": 42.089354,
@@ -4987,7 +4987,7 @@
   {
     "lat": 42.318477,
     "long": -90.223401,
-    "desc": "Elizabeth Fire Department"
+    "desc": "Elizabeth Fire Department </br> Station: 1 of 1 </br> Type: POC </br> MABAS Division: 49 - Jo Daviess County </br> EMS: ? </br> Dispatched by: Jo Daviess County Sheriff's Dispatch"
   },
   {
     "lat": 37.449129,
@@ -5537,7 +5537,7 @@
   {
     "lat": 42.416799,
     "long": -90.429326,
-    "desc": "Galena Fire Department"
+    "desc": "Galena Fire Department </br> Station: 1 of 1 </br> Type: POC </br> MABAS Division: 49 - Jo Daviess County </br> EMS: ? </br> Dispatched by: Jo Daviess County Sheriff's Dispatch"
   },
   {
     "lat": 40.946149,
@@ -5962,7 +5962,7 @@
   {
     "lat": 42.256226,
     "long": -90.284007,
-    "desc": "Hanover Fire Department"
+    "desc": "Hanover Fire Department </br> Station: 1 of 1 </br> Type: POC </br> MABAS Division: 49 - Jo Daviess County </br> EMS: ? </br> Dispatched by: Jo Daviess County Sheriff's Dispatch"
   },
   {
     "lat": 41.996687,
@@ -7642,22 +7642,22 @@
   {
     "lat": 41.554125,
     "long": -89.112735,
-    "desc": "Mendota Fire Department Station 1 </br> Station: 2 of 2 </br> Type: Career </br> MABAS Division: 25 - La Salle County </br> EMS: ALS </br> Dispatched by: ValCom 911"
+    "desc": "Mendota Fire Department Station 2 </br> Station: 2 of 2 </br> Type: Career </br> MABAS Division: 25 - La Salle County </br> EMS: ALS </br> Dispatched by: ValCom 911"
   },
   {
     "lat": 42.488853,
     "long": -90.534397,
-    "desc": "Menominee - Dunleith Fire Department - Station 1"
+    "desc": "Menominee - Dunleith Fire Department - Station 1 </br> Station: 1 of 3 </br> Type: POC </br> MABAS Division: 49 - Jo Daviess County </br> EMS: ? </br> Dispatched by: Jo Daviess County Sheriff's Dispatch"
   },
   {
     "lat": 42.506824,
     "long": -90.610149,
-    "desc": "Menominee - Dunleith Fire Department - Station 2"
+    "desc": "Menominee - Dunleith Fire Department - Station 2 </br> Station: 2 of 3 </br> Type: POC </br> MABAS Division: 49 - Jo Daviess County </br> EMS: ? </br> Dispatched by: Jo Daviess County Sheriff's Dispatch"
   },
   {
     "lat": 42.469633,
     "long": -90.51536,
-    "desc": "Menominee - Dunleith Fire Department - Station 3"
+    "desc": "Menominee - Dunleith Fire Department - Station 3 </br> Station: 3 of 3 </br> Type: POC </br> MABAS Division: 49 - Jo Daviess County </br> EMS: ? </br> Dispatched by: Jo Daviess County Sheriff's Dispatch"
   },
   {
     "lat": 39.830013,
@@ -9902,17 +9902,17 @@
   {
     "lat": 42.418693,
     "long": -90.180628,
-    "desc": "Scales Mound Fire Department - Apple Canyon Lake Station"
+    "desc": "Scales Mound Fire Department - Apple Canyon Lake Station </br> Station: 3 of 3 </br> Type: POC </br> MABAS Division: 49 - Jo Daviess County </br> EMS: ? </br> Dispatched by: Jo Daviess County Sheriff's Dispatch"
   },
   {
     "lat": 42.404743,
     "long": -90.313346,
-    "desc": "Scales Mound Fire Department - Galena Territory Station"
+    "desc": "Scales Mound Fire Department - Galena Territory Station </br> Station: 2 of 3 </br> Type: POC </br> MABAS Division: 49 - Jo Daviess County </br> EMS: ? </br> Dispatched by: Jo Daviess County Sheriff's Dispatch"
   },
   {
     "lat": 42.473519,
     "long": -90.25261,
-    "desc": "Scales Mound Fire Department - Scales Mound Station"
+    "desc": "Scales Mound Fire Department - Scales Mound Station </br> Station: 1 of 3 </br> Type: POC </br> MABAS Division: 49 - Jo Daviess County </br> EMS: ? </br> Dispatched by: Jo Daviess County Sheriff's Dispatch"
   },
   {
     "lat": 40.551559,
@@ -10072,7 +10072,7 @@
   {
     "lat": 41.532935,
     "long": -88.682054,
-    "desc": "Sheridan Fire Protection District"
+    "desc": "Sheridan Fire Protection District </br> Station: 1 of 1 </br> Type: POC </br> MABAS Division: 25 - La Salle County </br> EMS: ILS </br> Dispatched by: La Salle County Sheriff's Dispatch"
   },
   {
     "lat": 39.896525,
@@ -10442,7 +10442,7 @@
   {
     "lat": 42.350172,
     "long": -90.005562,
-    "desc": "Stockton Fire Department"
+    "desc": "Stockton Fire Department </br> Station: 1 of 1 </br> Type: POC </br> MABAS Division: 49 - Jo Daviess County </br> EMS: ? </br> Dispatched by: Jo Daviess County Sheriff's Dispatch"
   },
   {
     "lat": 41.905462,
@@ -11007,7 +11007,7 @@
   {
     "lat": 42.496103,
     "long": -89.991079,
-    "desc": "Warren Fire Department"
+    "desc": "Warren Fire Department </br> Station: 1 of 1 </br> Type: POC </br> MABAS Division: 49 - Jo Daviess County </br> EMS: ? </br> Dispatched by: Jo Daviess County Sheriff's Dispatch"
   },
   {
     "lat": 39.931342,
