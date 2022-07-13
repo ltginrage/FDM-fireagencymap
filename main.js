@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', (e) => {
 	
 	// Add points
 	
-	var markers = L.marker();
+	var markers = L.markermarkerClusterGroup();
 	
 	fetch("data.geojson").then(res => res.json()).then(data => {
 		for(point of data) {
