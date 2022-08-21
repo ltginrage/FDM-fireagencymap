@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', (e) => {
 	
 	var markers = L.markermarkerClusterGroup();
 	
-	fetch("data.geojson").then(res => res.json()).then(data => {
+	fetch("data.json").then(res => res.json()).then(data => {
 		for(point of data) {
 			markers.addLayer(L.marker([point.lat,point.long]).bindPopup(point.desc));
 		}
