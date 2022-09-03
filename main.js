@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', (e) => {
-	var map = L.map('map').setView([41.79, -88.94], 3);
+	var map = L.map('map').setView([40.05, -89.18], 7);
 	L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 		maxZoom: 19,
 		attribution: '&copy; <a href="https://openstreetmap.org/copyright">OpenStreetMap contributors</a>'
@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', (e) => {
 	
 	// Add points
 	
-	var markers = L.markermarkerClusterGroup();
+	var markers = L.markerClusterGroup();
 	
 	fetch("data.json").then(res => res.json()).then(data => {
 		for(point of data) {
